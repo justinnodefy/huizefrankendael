@@ -1,0 +1,4145 @@
+{
+ "trailingSlash": true,
+ "redirects": [
+  {
+   "source": "/en/about/about-huize-frankendael",
+   "destination": "/en/about/",
+   "permanent": true
+  },
+  {
+   "source": "/en/about/about-huize-frankendael/",
+   "destination": "/en/about/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/crisis3-02-2",
+   "destination": "/en/art/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/crisis3-02-2/",
+   "destination": "/en/art/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/general",
+   "destination": "/en/art/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/general/",
+   "destination": "/en/art/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/photos-art",
+   "destination": "/en/photos/#kunst",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/photos-art/",
+   "destination": "/en/photos/#kunst",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/sony-dsc-32",
+   "destination": "/en/art/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/sony-dsc-32/",
+   "destination": "/en/art/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/visiting/image004-5",
+   "destination": "/en/art/visiting/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/visiting/image004-5/",
+   "destination": "/en/art/visiting/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/visiting/thumb-1-php-html",
+   "destination": "/en/art/visiting/",
+   "permanent": true
+  },
+  {
+   "source": "/en/art/visiting/thumb-1-php-html/",
+   "destination": "/en/art/visiting/",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/general",
+   "destination": "/en/business/",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/general/",
+   "destination": "/en/business/",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/boardroom",
+   "destination": "/en/business/rooms/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/boardroom/",
+   "destination": "/en/business/rooms/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/coach-house",
+   "destination": "/en/business/rooms/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/coach-house/",
+   "destination": "/en/business/rooms/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/garden-room",
+   "destination": "/en/business/rooms/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/garden-room/",
+   "destination": "/en/business/rooms/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/salons",
+   "destination": "/en/business/rooms/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/en/business/rooms/salons/",
+   "destination": "/en/business/rooms/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/general",
+   "destination": "/en/festivities/",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/general/",
+   "destination": "/en/festivities/",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/rooms/coach-house",
+   "destination": "/en/festivities/rooms/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/rooms/coach-house/",
+   "destination": "/en/festivities/rooms/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/rooms/formal-garden",
+   "destination": "/en/festivities/rooms/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/rooms/formal-garden/",
+   "destination": "/en/festivities/rooms/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/rooms/salons",
+   "destination": "/en/festivities/rooms/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/rooms/salons/",
+   "destination": "/en/festivities/rooms/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/wedding/abf090829_0185-2",
+   "destination": "/en/festivities/wedding/",
+   "permanent": true
+  },
+  {
+   "source": "/en/festivities/wedding/abf090829_0185-2/",
+   "destination": "/en/festivities/wedding/",
+   "permanent": true
+  },
+  {
+   "source": "/en/home",
+   "destination": "/en/",
+   "permanent": true
+  },
+  {
+   "source": "/en/home/",
+   "destination": "/en/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/harpersbazaarkoelers-met-cremant-de-die",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/harpersbazaarkoelers-met-cremant-de-die/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/img-0720",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/img-0720/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/img-0742",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/img-0742/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/img-0747",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/img-0747/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-fr4-preset",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-fr4-preset/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-fr4-preset-2",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-fr4-preset-2/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-ku1-preset",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-ku1-preset/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-ku1-preset-2",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/processed-with-vsco-with-ku1-preset-2/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/salonsalon",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/salonsalon/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/wedding-amber-_-simon-by-nienke-van-denderen-photography-134",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/photos/wedding-amber-_-simon-by-nienke-van-denderen-photography-134/",
+   "destination": "/en/photos/",
+   "permanent": true
+  },
+  {
+   "source": "/en/restaurant",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/en/restaurant/",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/en/restaurant/merkelbach",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/en/restaurant/merkelbach/",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/13925031_1193350137379095_635272179268884084_n",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/13925031_1193350137379095_635272179268884084_n/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/542132_386635468049566_1644136547_n",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/542132_386635468049566_1644136547_n/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/150519-wd-aardbeienproeverij_02",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/150519-wd-aardbeienproeverij_02/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/4-facebook_header851px",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/4-facebook_header851px/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/5-facebook_tijdlijnafbeelding1200px",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/5-facebook_tijdlijnafbeelding1200px/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/frankendael-uitnodiging-def2",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/frankendael-uitnodiging-def2/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/kvdk-a2-defkopieweb",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/kvdk-a2-defkopieweb/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-2",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-2/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-2-2",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-2-2/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-3",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-3/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-3-2",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/logo-aaw2016-3-2/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/nieuwsbrief",
+   "destination": "/nl/nieuwsbrief/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/nieuwsbrief/",
+   "destination": "/nl/nieuwsbrief/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/paul-schuitema-zelfportret-1929",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/paul-schuitema-zelfportret-1929/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/paul-schuitema-zelfportret-1929-2",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/paul-schuitema-zelfportret-1929-2/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/sony-dsc-25",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/sony-dsc-25/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/tuin-bloesem-bar1408",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/tuin-bloesem-bar1408/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/website-8-1500x2254",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/website-8-1500x2254/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/website-8-390x586",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/agenda/website-8-390x586/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/dsc_0080",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/dsc_0080/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/f6bannerafk3",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/f6bannerafk3/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/algemeen",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/algemeen/",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/algemeen/bruiloft-carienkrijn-305-web",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/algemeen/bruiloft-carienkrijn-305-web/",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/algemeen/receptie-koetshuis-joostweddepohl",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/algemeen/receptie-koetshuis-joostweddepohl/",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/lisas-nokia-lumia-800_001540",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/lisas-nokia-lumia-800_001540/",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/feestelijk-oude-keuken",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/feestelijk-oude-keuken/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/foto-trap-huize-frankendael",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/foto-trap-huize-frankendael/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/img_7543",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/img_7543/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/img_7546",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/img_7546/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/img_7557",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/img_7557/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis",
+   "destination": "/nl/feestelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis/",
+   "destination": "/nl/feestelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis-diner-open-deuren-joostweddepohl",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis-diner-open-deuren-joostweddepohl/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis-disco-licht-melissamilis",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis-disco-licht-melissamilis/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis/koetshuis-diner-detail-2-plumtreewedding",
+   "destination": "/nl/feestelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/koetshuis/koetshuis-diner-detail-2-plumtreewedding/",
+   "destination": "/nl/feestelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/merkelbach_bar9361",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/merkelbach_bar9361/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/oude-keuken-5",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/oude-keuken-5/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/receptie-koetshuis-joostweddepohl-2",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/receptie-koetshuis-joostweddepohl-2/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/abf090829_0185",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/abf090829_0185/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/bruiloft-grote-salon-melissamillis",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/bruiloft-grote-salon-melissamillis/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/diner-grote-salon-melissamillis",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/diner-grote-salon-melissamillis/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-gedekt",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-gedekt/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-gedekte-tafels-bar9418",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-gedekte-tafels-bar9418/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-ronde-tafels-bar9407",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-ronde-tafels-bar9407/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-tafeldekken",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/grote-salon-tafeldekken/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/huize-franckendael",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/huize-franckendael/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/salon-trouwopstelling",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/salon-trouwopstelling/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/salons-trouwopstelling-2",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/salons-trouwopstelling-2/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/zw-diner-grote-salon-melissamilis",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/salons/zw-diner-grote-salon-melissamilis/",
+   "destination": "/nl/feestelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/bloemdetail-joostweddepohl",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/bloemdetail-joostweddepohl/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/buiten-diner-personen-isiweddings",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/buiten-diner-personen-isiweddings/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/feest-buiten-joostweddepohl",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/feest-buiten-joostweddepohl/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/groene-tuin-achterzijde-huis-isiweddings",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/groene-tuin-achterzijde-huis-isiweddings/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/sony-dsc-8",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/sony-dsc-8/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/tuin-bar1402",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/tuin-bar1402/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/tuin-gedekte-tafel-isiweddings",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/tuin-gedekte-tafel-isiweddings/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/tuindetail-joostweddepohl",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/stijltuin/tuindetail-joostweddepohl/",
+   "destination": "/nl/feestelijk/ruimtes/#stijltuin",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/zomerdiner-koetshuis-joostweddepohl",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/ruimtes/zomerdiner-koetshuis-joostweddepohl/",
+   "destination": "/nl/feestelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/trouwen/bruiloftpieter-janenmarloes105",
+   "destination": "/nl/feestelijk/trouwen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/trouwen/bruiloftpieter-janenmarloes105/",
+   "destination": "/nl/feestelijk/trouwen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/trouwen/receptie-tuin-vanaf-boven",
+   "destination": "/nl/feestelijk/trouwen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/feestelijk/trouwen/receptie-tuin-vanaf-boven/",
+   "destination": "/nl/feestelijk/trouwen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/038-683x1024",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/038-683x1024/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/0909_l6r0722-jpg",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/0909_l6r0722-jpg/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/193-sjoerdbooijphotography-wedding-marijke-dick",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/193-sjoerdbooijphotography-wedding-marijke-dick/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/194532-11537032-190_jpg1",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/194532-11537032-190_jpg1/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/194532-11537036-193_jpg1",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/194532-11537036-193_jpg1/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/abf090829_0336-2",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/abf090829_0336-2/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/achteraanzicht-sneeuw",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/achteraanzicht-sneeuw/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bordesfoto",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bordesfoto/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bovenaanzicht-tuin-4",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bovenaanzicht-tuin-4/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bovenaanzicht-tuin-5",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bovenaanzicht-tuin-5/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruidsfotografie-huize-frankendael-amsterdam-020",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruidsfotografie-huize-frankendael-amsterdam-020/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruidsfotografie-huize-frankendael-amsterdam-095",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruidsfotografie-huize-frankendael-amsterdam-095/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruidsfotografie-huize-frankendael-amsterdam-123",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruidsfotografie-huize-frankendael-amsterdam-123/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruiloftpieter-janenmarloes174",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/bruiloftpieter-janenmarloes174/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1378-low_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1378-low_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1382-low_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1382-low_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1400-low_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1400-low_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1498-low_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1498-low_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1504-low_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1504-low_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1510-low_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1510-low_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1537-hdr_huizefrankendael",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/cvc_img_1537-hdr_huizefrankendael/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/diner-grote-salon-melissamillis-2",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/diner-grote-salon-melissamillis-2/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/grote-salon-theater",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/grote-salon-theater/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/huize-frankendael-zomer",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/huize-frankendael-zomer/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/img_0627",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/img_0627/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-bar9354",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-bar9354/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-diner",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-diner/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-diner-3",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-diner-3/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-diner-detail-2-plumtreewedding-2",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-diner-detail-2-plumtreewedding-2/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-dinerbar9362",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/koetshuis-dinerbar9362/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/luchtfoto-huis-en-tuin",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/luchtfoto-huis-en-tuin/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/receptie-voor-koetshuis",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/receptie-voor-koetshuis/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/rj28",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/rj28/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/sony-dsc-31",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/sony-dsc-31/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/tuin-2",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/tuin-2/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/tuinkamer-met-uitzicht-2",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/tuinkamer-met-uitzicht-2/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/u66b0575b-1",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/u66b0575b-1/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/vooraanzicht-zomer",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/vooraanzicht-zomer/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/wedding-marleen-jan-willem-123",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/wedding-marleen-jan-willem-123/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/zomerdiner-koetshuis-joostweddepohl-2",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/fotos/zomerdiner-koetshuis-joostweddepohl-2/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/frankendael-2",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/frankendael-2/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/img_3882",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/img_3882/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/007_amish",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/007_amish/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/02-shared-experience-amsterdam",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/02-shared-experience-amsterdam/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/10262154_728777113836402_7374365921598646395_n",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/10262154_728777113836402_7374365921598646395_n/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/10733928_828789867168459_2411821154122716069_o",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/10733928_828789867168459_2411821154122716069_o/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/12027206_1035288803185230_7053615541300625792_o",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/12027206_1035288803185230_7053615541300625792_o/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/1239037_576582475722534_1345337007_n",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/1239037_576582475722534_1345337007_n/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/20130620_babanova_return_to_adriaport_professor_zlabek",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/20130620_babanova_return_to_adriaport_professor_zlabek/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/201312-uitnodiging-opening-stella-van-flavio-de-marco-en-kerst-in-huize-frankendael-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/201312-uitnodiging-opening-stella-van-flavio-de-marco-en-kerst-in-huize-frankendael-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/20140928_110506",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/20140928_110506/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/360217_635295962298312745_3602175763",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/360217_635295962298312745_3602175763/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/a0785b2caa4788f46e86cf2b5d7f12ab",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/a0785b2caa4788f46e86cf2b5d7f12ab/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/bas-peeters-2-foto-toos-uitvlugt",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/bas-peeters-2-foto-toos-uitvlugt/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/beeld-timm-rautert",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/beeld-timm-rautert/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/constant-fragment-van-een-sector",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/constant-fragment-van-een-sector/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/constant-torens",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/constant-torens/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/crisis3-02",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/crisis3-02/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/crisis3-15",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/crisis3-15/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-11",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-11/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-15",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-15/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-24",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-24/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-6",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-6/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-6-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-6-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-6-3",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-6-3/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-8",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dieuwke-spaans-en-nick-oberthaler-8/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dsc_6945",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dsc_6945/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dscf1850-version-2-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/dscf1850-version-2-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/foto-3-kopie",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/foto-3-kopie/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-foundation-amsterdam",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-foundation-amsterdam/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-foundation-amsterdam-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-foundation-amsterdam-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-foundation-amsterdam-3",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-foundation-amsterdam-3/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-neto",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-neto/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-rachel-sato-banks-12",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-rachel-sato-banks-12/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-rachel-sato-banks-12-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-rachel-sato-banks-12-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-rachel-sato-banks-4-klein",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-rachel-sato-banks-4-klein/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-urban-outsiders48",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/frankendael-urban-outsiders48/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/img_0072",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/img_0072/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/info-voor-web",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/info-voor-web/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/invitation-stella-amsterdam",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/invitation-stella-amsterdam/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/jan-schaper-lijnbaanjeug",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/jan-schaper-lijnbaanjeug/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/joyce-vlaming",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/joyce-vlaming/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/joyce_6613",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/joyce_6613/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/krien-en-jasmijn",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/krien-en-jasmijn/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/kunst-agenda",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/kunst-agenda/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/kunst-reserveren",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/kunst-reserveren/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/lisas-nokia-lumia-800_000712",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/lisas-nokia-lumia-800_000712/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/mailing",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/mailing/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/mappa-stella-mondo",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/mappa-stella-mondo/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/merkelbach_bar8450-version-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/merkelbach_bar8450-version-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/o",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/o/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/acitiviteitenverslag-2015",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/acitiviteitenverslag-2015/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/activiteitenverslag-2015",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/activiteitenverslag-2015/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/culinair-restaurant-diner-eten-koken-stad-adressen-route-gerecht-bediening-food-culinary",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/culinair-restaurant-diner-eten-koken-stad-adressen-route-gerecht-bediening-food-culinary/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/frankendael008",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/frankendael008/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/jaarverslag-2015",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/jaarverslag-2015/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/sony-dsc-4",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/sony-dsc-4/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/stichting-huize-frankendael-jaarrekening-2015-signed3",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/stichting-huize-frankendael-jaarrekening-2015-signed3/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/website-18",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/over/website-18/",
+   "destination": "/nl/kunst/over/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/pers-mucus",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/pers-mucus/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/photo-can-not-be-used-without-permission-of-the-artist-8",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/photo-can-not-be-used-without-permission-of-the-artist-8/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-de-pleziertuin-voor-web",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-de-pleziertuin-voor-web/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-heimwee-soiree-a-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-heimwee-soiree-a-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-heimwee-soiree-webkwaliteit",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-heimwee-soiree-webkwaliteit/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-heimwee-soiree-webkwaliteit-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/poster-heimwee-soiree-webkwaliteit-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/schermafbeelding-2014-03-17-om-13-25-44",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/schermafbeelding-2014-03-17-om-13-25-44/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/screen-shot-2013-11-26-at-11-36-38-am",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/screen-shot-2013-11-26-at-11-36-38-am/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/screen-shot-2013-12-02-at-9-21-48-am",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/screen-shot-2013-12-02-at-9-21-48-am/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/screen-shot-2013-12-02-at-9-21-48-am-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/screen-shot-2013-12-02-at-9-21-48-am-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sel-_1030357-klein",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sel-_1030357-klein/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-10",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-10/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-11",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-11/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-12",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-12/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-13",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-13/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-14",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-14/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-15",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-15/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-16",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-16/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-17",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-17/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-18",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-18/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-20",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-20/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-22",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-22/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-23",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-23/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-27",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-27/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-3",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-3/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-30",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-30/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-5",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-5/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-6",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-6/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-7",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/sony-dsc-7/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tataarse-koepel-sweedenrijck-middenweg",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tataarse-koepel-sweedenrijck-middenweg/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/101112-2",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/101112-2/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/101112-2/robinwaart",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/101112-2/robinwaart/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/aernoud-bourdrez",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/aernoud-bourdrez/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/aernoud-bourdrez/claudia-crobatia",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/aernoud-bourdrez/claudia-crobatia/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/een-dwaze-zomer-op-frankendael",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/een-dwaze-zomer-op-frankendael/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/een-dwaze-zomer-op-frankendael/dwazezomer",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/een-dwaze-zomer-op-frankendael/dwazezomer/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/eerder",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/eerder/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/exhibitionwctn",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/exhibitionwctn/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/exhibitionwctn/screen-shot-2018-04-05-at-18-13-18",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/exhibitionwctn/screen-shot-2018-04-05-at-18-13-18/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/exhibitionwctn/wctncookingpot",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/exhibitionwctn/wctncookingpot/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/filmprogramma-journey-third-land",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/filmprogramma-journey-third-land/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/filmprogramma-journey-third-land/derdelandd",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/filmprogramma-journey-third-land/derdelandd/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/flip-bool",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/flip-bool/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/green-brasil-festival",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/green-brasil-festival/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/green-brasil-festival/brazil",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/green-brasil-festival/brazil/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/dwe-kvl-fbbanner-event",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/dwe-kvl-fbbanner-event/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/how-to-kill-a-tree-a3-def-back",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/how-to-kill-a-tree-a3-def-back/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/how-to-kill-a-tree-a3-def-front",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/how-to-kill-a-tree-a3-def-front/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/img_3746",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/how-to-kill-a-tree/img_3746/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/iridescence-festival-choices-2014",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/iridescence-festival-choices-2014/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/iridescence-festival-choices-2014/iridiscence",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/iridescence-festival-choices-2014/iridiscence/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/iridescence-festival-choices-2014/joycevlaming",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/iridescence-festival-choices-2014/joycevlaming/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/karen-yasinsky",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/karen-yasinsky/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/living-videokunst-uit-het-stedelijk",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/living-videokunst-uit-het-stedelijk/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/living-videokunst-uit-het-stedelijk/living",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/living-videokunst-uit-het-stedelijk/living/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/maakbare-natuur",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/maakbare-natuur/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/maakbare-natuur/img_0072-2",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/maakbare-natuur/img_0072-2/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/melanie-bosboom",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/melanie-bosboom/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/mijn-derde-land",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/mijn-derde-land/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/mijn-derde-land/derdeland",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/mijn-derde-land/derdeland/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2014",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2014/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2014/10553673_828789900501789_1438352007319449009_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2014/10553673_828789900501789_1438352007319449009_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15003335_1277485332298908_3656884708509903378_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15003335_1277485332298908_3656884708509903378_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15016298_1277484858965622_6940880688461400870_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15016298_1277484858965622_6940880688461400870_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15025679_1277485125632262_4979939102928251685_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15025679_1277485125632262_4979939102928251685_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15068282_1277484922298949_5777742648236305697_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15068282_1277484922298949_5777742648236305697_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15068539_1277485025632272_1468830737511822378_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15068539_1277485025632272_1468830737511822378_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15068539_1277485025632272_1468830737511822378_o-2",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15068539_1277485025632272_1468830737511822378_o-2/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15129087_1277484692298972_7648122862701234884_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2016/15129087_1277484692298972_7648122862701234884_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23275589_1626392560741515_7661335730865186873_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23275589_1626392560741515_7661335730865186873_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23275724_1626406964073408_5812505207147354130_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23275724_1626406964073408_5812505207147354130_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23331228_1626397837407654_5127012710966621049_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23331228_1626397837407654_5127012710966621049_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23406041_1626408720739899_5688901779592677679_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2017/23406041_1626408720739899_5688901779592677679_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/44990999_2036367016410732_8314652343949852672_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/44990999_2036367016410732_8314652343949852672_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/ganzfeld",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/ganzfeld/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/gleemaiden_bw",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/gleemaiden_bw/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/gleemaiden_bw-2",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/gleemaiden_bw-2/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/museumnacht-1",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/museumnacht-1/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/museumnacht-3",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/museumnacht-3/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/muzieknacht-x-huize-frankendael-003-voor-social",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/muzieknacht-x-huize-frankendael-003-voor-social/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/nachthap-merkelbach",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/nachthap-merkelbach/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/screenshot-2018-10-29-at-10-35-19",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/screenshot-2018-10-29-at-10-35-19/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nederlandse-fotografie-uit-de-collectie-van-hans-kemna",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nederlandse-fotografie-uit-de-collectie-van-hans-kemna/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nederlandse-fotografie-uit-de-collectie-van-hans-kemna/elsken",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nederlandse-fotografie-uit-de-collectie-van-hans-kemna/elsken/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nel-aerts",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nel-aerts/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nel-aerts/sony-dsc-33",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/nel-aerts/sony-dsc-33/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/notations-joanneke-meester-en-jennifer-townley",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/notations-joanneke-meester-en-jennifer-townley/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/notations-joanneke-meester-en-jennifer-townley/townley",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/notations-joanneke-meester-en-jennifer-townley/townley/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-2",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-2/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-2/crisis2",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-2/crisis2/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-3-leven-voorbij-de-crisis",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-3-leven-voorbij-de-crisis/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-3-leven-voorbij-de-crisis/ohcrisis",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis-3-leven-voorbij-de-crisis/ohcrisis/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis/crisis1",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/oh-crisis/crisis1/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/parklicht",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/parklicht/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/parklicht/parklicht",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/parklicht/parklicht/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/poezie-de-salon",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/poezie-de-salon/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/poezie-de-salon/13131721_1131669036880539_2578888160837102206_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/poezie-de-salon/13131721_1131669036880539_2578888160837102206_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/polderlichthome",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/polderlichthome/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/polderlichthome/homepolderlicht",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/polderlichthome/homepolderlicht/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/porocity",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/porocity/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/porocity/beeld-porocity",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/porocity/beeld-porocity/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/paa-press-image",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/paa-press-image/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/paa-social-profiel",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/paa-social-profiel/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/paa2018_twitter",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/paa2018_twitter/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/rien-renema",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/rien-renema/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/rien-renema/10498641_893269927386115_8691179932759806531_o",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/rien-renema/10498641_893269927386115_8691179932759806531_o/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-anniversee",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-anniversee/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-anniversee/vijf",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-anniversee/vijf/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-april-2014",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-april-2014/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-april-2014/soiree",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/soiree-april-2014/soiree/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/stella",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/stella/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/stella/stella",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/stella/stella/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-image-of-a-private-collection",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-image-of-a-private-collection/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-image-of-a-private-collection/elpeth-diederix-fire-still-life-2004",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-image-of-a-private-collection/elpeth-diederix-fire-still-life-2004/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-keys",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-keys/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-keys/keys",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-keys/keys/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-smooth-and-the-striated",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-smooth-and-the-striated/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-smooth-and-the-striated/smoothstriated",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/the-smooth-and-the-striated/smoothstriated/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/urban-outsiders",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/urban-outsiders/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/urban-outsiders/urbanoutsiders",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/urban-outsiders/urbanoutsiders/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vacature-rondleiders-en-suppoosten",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vacature-rondleiders-en-suppoosten/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vacature-rondleiders-en-suppoosten/vacature",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vacature-rondleiders-en-suppoosten/vacature/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vedro-lolanda",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vedro-lolanda/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vedro-lolanda/vedrololalanda",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/vedro-lolanda/vedrololalanda/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/waar-je-bent",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/waar-je-bent/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/waar-je-bent/alleenbeeldddw-998x1024",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/waar-je-bent/alleenbeeldddw-998x1024/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/walls-speak-fotografie-uit-de-ing-collectieaugustus",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/walls-speak-fotografie-uit-de-ing-collectieaugustus/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/walls-speak-fotografie-uit-de-ing-collectieaugustus/ing",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/walls-speak-fotografie-uit-de-ing-collectieaugustus/ing/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wenn-wir-dich-nicht-sehen-sehst-du-uns-auch-nicht",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wenn-wir-dich-nicht-sehen-sehst-du-uns-auch-nicht/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wenn-wir-dich-nicht-sehen-sehst-du-uns-auch-nicht/lugt",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wenn-wir-dich-nicht-sehen-sehst-du-uns-auch-nicht/lugt/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect-raft",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect-raft/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect-raft/frankendael-opening-wild-care-tame-neglect-06-hires",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect-raft/frankendael-opening-wild-care-tame-neglect-06-hires/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect-raft/wildtame_ect_raft02",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect-raft/wildtame_ect_raft02/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect/hut",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/wild-care-tame-neglect/hut/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-collectors-salon",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/beeld-event-18-oktober",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/beeld-event-18-oktober/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-talented-emma-van-drongelen",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-talented-emma-van-drongelen/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-talented-emma-van-drongelen/drongelen",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/young-talented-emma-van-drongelen/drongelen/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/youngandtalented",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/youngandtalented/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/youngandtalented/sjoerd",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/eerder/youngandtalented/sjoerd/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/nu",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/nu/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/nu/momenteel-hebben-wij-geen-tentoonstelling-in-huis",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/nu/momenteel-hebben-wij-geen-tentoonstelling-in-huis/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/verwacht",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tentoonstellingen/verwacht/",
+   "destination": "/nl/kunst/tentoonstellingen/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/the-living-werk-van-peter-bogers",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/the-living-werk-van-peter-bogers/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/timm-rautert-2",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/timm-rautert-2/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tulio-pinto-30-maart-2014",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tulio-pinto-30-maart-2014/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tumblr_ms57nbzu051r2ww71o7_r2_1280-png",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/tumblr_ms57nbzu051r2ww71o7_r2_1280-png/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/uburoi21",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/uburoi21/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/untitled-2011-new-whites",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/untitled-2011-new-whites/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/website-12",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/website-12/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/website-3",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/website-3/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/website-4",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/kunst/website-4/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/logo-aaw2016-21",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/logo-aaw2016-21/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/merkelbach-2",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/merkelbach-2/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/merkelbach-3",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/merkelbach-3/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/merkelbach_bar1484",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/merkelbach_bar1484/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/nieuwsbrief/nieuwsbrief-2",
+   "destination": "/nl/nieuwsbrief/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/nieuwsbrief/nieuwsbrief-2/",
+   "destination": "/nl/nieuwsbrief/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/geschiedenis-huize-frankendael/gildemeesters",
+   "destination": "/nl/over/geschiedenis-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/geschiedenis-huize-frankendael/gildemeesters/",
+   "destination": "/nl/over/geschiedenis-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/11-maart-gemeente-amsterdam",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/11-maart-gemeente-amsterdam/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/functieomschrijving-chef-kok",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/functieomschrijving-chef-kok/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/koetshuis-diner-4",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/koetshuis-diner-4/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/vacature-bedieningsmedewerker",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/vacature-bedieningsmedewerker/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/vacature-stagiaire-huize-frankendael",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/over/werken-bij-huize-frankendael/vacature-stagiaire-huize-frankendael/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/restaurant",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/restaurant/",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/restaurant-private",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/restaurant-private/",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/restaurant/merkelbach",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/restaurant/merkelbach/",
+   "destination": "https://restaurantmerkelbach.nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/dieuwke-spaans",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/dieuwke-spaans/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/fb-en-website-tommy-ebben-copy",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/fb-en-website-tommy-ebben-copy/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/home-augustus",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/home-augustus/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/huize-frankendael-4",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/huize-frankendael-4/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/md-snijder63285",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/md-snijder63285/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/merkelbach-november-2012",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/merkelbach-november-2012/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/schermafbeelding-2016-05-02-om-00-26-06",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/schermafbeelding-2016-05-02-om-00-26-06/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/schermafbeelding-2016-05-02-om-00-26-17",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/schermafbeelding-2016-05-02-om-00-26-17/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/schermafbeelding-2019-07-10-om-11-21-52",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/schermafbeelding-2019-07-10-om-11-21-52/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/vacature-projectleider_frankendael-2",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/vacature-projectleider_frankendael-2/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/vacature-projectleider_frankendael-3",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/vacature-projectleider_frankendael-3/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/vooraanzicht-lente-2",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/thuis/vooraanzicht-lente-2/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/uitnodiging-31-mei-folly",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/uitnodiging-31-mei-folly/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/untitled_artwork",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/untitled_artwork/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/vacature-chef-de-parti-2",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/vacature-chef-de-parti-2/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/vacature-projectleider_frankendael",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/vacature-projectleider_frankendael/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/vacature-restaurant-manager",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/vacature-restaurant-manager/",
+   "destination": "/nl/over/werken-bij-huize-frankendael/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/wp_001264",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/wp_001264/",
+   "destination": "/nl/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/algemeen",
+   "destination": "/nl/zakelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/algemeen/",
+   "destination": "/nl/zakelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/boardroom-1",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/boardroom-1/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/boardroom-detail",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/boardroom-detail/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/boardroom-detail-1",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/boardroom-detail-1/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/img_0624",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/img_0624/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/img_3271",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/img_3271/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/lw-asperges",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/boardroom/lw-asperges/",
+   "destination": "/nl/zakelijk/ruimtes/#boardroom",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/grote-salon-gedekte-tafels-bar9418-2",
+   "destination": "/nl/zakelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/grote-salon-gedekte-tafels-bar9418-2/",
+   "destination": "/nl/zakelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/abf090829_0336",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/abf090829_0336/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/koetshuis-19",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/koetshuis-19/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/koetshuis-22",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/koetshuis-22/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/koetshuis-4",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/koetshuis-4/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/merkelbach_bar9362",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/merkelbach_bar9362/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/sony-dsc-9",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/koetshuis/sony-dsc-9/",
+   "destination": "/nl/zakelijk/ruimtes/#koetshuis",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/oude-keuken-gedekt",
+   "destination": "/nl/zakelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/oude-keuken-gedekt/",
+   "destination": "/nl/zakelijk/ruimtes/",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/salons",
+   "destination": "/nl/zakelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/salons/",
+   "destination": "/nl/zakelijk/ruimtes/#salons",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/entree",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/entree/",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/entree-2",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/entree-2/",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/kleine-boardroom-1",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/kleine-boardroom-1/",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/tuinkamer-met-uitzicht",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/nl/zakelijk/ruimtes/tuinkamer/tuinkamer-met-uitzicht/",
+   "destination": "/nl/zakelijk/ruimtes/#tuinkamer",
+   "permanent": true
+  },
+  {
+   "source": "/contact",
+   "destination": "/nl/thuis/contact/",
+   "permanent": true
+  },
+  {
+   "source": "/contact/",
+   "destination": "/nl/thuis/contact/",
+   "permanent": true
+  },
+  {
+   "source": "/trouwen",
+   "destination": "/nl/feestelijk/trouwen/",
+   "permanent": true
+  },
+  {
+   "source": "/trouwen/",
+   "destination": "/nl/feestelijk/trouwen/",
+   "permanent": true
+  },
+  {
+   "source": "/fotos",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/fotos/",
+   "destination": "/nl/fotos/",
+   "permanent": true
+  },
+  {
+   "source": "/agenda",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/agenda/",
+   "destination": "/nl/agenda/",
+   "permanent": true
+  },
+  {
+   "source": "/english",
+   "destination": "/en/",
+   "permanent": true
+  },
+  {
+   "source": "/english/",
+   "destination": "/en/",
+   "permanent": true
+  },
+  {
+   "source": "/kunst",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/kunst/",
+   "destination": "/nl/kunst/",
+   "permanent": true
+  },
+  {
+   "source": "/zakelijk",
+   "destination": "/nl/zakelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/zakelijk/",
+   "destination": "/nl/zakelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/feestelijk",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  },
+  {
+   "source": "/feestelijk/",
+   "destination": "/nl/feestelijk/",
+   "permanent": true
+  }
+ ]
+}
