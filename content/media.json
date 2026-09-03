@@ -1,0 +1,3704 @@
+{
+ "038-683x1024": {
+  "height": 1024,
+  "master": "038-683x1024.jpg",
+  "variants": [
+   {
+    "file": "038-683x1024-480.webp",
+    "h": 720,
+    "kb": 115.7,
+    "w": 480
+   }
+  ],
+  "width": 683
+ },
+ "10262154-728777113836402-7374365921598646395-n": {
+  "height": 639,
+  "master": "10262154_728777113836402_7374365921598646395_n.jpg",
+  "variants": [
+   {
+    "file": "10262154-728777113836402-7374365921598646395-n-480.webp",
+    "h": 320,
+    "kb": 11.2,
+    "w": 480
+   },
+   {
+    "file": "10262154-728777113836402-7374365921598646395-n-800.webp",
+    "h": 532,
+    "kb": 18.7,
+    "w": 800
+   }
+  ],
+  "width": 960
+ },
+ "10733928-828789867168459-2411821154122716069-o": {
+  "height": 1364,
+  "master": "10733928_828789867168459_2411821154122716069_o.jpg",
+  "variants": [
+   {
+    "file": "10733928-828789867168459-2411821154122716069-o-480.webp",
+    "h": 320,
+    "kb": 24.0,
+    "w": 480
+   },
+   {
+    "file": "10733928-828789867168459-2411821154122716069-o-800.webp",
+    "h": 533,
+    "kb": 50.5,
+    "w": 800
+   },
+   {
+    "file": "10733928-828789867168459-2411821154122716069-o-1200.webp",
+    "h": 799,
+    "kb": 72.2,
+    "w": 1200
+   },
+   {
+    "file": "10733928-828789867168459-2411821154122716069-o-1600.webp",
+    "h": 1066,
+    "kb": 104.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "12027206-1035288803185230-7053615541300625792-o": {
+  "height": 1333,
+  "master": "12027206_1035288803185230_7053615541300625792_o.jpg",
+  "variants": [
+   {
+    "file": "12027206-1035288803185230-7053615541300625792-o-480.webp",
+    "h": 320,
+    "kb": 44.1,
+    "w": 480
+   },
+   {
+    "file": "12027206-1035288803185230-7053615541300625792-o-800.webp",
+    "h": 533,
+    "kb": 93.2,
+    "w": 800
+   },
+   {
+    "file": "12027206-1035288803185230-7053615541300625792-o-1200.webp",
+    "h": 800,
+    "kb": 137.8,
+    "w": 1200
+   },
+   {
+    "file": "12027206-1035288803185230-7053615541300625792-o-1600.webp",
+    "h": 1066,
+    "kb": 190.4,
+    "w": 1600
+   }
+  ],
+  "width": 2000
+ },
+ "1239037-576582475722534-1345337007-n": {
+  "height": 721,
+  "master": "1239037_576582475722534_1345337007_n.jpg",
+  "variants": [
+   {
+    "file": "1239037-576582475722534-1345337007-n-480.webp",
+    "h": 360,
+    "kb": 35.5,
+    "w": 480
+   },
+   {
+    "file": "1239037-576582475722534-1345337007-n-800.webp",
+    "h": 601,
+    "kb": 78.0,
+    "w": 800
+   }
+  ],
+  "width": 960
+ },
+ "128f3d78-8729-496c-bc73-0dbb07e7f11a-1": {
+  "height": 2048,
+  "master": "128F3D78-8729-496C-BC73-0DBB07E7F11A-1.jpg",
+  "variants": [
+   {
+    "file": "128f3d78-8729-496c-bc73-0dbb07e7f11a-1-480.webp",
+    "h": 640,
+    "kb": 35.1,
+    "w": 480
+   },
+   {
+    "file": "128f3d78-8729-496c-bc73-0dbb07e7f11a-1-800.webp",
+    "h": 1067,
+    "kb": 88.6,
+    "w": 800
+   },
+   {
+    "file": "128f3d78-8729-496c-bc73-0dbb07e7f11a-1-1200.webp",
+    "h": 1600,
+    "kb": 155.9,
+    "w": 1200
+   }
+  ],
+  "width": 1536
+ },
+ "13925031-1193350137379095-635272179268884084-n": {
+  "height": 315,
+  "master": "13925031_1193350137379095_635272179268884084_n.png",
+  "variants": [
+   {
+    "file": "13925031-1193350137379095-635272179268884084-n-480.webp",
+    "h": 178,
+    "kb": 30.3,
+    "w": 480
+   },
+   {
+    "file": "13925031-1193350137379095-635272179268884084-n-800.webp",
+    "h": 296,
+    "kb": 72.4,
+    "w": 800
+   }
+  ],
+  "width": 851
+ },
+ "194532-11537036-193-jpg1": {
+  "height": 1498,
+  "master": "194532-11537036-193_jpg1.jpg",
+  "variants": [
+   {
+    "file": "194532-11537036-193-jpg1-480.webp",
+    "h": 719,
+    "kb": 33.8,
+    "w": 480
+   },
+   {
+    "file": "194532-11537036-193-jpg1-800.webp",
+    "h": 1198,
+    "kb": 59.0,
+    "w": 800
+   }
+  ],
+  "width": 1000
+ },
+ "20130620-babanova-return-to-adriaport-professor-zlabek": {
+  "height": 797,
+  "master": "20130620_BABANOVA_Return_to_Adriaport_Professor_Zlabek.jpg",
+  "variants": [
+   {
+    "file": "20130620-babanova-return-to-adriaport-professor-zlabek-480.webp",
+    "h": 384,
+    "kb": 16.9,
+    "w": 480
+   },
+   {
+    "file": "20130620-babanova-return-to-adriaport-professor-zlabek-800.webp",
+    "h": 640,
+    "kb": 27.5,
+    "w": 800
+   }
+  ],
+  "width": 996
+ },
+ "5aa7fff9-748e-4ed7-9b24-23f267fdd014-1": {
+  "height": 2048,
+  "master": "5AA7FFF9-748E-4ED7-9B24-23F267FDD014-1.jpg",
+  "variants": [
+   {
+    "file": "5aa7fff9-748e-4ed7-9b24-23f267fdd014-1-480.webp",
+    "h": 640,
+    "kb": 87.9,
+    "w": 480
+   },
+   {
+    "file": "5aa7fff9-748e-4ed7-9b24-23f267fdd014-1-800.webp",
+    "h": 1067,
+    "kb": 216.7,
+    "w": 800
+   },
+   {
+    "file": "5aa7fff9-748e-4ed7-9b24-23f267fdd014-1-1200.webp",
+    "h": 1600,
+    "kb": 359.8,
+    "w": 1200
+   }
+  ],
+  "width": 1536
+ },
+ "abf090829-0185": {
+  "height": 1363,
+  "master": "ABF090829_0185.jpg",
+  "variants": [
+   {
+    "file": "abf090829-0185-480.webp",
+    "h": 319,
+    "kb": 29.5,
+    "w": 480
+   },
+   {
+    "file": "abf090829-0185-800.webp",
+    "h": 532,
+    "kb": 59.1,
+    "w": 800
+   },
+   {
+    "file": "abf090829-0185-1200.webp",
+    "h": 799,
+    "kb": 85.2,
+    "w": 1200
+   },
+   {
+    "file": "abf090829-0185-1600.webp",
+    "h": 1065,
+    "kb": 119.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "abf090829-0336": {
+  "height": 1363,
+  "master": "ABF090829_0336.jpg",
+  "variants": [
+   {
+    "file": "abf090829-0336-480.webp",
+    "h": 319,
+    "kb": 40.1,
+    "w": 480
+   },
+   {
+    "file": "abf090829-0336-800.webp",
+    "h": 532,
+    "kb": 80.9,
+    "w": 800
+   },
+   {
+    "file": "abf090829-0336-1200.webp",
+    "h": 799,
+    "kb": 116.8,
+    "w": 1200
+   },
+   {
+    "file": "abf090829-0336-1600.webp",
+    "h": 1065,
+    "kb": 160.1,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "achteraanzicht-huis-2": {
+  "height": 1371,
+  "master": "Achteraanzicht-huis-2.jpg",
+  "variants": [
+   {
+    "file": "achteraanzicht-huis-2-480.webp",
+    "h": 321,
+    "kb": 29.2,
+    "w": 480
+   },
+   {
+    "file": "achteraanzicht-huis-2-800.webp",
+    "h": 536,
+    "kb": 72.7,
+    "w": 800
+   },
+   {
+    "file": "achteraanzicht-huis-2-1200.webp",
+    "h": 803,
+    "kb": 121.1,
+    "w": 1200
+   },
+   {
+    "file": "achteraanzicht-huis-2-1600.webp",
+    "h": 1071,
+    "kb": 184.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "achteraanzicht-sneeuw": {
+  "height": 1520,
+  "master": "Achteraanzicht-sneeuw.jpg",
+  "variants": [
+   {
+    "file": "achteraanzicht-sneeuw-480.webp",
+    "h": 356,
+    "kb": 25.1,
+    "w": 480
+   },
+   {
+    "file": "achteraanzicht-sneeuw-800.webp",
+    "h": 594,
+    "kb": 56.4,
+    "w": 800
+   },
+   {
+    "file": "achteraanzicht-sneeuw-1200.webp",
+    "h": 891,
+    "kb": 85.9,
+    "w": 1200
+   },
+   {
+    "file": "achteraanzicht-sneeuw-1600.webp",
+    "h": 1188,
+    "kb": 126.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "algemeen-routeparkeren": {
+  "height": 1000,
+  "master": "algemeen-routeparkeren.jpg",
+  "variants": [
+   {
+    "file": "algemeen-routeparkeren-480.webp",
+    "h": 320,
+    "kb": 35.0,
+    "w": 480
+   },
+   {
+    "file": "algemeen-routeparkeren-800.webp",
+    "h": 533,
+    "kb": 84.3,
+    "w": 800
+   },
+   {
+    "file": "algemeen-routeparkeren-1200.webp",
+    "h": 800,
+    "kb": 140.3,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "bas-peeters-2-foto-toos-uitvlugt": {
+  "height": 683,
+  "master": "bas-peeters-2-foto-Toos-Uitvlugt.jpg",
+  "variants": [
+   {
+    "file": "bas-peeters-2-foto-toos-uitvlugt-480.webp",
+    "h": 320,
+    "kb": 14.2,
+    "w": 480
+   },
+   {
+    "file": "bas-peeters-2-foto-toos-uitvlugt-800.webp",
+    "h": 534,
+    "kb": 30.4,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ },
+ "beeld-event-18-oktober": {
+  "height": 540,
+  "master": "beeld-event-18-oktober.jpg",
+  "variants": [
+   {
+    "file": "beeld-event-18-oktober-480.webp",
+    "h": 270,
+    "kb": 14.9,
+    "w": 480
+   },
+   {
+    "file": "beeld-event-18-oktober-800.webp",
+    "h": 450,
+    "kb": 36.7,
+    "w": 800
+   }
+  ],
+  "width": 960
+ },
+ "boardroom-1": {
+  "height": 860,
+  "master": "Boardroom-1.jpg",
+  "variants": [
+   {
+    "file": "boardroom-1-480.webp",
+    "h": 275,
+    "kb": 7.6,
+    "w": 480
+   },
+   {
+    "file": "boardroom-1-800.webp",
+    "h": 459,
+    "kb": 14.5,
+    "w": 800
+   },
+   {
+    "file": "boardroom-1-1200.webp",
+    "h": 688,
+    "kb": 20.8,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "boardroom-detail": {
+  "height": 2659,
+  "master": "Boardroom-detail.jpg",
+  "variants": [
+   {
+    "file": "boardroom-detail-480.webp",
+    "h": 720,
+    "kb": 15.8,
+    "w": 480
+   },
+   {
+    "file": "boardroom-detail-800.webp",
+    "h": 1200,
+    "kb": 30.9,
+    "w": 800
+   },
+   {
+    "file": "boardroom-detail-1200.webp",
+    "h": 1801,
+    "kb": 47.4,
+    "w": 1200
+   },
+   {
+    "file": "boardroom-detail-1600.webp",
+    "h": 2401,
+    "kb": 75.2,
+    "w": 1600
+   }
+  ],
+  "width": 1772
+ },
+ "boardroom-detail-1": {
+  "height": 1000,
+  "master": "Boardroom-detail-1.jpg",
+  "variants": [
+   {
+    "file": "boardroom-detail-1-480.webp",
+    "h": 748,
+    "kb": 27.5,
+    "w": 480
+   }
+  ],
+  "width": 642
+ },
+ "boardroom-detail-6": {
+  "height": 2048,
+  "master": "Boardroom-detail-6.jpg",
+  "variants": [
+   {
+    "file": "boardroom-detail-6-480.webp",
+    "h": 720,
+    "kb": 15.7,
+    "w": 480
+   },
+   {
+    "file": "boardroom-detail-6-800.webp",
+    "h": 1200,
+    "kb": 30.3,
+    "w": 800
+   },
+   {
+    "file": "boardroom-detail-6-1200.webp",
+    "h": 1800,
+    "kb": 43.5,
+    "w": 1200
+   }
+  ],
+  "width": 1365
+ },
+ "bovenaanzicht-tuin-4": {
+  "height": 2048,
+  "master": "Bovenaanzicht-tuin-4.jpg",
+  "variants": [
+   {
+    "file": "bovenaanzicht-tuin-4-480.webp",
+    "h": 640,
+    "kb": 79.6,
+    "w": 480
+   },
+   {
+    "file": "bovenaanzicht-tuin-4-800.webp",
+    "h": 1067,
+    "kb": 205.3,
+    "w": 800
+   },
+   {
+    "file": "bovenaanzicht-tuin-4-1200.webp",
+    "h": 1600,
+    "kb": 348.5,
+    "w": 1200
+   }
+  ],
+  "width": 1536
+ },
+ "bovenaanzicht-tuin-5": {
+  "height": 2048,
+  "master": "Bovenaanzicht-tuin-5.jpg",
+  "variants": [
+   {
+    "file": "bovenaanzicht-tuin-5-480.webp",
+    "h": 720,
+    "kb": 100.1,
+    "w": 480
+   },
+   {
+    "file": "bovenaanzicht-tuin-5-800.webp",
+    "h": 1200,
+    "kb": 248.8,
+    "w": 800
+   },
+   {
+    "file": "bovenaanzicht-tuin-5-1200.webp",
+    "h": 1800,
+    "kb": 395.0,
+    "w": 1200
+   }
+  ],
+  "width": 1365
+ },
+ "bruiloft-carienkrijn-305-web": {
+  "height": 1365,
+  "master": "Bruiloft-CarienKrijn-305-web.jpg",
+  "variants": [
+   {
+    "file": "bruiloft-carienkrijn-305-web-480.webp",
+    "h": 320,
+    "kb": 50.6,
+    "w": 480
+   },
+   {
+    "file": "bruiloft-carienkrijn-305-web-800.webp",
+    "h": 533,
+    "kb": 114.3,
+    "w": 800
+   },
+   {
+    "file": "bruiloft-carienkrijn-305-web-1200.webp",
+    "h": 800,
+    "kb": 185.8,
+    "w": 1200
+   },
+   {
+    "file": "bruiloft-carienkrijn-305-web-1600.webp",
+    "h": 1066,
+    "kb": 280.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "bruiloft-grote-salon-melissamillis": {
+  "height": 675,
+  "master": "Bruiloft-grote-salon-melissamillis.jpg",
+  "variants": [
+   {
+    "file": "bruiloft-grote-salon-melissamillis-480.webp",
+    "h": 316,
+    "kb": 23.8,
+    "w": 480
+   },
+   {
+    "file": "bruiloft-grote-salon-melissamillis-800.webp",
+    "h": 527,
+    "kb": 47.8,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ },
+ "bruiloftpieter-janenmarloes105": {
+  "height": 640,
+  "master": "BruiloftPieter-JanenMarloes105.jpg",
+  "variants": [
+   {
+    "file": "bruiloftpieter-janenmarloes105-480.webp",
+    "h": 320,
+    "kb": 8.9,
+    "w": 480
+   },
+   {
+    "file": "bruiloftpieter-janenmarloes105-800.webp",
+    "h": 533,
+    "kb": 17.3,
+    "w": 800
+   }
+  ],
+  "width": 960
+ },
+ "buiten": {
+  "height": 600,
+  "master": "Buiten.jpg",
+  "variants": [
+   {
+    "file": "buiten-480.webp",
+    "h": 360,
+    "kb": 27.6,
+    "w": 480
+   },
+   {
+    "file": "buiten-800.webp",
+    "h": 600,
+    "kb": 54.5,
+    "w": 800
+   }
+  ],
+  "width": 800
+ },
+ "buiten-diner-personen-isiweddings": {
+  "height": 554,
+  "master": "buiten-diner-personen-isiweddings.jpg",
+  "variants": [
+   {
+    "file": "buiten-diner-personen-isiweddings-370.webp",
+    "h": 554,
+    "kb": 28.7,
+    "w": 370
+   }
+  ],
+  "width": 370
+ },
+ "crisis3-02": {
+  "height": 700,
+  "master": "crisis3-02.jpg",
+  "variants": [
+   {
+    "file": "crisis3-02-480.webp",
+    "h": 360,
+    "kb": 20.4,
+    "w": 480
+   },
+   {
+    "file": "crisis3-02-800.webp",
+    "h": 600,
+    "kb": 41.3,
+    "w": 800
+   }
+  ],
+  "width": 934
+ },
+ "crisis3-15": {
+  "height": 700,
+  "master": "crisis3-15.jpg",
+  "variants": [
+   {
+    "file": "crisis3-15-480.webp",
+    "h": 360,
+    "kb": 14.6,
+    "w": 480
+   },
+   {
+    "file": "crisis3-15-800.webp",
+    "h": 600,
+    "kb": 28.3,
+    "w": 800
+   }
+  ],
+  "width": 934
+ },
+ "cvc-img-1378-low-huizefrankendael": {
+  "height": 1365,
+  "master": "CVC_IMG_1378-LOW_HuizeFrankendael.jpg",
+  "variants": [
+   {
+    "file": "cvc-img-1378-low-huizefrankendael-480.webp",
+    "h": 320,
+    "kb": 28.1,
+    "w": 480
+   },
+   {
+    "file": "cvc-img-1378-low-huizefrankendael-800.webp",
+    "h": 533,
+    "kb": 60.7,
+    "w": 800
+   },
+   {
+    "file": "cvc-img-1378-low-huizefrankendael-1200.webp",
+    "h": 800,
+    "kb": 90.6,
+    "w": 1200
+   },
+   {
+    "file": "cvc-img-1378-low-huizefrankendael-1600.webp",
+    "h": 1066,
+    "kb": 133.6,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "cvc-img-1382-low-huizefrankendael": {
+  "height": 1365,
+  "master": "CVC_IMG_1382-LOW_HuizeFrankendael.jpg",
+  "variants": [
+   {
+    "file": "cvc-img-1382-low-huizefrankendael-480.webp",
+    "h": 320,
+    "kb": 22.1,
+    "w": 480
+   },
+   {
+    "file": "cvc-img-1382-low-huizefrankendael-800.webp",
+    "h": 533,
+    "kb": 41.2,
+    "w": 800
+   },
+   {
+    "file": "cvc-img-1382-low-huizefrankendael-1200.webp",
+    "h": 800,
+    "kb": 54.2,
+    "w": 1200
+   },
+   {
+    "file": "cvc-img-1382-low-huizefrankendael-1600.webp",
+    "h": 1066,
+    "kb": 73.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "cvc-img-1400-low-huizefrankendael": {
+  "height": 1365,
+  "master": "CVC_IMG_1400-LOW_HuizeFrankendael.jpg",
+  "variants": [
+   {
+    "file": "cvc-img-1400-low-huizefrankendael-480.webp",
+    "h": 320,
+    "kb": 19.6,
+    "w": 480
+   },
+   {
+    "file": "cvc-img-1400-low-huizefrankendael-800.webp",
+    "h": 533,
+    "kb": 41.7,
+    "w": 800
+   },
+   {
+    "file": "cvc-img-1400-low-huizefrankendael-1200.webp",
+    "h": 800,
+    "kb": 62.6,
+    "w": 1200
+   },
+   {
+    "file": "cvc-img-1400-low-huizefrankendael-1600.webp",
+    "h": 1066,
+    "kb": 95.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "cvc-img-1537-hdr-huizefrankendael": {
+  "height": 1365,
+  "master": "CVC_IMG_1537-HDR_HuizeFrankendael.jpg",
+  "variants": [
+   {
+    "file": "cvc-img-1537-hdr-huizefrankendael-480.webp",
+    "h": 320,
+    "kb": 37.4,
+    "w": 480
+   },
+   {
+    "file": "cvc-img-1537-hdr-huizefrankendael-800.webp",
+    "h": 533,
+    "kb": 85.2,
+    "w": 800
+   },
+   {
+    "file": "cvc-img-1537-hdr-huizefrankendael-1200.webp",
+    "h": 800,
+    "kb": 139.2,
+    "w": 1200
+   },
+   {
+    "file": "cvc-img-1537-hdr-huizefrankendael-1600.webp",
+    "h": 1066,
+    "kb": 209.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dieuwke-spaans-en-nick-oberthaler-15": {
+  "height": 1363,
+  "master": "Dieuwke-Spaans-en-Nick-Oberthaler-15.jpg",
+  "variants": [
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-15-480.webp",
+    "h": 319,
+    "kb": 4.7,
+    "w": 480
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-15-800.webp",
+    "h": 532,
+    "kb": 9.3,
+    "w": 800
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-15-1200.webp",
+    "h": 799,
+    "kb": 13.0,
+    "w": 1200
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-15-1600.webp",
+    "h": 1065,
+    "kb": 18.9,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dieuwke-spaans-en-nick-oberthaler-24": {
+  "height": 1366,
+  "master": "Dieuwke-Spaans-en-Nick-Oberthaler-24.jpg",
+  "variants": [
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-24-480.webp",
+    "h": 320,
+    "kb": 10.2,
+    "w": 480
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-24-800.webp",
+    "h": 534,
+    "kb": 19.5,
+    "w": 800
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-24-1200.webp",
+    "h": 800,
+    "kb": 26.2,
+    "w": 1200
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-24-1600.webp",
+    "h": 1067,
+    "kb": 36.6,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dieuwke-spaans-en-nick-oberthaler-61": {
+  "height": 1365,
+  "master": "Dieuwke-Spaans-en-Nick-Oberthaler-61.jpg",
+  "variants": [
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-61-480.webp",
+    "h": 320,
+    "kb": 9.1,
+    "w": 480
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-61-800.webp",
+    "h": 533,
+    "kb": 18.1,
+    "w": 800
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-61-1200.webp",
+    "h": 800,
+    "kb": 26.6,
+    "w": 1200
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-61-1600.webp",
+    "h": 1066,
+    "kb": 37.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dieuwke-spaans-en-nick-oberthaler-8": {
+  "height": 2048,
+  "master": "Dieuwke-Spaans-en-Nick-Oberthaler-8.jpg",
+  "variants": [
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-8-480.webp",
+    "h": 721,
+    "kb": 25.2,
+    "w": 480
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-8-800.webp",
+    "h": 1202,
+    "kb": 49.8,
+    "w": 800
+   },
+   {
+    "file": "dieuwke-spaans-en-nick-oberthaler-8-1200.webp",
+    "h": 1803,
+    "kb": 68.5,
+    "w": 1200
+   }
+  ],
+  "width": 1363
+ },
+ "diner-grote-salon-melissamillis": {
+  "height": 1526,
+  "master": "diner-grote-salon-melissamillis.jpg",
+  "variants": [
+   {
+    "file": "diner-grote-salon-melissamillis-480.webp",
+    "h": 715,
+    "kb": 41.2,
+    "w": 480
+   },
+   {
+    "file": "diner-grote-salon-melissamillis-800.webp",
+    "h": 1192,
+    "kb": 94.3,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ },
+ "discolicht": {
+  "height": 670,
+  "master": "discolicht.jpg",
+  "variants": [
+   {
+    "file": "discolicht-480.webp",
+    "h": 314,
+    "kb": 35.7,
+    "w": 480
+   },
+   {
+    "file": "discolicht-800.webp",
+    "h": 523,
+    "kb": 81.4,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ },
+ "dsc-6945": {
+  "height": 1363,
+  "master": "DSC_6945.jpg",
+  "variants": [
+   {
+    "file": "dsc-6945-480.webp",
+    "h": 319,
+    "kb": 9.6,
+    "w": 480
+   },
+   {
+    "file": "dsc-6945-800.webp",
+    "h": 532,
+    "kb": 18.4,
+    "w": 800
+   },
+   {
+    "file": "dsc-6945-1200.webp",
+    "h": 799,
+    "kb": 26.3,
+    "w": 1200
+   },
+   {
+    "file": "dsc-6945-1600.webp",
+    "h": 1065,
+    "kb": 38.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc01613": {
+  "height": 2048,
+  "master": "DSC01613.jpg",
+  "variants": [
+   {
+    "file": "dsc01613-480.webp",
+    "h": 721,
+    "kb": 90.1,
+    "w": 480
+   },
+   {
+    "file": "dsc01613-800.webp",
+    "h": 1202,
+    "kb": 176.7,
+    "w": 800
+   },
+   {
+    "file": "dsc01613-1200.webp",
+    "h": 1803,
+    "kb": 237.5,
+    "w": 1200
+   }
+  ],
+  "width": 1363
+ },
+ "dsc03732": {
+  "height": 1363,
+  "master": "DSC03732.jpg",
+  "variants": [
+   {
+    "file": "dsc03732-480.webp",
+    "h": 319,
+    "kb": 5.2,
+    "w": 480
+   },
+   {
+    "file": "dsc03732-800.webp",
+    "h": 532,
+    "kb": 10.4,
+    "w": 800
+   },
+   {
+    "file": "dsc03732-1200.webp",
+    "h": 799,
+    "kb": 15.3,
+    "w": 1200
+   },
+   {
+    "file": "dsc03732-1600.webp",
+    "h": 1065,
+    "kb": 22.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc06472": {
+  "height": 1363,
+  "master": "DSC06472.jpg",
+  "variants": [
+   {
+    "file": "dsc06472-480.webp",
+    "h": 319,
+    "kb": 33.9,
+    "w": 480
+   },
+   {
+    "file": "dsc06472-800.webp",
+    "h": 532,
+    "kb": 71.2,
+    "w": 800
+   },
+   {
+    "file": "dsc06472-1200.webp",
+    "h": 799,
+    "kb": 100.4,
+    "w": 1200
+   },
+   {
+    "file": "dsc06472-1600.webp",
+    "h": 1065,
+    "kb": 137.4,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc064721": {
+  "height": 1363,
+  "master": "DSC064721.jpg",
+  "variants": [
+   {
+    "file": "dsc064721-480.webp",
+    "h": 319,
+    "kb": 33.9,
+    "w": 480
+   },
+   {
+    "file": "dsc064721-800.webp",
+    "h": 532,
+    "kb": 71.2,
+    "w": 800
+   },
+   {
+    "file": "dsc064721-1200.webp",
+    "h": 799,
+    "kb": 100.4,
+    "w": 1200
+   },
+   {
+    "file": "dsc064721-1600.webp",
+    "h": 1065,
+    "kb": 137.4,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc06510": {
+  "height": 1363,
+  "master": "DSC06510.jpg",
+  "variants": [
+   {
+    "file": "dsc06510-480.webp",
+    "h": 319,
+    "kb": 11.5,
+    "w": 480
+   },
+   {
+    "file": "dsc06510-800.webp",
+    "h": 532,
+    "kb": 19.9,
+    "w": 800
+   },
+   {
+    "file": "dsc06510-1200.webp",
+    "h": 799,
+    "kb": 25.6,
+    "w": 1200
+   },
+   {
+    "file": "dsc06510-1600.webp",
+    "h": 1065,
+    "kb": 34.6,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc08179": {
+  "height": 1363,
+  "master": "DSC08179.jpg",
+  "variants": [
+   {
+    "file": "dsc08179-480.webp",
+    "h": 319,
+    "kb": 39.4,
+    "w": 480
+   },
+   {
+    "file": "dsc08179-800.webp",
+    "h": 532,
+    "kb": 80.3,
+    "w": 800
+   },
+   {
+    "file": "dsc08179-1200.webp",
+    "h": 799,
+    "kb": 112.6,
+    "w": 1200
+   },
+   {
+    "file": "dsc08179-1600.webp",
+    "h": 1065,
+    "kb": 152.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc08788": {
+  "height": 2048,
+  "master": "DSC08788.jpg",
+  "variants": [
+   {
+    "file": "dsc08788-480.webp",
+    "h": 480,
+    "kb": 68.4,
+    "w": 480
+   },
+   {
+    "file": "dsc08788-800.webp",
+    "h": 800,
+    "kb": 164.2,
+    "w": 800
+   },
+   {
+    "file": "dsc08788-1200.webp",
+    "h": 1200,
+    "kb": 259.7,
+    "w": 1200
+   },
+   {
+    "file": "dsc08788-1600.webp",
+    "h": 1600,
+    "kb": 374.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc08810": {
+  "height": 2048,
+  "master": "DSC08810.jpg",
+  "variants": [
+   {
+    "file": "dsc08810-480.webp",
+    "h": 480,
+    "kb": 22.6,
+    "w": 480
+   },
+   {
+    "file": "dsc08810-800.webp",
+    "h": 800,
+    "kb": 39.1,
+    "w": 800
+   },
+   {
+    "file": "dsc08810-1200.webp",
+    "h": 1200,
+    "kb": 51.7,
+    "w": 1200
+   },
+   {
+    "file": "dsc08810-1600.webp",
+    "h": 1600,
+    "kb": 71.5,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc08836": {
+  "height": 2048,
+  "master": "DSC08836.jpg",
+  "variants": [
+   {
+    "file": "dsc08836-480.webp",
+    "h": 480,
+    "kb": 22.1,
+    "w": 480
+   },
+   {
+    "file": "dsc08836-800.webp",
+    "h": 800,
+    "kb": 49.4,
+    "w": 800
+   },
+   {
+    "file": "dsc08836-1200.webp",
+    "h": 1200,
+    "kb": 74.4,
+    "w": 1200
+   },
+   {
+    "file": "dsc08836-1600.webp",
+    "h": 1600,
+    "kb": 102.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dsc2306": {
+  "height": 1363,
+  "master": "DSC2306.jpg",
+  "variants": [
+   {
+    "file": "dsc2306-480.webp",
+    "h": 319,
+    "kb": 9.7,
+    "w": 480
+   },
+   {
+    "file": "dsc2306-800.webp",
+    "h": 532,
+    "kb": 16.0,
+    "w": 800
+   },
+   {
+    "file": "dsc2306-1200.webp",
+    "h": 799,
+    "kb": 21.8,
+    "w": 1200
+   },
+   {
+    "file": "dsc2306-1600.webp",
+    "h": 1065,
+    "kb": 28.4,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "dscf1850-version-21": {
+  "height": 1365,
+  "master": "DSCF1850-Version-21.jpg",
+  "variants": [
+   {
+    "file": "dscf1850-version-21-480.webp",
+    "h": 320,
+    "kb": 48.4,
+    "w": 480
+   },
+   {
+    "file": "dscf1850-version-21-800.webp",
+    "h": 533,
+    "kb": 105.2,
+    "w": 800
+   },
+   {
+    "file": "dscf1850-version-21-1200.webp",
+    "h": 800,
+    "kb": 159.1,
+    "w": 1200
+   },
+   {
+    "file": "dscf1850-version-21-1600.webp",
+    "h": 1066,
+    "kb": 217.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "feest-buiten-joostweddepohl": {
+  "height": 653,
+  "master": "Feest-buiten-joostweddepohl.jpg",
+  "variants": [
+   {
+    "file": "feest-buiten-joostweddepohl-480.webp",
+    "h": 320,
+    "kb": 19.4,
+    "w": 480
+   },
+   {
+    "file": "feest-buiten-joostweddepohl-800.webp",
+    "h": 533,
+    "kb": 47.3,
+    "w": 800
+   }
+  ],
+  "width": 980
+ },
+ "feestelijk-contact": {
+  "height": 1000,
+  "master": "feestelijk-contact.jpg",
+  "variants": [
+   {
+    "file": "feestelijk-contact-480.webp",
+    "h": 320,
+    "kb": 10.2,
+    "w": 480
+   },
+   {
+    "file": "feestelijk-contact-800.webp",
+    "h": 533,
+    "kb": 25.3,
+    "w": 800
+   },
+   {
+    "file": "feestelijk-contact-1200.webp",
+    "h": 800,
+    "kb": 37.5,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "foto-trap-huize-frankendael": {
+  "height": 2048,
+  "master": "foto-trap-Huize-Frankendael.jpg",
+  "variants": [
+   {
+    "file": "foto-trap-huize-frankendael-480.webp",
+    "h": 853,
+    "kb": 104.8,
+    "w": 480
+   },
+   {
+    "file": "foto-trap-huize-frankendael-800.webp",
+    "h": 1422,
+    "kb": 241.2,
+    "w": 800
+   }
+  ],
+  "width": 1152
+ },
+ "frankendael-bourdrez-poster": {
+  "height": 2048,
+  "master": "Frankendael-Bourdrez-poster.jpg",
+  "variants": [
+   {
+    "file": "frankendael-bourdrez-poster-480.webp",
+    "h": 675,
+    "kb": 26.3,
+    "w": 480
+   },
+   {
+    "file": "frankendael-bourdrez-poster-800.webp",
+    "h": 1125,
+    "kb": 44.4,
+    "w": 800
+   },
+   {
+    "file": "frankendael-bourdrez-poster-1200.webp",
+    "h": 1687,
+    "kb": 57.7,
+    "w": 1200
+   }
+  ],
+  "width": 1457
+ },
+ "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4749": {
+  "height": 847,
+  "master": "Frankendael_Foundation_Amsterdam_Reyn_van_der_Lugt_collection-4749.jpg",
+  "variants": [
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4749-480.webp",
+    "h": 320,
+    "kb": 24.6,
+    "w": 480
+   },
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4749-800.webp",
+    "h": 534,
+    "kb": 57.2,
+    "w": 800
+   },
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4749-1200.webp",
+    "h": 800,
+    "kb": 91.1,
+    "w": 1200
+   }
+  ],
+  "width": 1270
+ },
+ "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4815": {
+  "height": 1365,
+  "master": "Frankendael_Foundation_Amsterdam_Reyn_van_der_Lugt_collection-4815.jpg",
+  "variants": [
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4815-480.webp",
+    "h": 320,
+    "kb": 7.3,
+    "w": 480
+   },
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4815-800.webp",
+    "h": 533,
+    "kb": 13.7,
+    "w": 800
+   },
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4815-1200.webp",
+    "h": 800,
+    "kb": 18.7,
+    "w": 1200
+   },
+   {
+    "file": "frankendael-foundation-amsterdam-reyn-van-der-lugt-collection-4815-1600.webp",
+    "h": 1066,
+    "kb": 26.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "frankendael-neto": {
+  "height": 1363,
+  "master": "frankendael-neto.jpg",
+  "variants": [
+   {
+    "file": "frankendael-neto-480.webp",
+    "h": 319,
+    "kb": 9.8,
+    "w": 480
+   },
+   {
+    "file": "frankendael-neto-800.webp",
+    "h": 532,
+    "kb": 20.4,
+    "w": 800
+   },
+   {
+    "file": "frankendael-neto-1200.webp",
+    "h": 799,
+    "kb": 30.4,
+    "w": 1200
+   },
+   {
+    "file": "frankendael-neto-1600.webp",
+    "h": 1065,
+    "kb": 53.4,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "frankendael-opening-wild-care-tame-neglect-06-hires": {
+  "height": 1365,
+  "master": "Frankendael-opening-wild-care-tame-neglect-06-hires.jpg",
+  "variants": [
+   {
+    "file": "frankendael-opening-wild-care-tame-neglect-06-hires-480.webp",
+    "h": 320,
+    "kb": 20.0,
+    "w": 480
+   },
+   {
+    "file": "frankendael-opening-wild-care-tame-neglect-06-hires-800.webp",
+    "h": 533,
+    "kb": 40.8,
+    "w": 800
+   },
+   {
+    "file": "frankendael-opening-wild-care-tame-neglect-06-hires-1200.webp",
+    "h": 800,
+    "kb": 59.3,
+    "w": 1200
+   },
+   {
+    "file": "frankendael-opening-wild-care-tame-neglect-06-hires-1600.webp",
+    "h": 1066,
+    "kb": 85.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "frankendael-urban-outsiders48": {
+  "height": 1365,
+  "master": "Frankendael-Urban-Outsiders48.jpg",
+  "variants": [
+   {
+    "file": "frankendael-urban-outsiders48-480.webp",
+    "h": 320,
+    "kb": 37.8,
+    "w": 480
+   },
+   {
+    "file": "frankendael-urban-outsiders48-800.webp",
+    "h": 533,
+    "kb": 83.4,
+    "w": 800
+   },
+   {
+    "file": "frankendael-urban-outsiders48-1200.webp",
+    "h": 800,
+    "kb": 123.6,
+    "w": 1200
+   },
+   {
+    "file": "frankendael-urban-outsiders48-1600.webp",
+    "h": 1066,
+    "kb": 172.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "frankendael008": {
+  "height": 1363,
+  "master": "frankendael008.jpg",
+  "variants": [
+   {
+    "file": "frankendael008-480.webp",
+    "h": 319,
+    "kb": 28.4,
+    "w": 480
+   },
+   {
+    "file": "frankendael008-800.webp",
+    "h": 532,
+    "kb": 57.8,
+    "w": 800
+   },
+   {
+    "file": "frankendael008-1200.webp",
+    "h": 799,
+    "kb": 85.3,
+    "w": 1200
+   },
+   {
+    "file": "frankendael008-1600.webp",
+    "h": 1065,
+    "kb": 125.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "gildemeesters": {
+  "height": 1662,
+  "master": "Gildemeesters.jpg",
+  "variants": [
+   {
+    "file": "gildemeesters-480.webp",
+    "h": 390,
+    "kb": 39.7,
+    "w": 480
+   },
+   {
+    "file": "gildemeesters-800.webp",
+    "h": 649,
+    "kb": 92.7,
+    "w": 800
+   },
+   {
+    "file": "gildemeesters-1200.webp",
+    "h": 974,
+    "kb": 134.1,
+    "w": 1200
+   },
+   {
+    "file": "gildemeesters-1600.webp",
+    "h": 1298,
+    "kb": 180.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "groene-tuin-achterzijde-huis-isiweddings": {
+  "height": 554,
+  "master": "groene-tuin-achterzijde-huis-isiweddings.jpg",
+  "variants": [
+   {
+    "file": "groene-tuin-achterzijde-huis-isiweddings-480.webp",
+    "h": 320,
+    "kb": 53.8,
+    "w": 480
+   },
+   {
+    "file": "groene-tuin-achterzijde-huis-isiweddings-800.webp",
+    "h": 533,
+    "kb": 124.8,
+    "w": 800
+   }
+  ],
+  "width": 831
+ },
+ "grote-salon-gedekt": {
+  "height": 866,
+  "master": "Grote-Salon-gedekt.jpg",
+  "variants": [
+   {
+    "file": "grote-salon-gedekt-480.webp",
+    "h": 419,
+    "kb": 24.9,
+    "w": 480
+   },
+   {
+    "file": "grote-salon-gedekt-800.webp",
+    "h": 698,
+    "kb": 50.0,
+    "w": 800
+   }
+  ],
+  "width": 992
+ },
+ "grote-salon-gedekte-tafels-bar9418": {
+  "height": 1001,
+  "master": "Grote-salon-gedekte-tafels-bar9418.jpg",
+  "variants": [
+   {
+    "file": "grote-salon-gedekte-tafels-bar9418-480.webp",
+    "h": 320,
+    "kb": 22.2,
+    "w": 480
+   },
+   {
+    "file": "grote-salon-gedekte-tafels-bar9418-800.webp",
+    "h": 534,
+    "kb": 50.4,
+    "w": 800
+   },
+   {
+    "file": "grote-salon-gedekte-tafels-bar9418-1200.webp",
+    "h": 801,
+    "kb": 81.4,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "grote-salon-tafeldekken": {
+  "height": 2659,
+  "master": "Grote-salon-tafeldekken.jpg",
+  "variants": [
+   {
+    "file": "grote-salon-tafeldekken-480.webp",
+    "h": 720,
+    "kb": 37.9,
+    "w": 480
+   },
+   {
+    "file": "grote-salon-tafeldekken-800.webp",
+    "h": 1200,
+    "kb": 72.0,
+    "w": 800
+   },
+   {
+    "file": "grote-salon-tafeldekken-1200.webp",
+    "h": 1801,
+    "kb": 104.2,
+    "w": 1200
+   },
+   {
+    "file": "grote-salon-tafeldekken-1600.webp",
+    "h": 2401,
+    "kb": 152.6,
+    "w": 1600
+   }
+  ],
+  "width": 1772
+ },
+ "grote-salon-theater": {
+  "height": 1000,
+  "master": "Grote-salon-theater.jpg",
+  "variants": [
+   {
+    "file": "grote-salon-theater-480.webp",
+    "h": 320,
+    "kb": 23.4,
+    "w": 480
+   },
+   {
+    "file": "grote-salon-theater-800.webp",
+    "h": 533,
+    "kb": 51.5,
+    "w": 800
+   },
+   {
+    "file": "grote-salon-theater-1200.webp",
+    "h": 800,
+    "kb": 82.2,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "harpersbazaarkoelers-met-cre-mant-de-die": {
+  "height": 1383,
+  "master": "HarpersBazaarkoelers-met-Cre\u0301mant-de-Die.jpg",
+  "variants": [
+   {
+    "file": "harpersbazaarkoelers-met-cre-mant-de-die-480.webp",
+    "h": 720,
+    "kb": 33.3,
+    "w": 480
+   },
+   {
+    "file": "harpersbazaarkoelers-met-cre-mant-de-die-800.webp",
+    "h": 1200,
+    "kb": 56.1,
+    "w": 800
+   }
+  ],
+  "width": 922
+ },
+ "huize-frankendael-tuin-19": {
+  "height": 1371,
+  "master": "Huize-Frankendael-tuin-19.jpg",
+  "variants": [
+   {
+    "file": "huize-frankendael-tuin-19-480.webp",
+    "h": 321,
+    "kb": 39.2,
+    "w": 480
+   },
+   {
+    "file": "huize-frankendael-tuin-19-800.webp",
+    "h": 536,
+    "kb": 83.0,
+    "w": 800
+   },
+   {
+    "file": "huize-frankendael-tuin-19-1200.webp",
+    "h": 803,
+    "kb": 119.1,
+    "w": 1200
+   },
+   {
+    "file": "huize-frankendael-tuin-19-1600.webp",
+    "h": 1071,
+    "kb": 165.2,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "huize-frankendael-zomer": {
+  "height": 1562,
+  "master": "Huize-Frankendael-zomer.jpg",
+  "variants": [
+   {
+    "file": "huize-frankendael-zomer-480.webp",
+    "h": 366,
+    "kb": 47.5,
+    "w": 480
+   },
+   {
+    "file": "huize-frankendael-zomer-800.webp",
+    "h": 610,
+    "kb": 109.5,
+    "w": 800
+   },
+   {
+    "file": "huize-frankendael-zomer-1200.webp",
+    "h": 915,
+    "kb": 176.2,
+    "w": 1200
+   },
+   {
+    "file": "huize-frankendael-zomer-1600.webp",
+    "h": 1220,
+    "kb": 253.2,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "img-0072": {
+  "height": 680,
+  "master": "IMG_0072.jpg",
+  "variants": [
+   {
+    "file": "img-0072-480.webp",
+    "h": 360,
+    "kb": 17.4,
+    "w": 480
+   },
+   {
+    "file": "img-0072-800.webp",
+    "h": 600,
+    "kb": 36.8,
+    "w": 800
+   }
+  ],
+  "width": 907
+ },
+ "img-0627": {
+  "height": 2048,
+  "master": "IMG_0627.jpg",
+  "variants": [
+   {
+    "file": "img-0627-480.webp",
+    "h": 720,
+    "kb": 38.5,
+    "w": 480
+   },
+   {
+    "file": "img-0627-800.webp",
+    "h": 1200,
+    "kb": 68.2,
+    "w": 800
+   },
+   {
+    "file": "img-0627-1200.webp",
+    "h": 1800,
+    "kb": 92.4,
+    "w": 1200
+   }
+  ],
+  "width": 1365
+ },
+ "img-0720": {
+  "height": 728,
+  "master": "IMG-0720.jpg",
+  "variants": [
+   {
+    "file": "img-0720-480.webp",
+    "h": 311,
+    "kb": 46.0,
+    "w": 480
+   },
+   {
+    "file": "img-0720-800.webp",
+    "h": 518,
+    "kb": 99.8,
+    "w": 800
+   }
+  ],
+  "width": 1125
+ },
+ "img-0747": {
+  "height": 1620,
+  "master": "IMG-0747.jpg",
+  "variants": [
+   {
+    "file": "img-0747-480.webp",
+    "h": 691,
+    "kb": 108.6,
+    "w": 480
+   },
+   {
+    "file": "img-0747-800.webp",
+    "h": 1152,
+    "kb": 222.9,
+    "w": 800
+   }
+  ],
+  "width": 1125
+ },
+ "img-3271": {
+  "height": 1365,
+  "master": "IMG_3271.jpg",
+  "variants": [
+   {
+    "file": "img-3271-480.webp",
+    "h": 320,
+    "kb": 23.0,
+    "w": 480
+   },
+   {
+    "file": "img-3271-800.webp",
+    "h": 533,
+    "kb": 53.5,
+    "w": 800
+   },
+   {
+    "file": "img-3271-1200.webp",
+    "h": 800,
+    "kb": 79.1,
+    "w": 1200
+   },
+   {
+    "file": "img-3271-1600.webp",
+    "h": 1066,
+    "kb": 109.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "invitation-stella-amsterdam": {
+  "height": 1460,
+  "master": "Invitation-Stella-Amsterdam.jpg",
+  "variants": [
+   {
+    "file": "invitation-stella-amsterdam-480.webp",
+    "h": 342,
+    "kb": 4.0,
+    "w": 480
+   },
+   {
+    "file": "invitation-stella-amsterdam-800.webp",
+    "h": 570,
+    "kb": 7.1,
+    "w": 800
+   },
+   {
+    "file": "invitation-stella-amsterdam-1200.webp",
+    "h": 855,
+    "kb": 9.4,
+    "w": 1200
+   },
+   {
+    "file": "invitation-stella-amsterdam-1600.webp",
+    "h": 1141,
+    "kb": 12.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "jan-schaper-lijnbaanjeug": {
+  "height": 1461,
+  "master": "Jan-Schaper.lijnbaanjeug.jpg",
+  "variants": [
+   {
+    "file": "jan-schaper-lijnbaanjeug-480.webp",
+    "h": 342,
+    "kb": 18.6,
+    "w": 480
+   },
+   {
+    "file": "jan-schaper-lijnbaanjeug-800.webp",
+    "h": 571,
+    "kb": 35.5,
+    "w": 800
+   },
+   {
+    "file": "jan-schaper-lijnbaanjeug-1200.webp",
+    "h": 856,
+    "kb": 50.0,
+    "w": 1200
+   },
+   {
+    "file": "jan-schaper-lijnbaanjeug-1600.webp",
+    "h": 1141,
+    "kb": 70.2,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "joyce-vlaming": {
+  "height": 567,
+  "master": "Joyce-Vlaming.jpg",
+  "variants": [
+   {
+    "file": "joyce-vlaming-378.webp",
+    "h": 567,
+    "kb": 7.4,
+    "w": 378
+   }
+  ],
+  "width": 378
+ },
+ "kleine-boardroom-1": {
+  "height": 2048,
+  "master": "Kleine-Boardroom-1.jpg",
+  "variants": [
+   {
+    "file": "kleine-boardroom-1-480.webp",
+    "h": 722,
+    "kb": 57.8,
+    "w": 480
+   },
+   {
+    "file": "kleine-boardroom-1-800.webp",
+    "h": 1203,
+    "kb": 130.2,
+    "w": 800
+   },
+   {
+    "file": "kleine-boardroom-1-1200.webp",
+    "h": 1804,
+    "kb": 200.4,
+    "w": 1200
+   }
+  ],
+  "width": 1362
+ },
+ "koetshuis-19": {
+  "height": 1352,
+  "master": "Koetshuis-19.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-19-480.webp",
+    "h": 317,
+    "kb": 33.8,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-19-800.webp",
+    "h": 528,
+    "kb": 71.7,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-19-1200.webp",
+    "h": 792,
+    "kb": 106.9,
+    "w": 1200
+   },
+   {
+    "file": "koetshuis-19-1600.webp",
+    "h": 1056,
+    "kb": 152.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "koetshuis-22": {
+  "height": 1365,
+  "master": "Koetshuis-22.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-22-480.webp",
+    "h": 320,
+    "kb": 55.1,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-22-800.webp",
+    "h": 533,
+    "kb": 140.3,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-22-1200.webp",
+    "h": 800,
+    "kb": 242.8,
+    "w": 1200
+   },
+   {
+    "file": "koetshuis-22-1600.webp",
+    "h": 1066,
+    "kb": 369.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "koetshuis-4": {
+  "height": 751,
+  "master": "Koetshuis-4.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-4-480.webp",
+    "h": 363,
+    "kb": 28.3,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-4-800.webp",
+    "h": 606,
+    "kb": 58.8,
+    "w": 800
+   }
+  ],
+  "width": 992
+ },
+ "koetshuis-6": {
+  "height": 1371,
+  "master": "Koetshuis-6.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-6-480.webp",
+    "h": 321,
+    "kb": 31.7,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-6-800.webp",
+    "h": 536,
+    "kb": 68.9,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-6-1200.webp",
+    "h": 803,
+    "kb": 102.4,
+    "w": 1200
+   },
+   {
+    "file": "koetshuis-6-1600.webp",
+    "h": 1071,
+    "kb": 145.5,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "koetshuis-bar9354": {
+  "height": 1001,
+  "master": "Koetshuis-bar9354.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-bar9354-480.webp",
+    "h": 320,
+    "kb": 28.5,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-bar9354-800.webp",
+    "h": 534,
+    "kb": 63.1,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-bar9354-1200.webp",
+    "h": 801,
+    "kb": 99.5,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "koetshuis-diner": {
+  "height": 1352,
+  "master": "Koetshuis-diner.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-diner-480.webp",
+    "h": 317,
+    "kb": 33.8,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-diner-800.webp",
+    "h": 528,
+    "kb": 71.7,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-diner-1200.webp",
+    "h": 792,
+    "kb": 106.9,
+    "w": 1200
+   },
+   {
+    "file": "koetshuis-diner-1600.webp",
+    "h": 1056,
+    "kb": 152.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "koetshuis-diner-3": {
+  "height": 975,
+  "master": "Koetshuis-diner-3.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-diner-3-480.webp",
+    "h": 312,
+    "kb": 25.1,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-diner-3-800.webp",
+    "h": 520,
+    "kb": 51.9,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-diner-3-1200.webp",
+    "h": 780,
+    "kb": 74.2,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "koetshuis-diner-4": {
+  "height": 1366,
+  "master": "Koetshuis-diner-4.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-diner-4-480.webp",
+    "h": 320,
+    "kb": 23.8,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-diner-4-800.webp",
+    "h": 534,
+    "kb": 42.1,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-diner-4-1200.webp",
+    "h": 800,
+    "kb": 55.8,
+    "w": 1200
+   },
+   {
+    "file": "koetshuis-diner-4-1600.webp",
+    "h": 1067,
+    "kb": 78.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "koetshuis-diner-detail-2-plumtreewedding": {
+  "height": 427,
+  "master": "koetshuis-diner-detail-2-plumtreewedding.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-diner-detail-2-plumtreewedding-480.webp",
+    "h": 320,
+    "kb": 18.5,
+    "w": 480
+   }
+  ],
+  "width": 640
+ },
+ "koetshuis-diner-open-deuren-joostweddepohl": {
+  "height": 653,
+  "master": "koetshuis-diner-open-deuren-joostweddepohl.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-diner-open-deuren-joostweddepohl-480.webp",
+    "h": 320,
+    "kb": 45.0,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-diner-open-deuren-joostweddepohl-800.webp",
+    "h": 533,
+    "kb": 96.9,
+    "w": 800
+   }
+  ],
+  "width": 980
+ },
+ "koetshuis-dinerbar9362": {
+  "height": 1001,
+  "master": "Koetshuis-dinerbar9362.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-dinerbar9362-480.webp",
+    "h": 320,
+    "kb": 25.6,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-dinerbar9362-800.webp",
+    "h": 534,
+    "kb": 56.9,
+    "w": 800
+   },
+   {
+    "file": "koetshuis-dinerbar9362-1200.webp",
+    "h": 801,
+    "kb": 89.6,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "koetshuis-disco-licht-melissamilis": {
+  "height": 670,
+  "master": "koetshuis-disco-licht-melissamilis.jpg",
+  "variants": [
+   {
+    "file": "koetshuis-disco-licht-melissamilis-480.webp",
+    "h": 314,
+    "kb": 35.7,
+    "w": 480
+   },
+   {
+    "file": "koetshuis-disco-licht-melissamilis-800.webp",
+    "h": 523,
+    "kb": 81.4,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ },
+ "krien-en-jasmijn": {
+  "height": 1131,
+  "master": "krien-en-jasmijn.jpg",
+  "variants": [
+   {
+    "file": "krien-en-jasmijn-480.webp",
+    "h": 320,
+    "kb": 13.6,
+    "w": 480
+   },
+   {
+    "file": "krien-en-jasmijn-800.webp",
+    "h": 533,
+    "kb": 29.9,
+    "w": 800
+   },
+   {
+    "file": "krien-en-jasmijn-1200.webp",
+    "h": 799,
+    "kb": 46.2,
+    "w": 1200
+   },
+   {
+    "file": "krien-en-jasmijn-1600.webp",
+    "h": 1065,
+    "kb": 66.9,
+    "w": 1600
+   }
+  ],
+  "width": 1699
+ },
+ "kunst-agenda": {
+  "height": 1000,
+  "master": "kunst-agenda.jpg",
+  "variants": [
+   {
+    "file": "kunst-agenda-480.webp",
+    "h": 320,
+    "kb": 34.7,
+    "w": 480
+   },
+   {
+    "file": "kunst-agenda-800.webp",
+    "h": 533,
+    "kb": 77.7,
+    "w": 800
+   },
+   {
+    "file": "kunst-agenda-1200.webp",
+    "h": 800,
+    "kb": 137.3,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "kunst-algemeen": {
+  "height": 1000,
+  "master": "kunst-algemeen.jpg",
+  "variants": [
+   {
+    "file": "kunst-algemeen-480.webp",
+    "h": 320,
+    "kb": 8.4,
+    "w": 480
+   },
+   {
+    "file": "kunst-algemeen-800.webp",
+    "h": 533,
+    "kb": 17.3,
+    "w": 800
+   },
+   {
+    "file": "kunst-algemeen-1200.webp",
+    "h": 800,
+    "kb": 25.9,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "kunst-contact": {
+  "height": 600,
+  "master": "kunst-contact.jpg",
+  "variants": [
+   {
+    "file": "kunst-contact-480.webp",
+    "h": 480,
+    "kb": 31.4,
+    "w": 480
+   }
+  ],
+  "width": 600
+ },
+ "kunst-reserveren": {
+  "height": 1000,
+  "master": "kunst-reserveren.jpg",
+  "variants": [
+   {
+    "file": "kunst-reserveren-480.webp",
+    "h": 320,
+    "kb": 31.6,
+    "w": 480
+   },
+   {
+    "file": "kunst-reserveren-800.webp",
+    "h": 533,
+    "kb": 74.8,
+    "w": 800
+   },
+   {
+    "file": "kunst-reserveren-1200.webp",
+    "h": 800,
+    "kb": 125.4,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "logo-aaw2016-2": {
+  "height": 1004,
+  "master": "Logo-AAW2016-2.png",
+  "variants": [
+   {
+    "file": "logo-aaw2016-2-480.webp",
+    "h": 240,
+    "kb": 23.0,
+    "w": 480
+   },
+   {
+    "file": "logo-aaw2016-2-800.webp",
+    "h": 400,
+    "kb": 39.7,
+    "w": 800
+   },
+   {
+    "file": "logo-aaw2016-2-1200.webp",
+    "h": 600,
+    "kb": 54.2,
+    "w": 1200
+   },
+   {
+    "file": "logo-aaw2016-2-1600.webp",
+    "h": 800,
+    "kb": 68.9,
+    "w": 1600
+   }
+  ],
+  "width": 2008
+ },
+ "luchtfoto-huis-en-tuin": {
+  "height": 1511,
+  "master": "Luchtfoto-huis-en-tuin.jpg",
+  "variants": [
+   {
+    "file": "luchtfoto-huis-en-tuin-480.webp",
+    "h": 354,
+    "kb": 40.2,
+    "w": 480
+   },
+   {
+    "file": "luchtfoto-huis-en-tuin-800.webp",
+    "h": 590,
+    "kb": 86.2,
+    "w": 800
+   },
+   {
+    "file": "luchtfoto-huis-en-tuin-1200.webp",
+    "h": 885,
+    "kb": 122.9,
+    "w": 1200
+   },
+   {
+    "file": "luchtfoto-huis-en-tuin-1600.webp",
+    "h": 1180,
+    "kb": 167.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "luchtfoto-huis-en-tuin-2": {
+  "height": 2048,
+  "master": "Luchtfoto-huis-en-tuin-2.jpg",
+  "variants": [
+   {
+    "file": "luchtfoto-huis-en-tuin-2-480.webp",
+    "h": 580,
+    "kb": 52.0,
+    "w": 480
+   },
+   {
+    "file": "luchtfoto-huis-en-tuin-2-800.webp",
+    "h": 966,
+    "kb": 121.3,
+    "w": 800
+   },
+   {
+    "file": "luchtfoto-huis-en-tuin-2-1200.webp",
+    "h": 1449,
+    "kb": 185.6,
+    "w": 1200
+   },
+   {
+    "file": "luchtfoto-huis-en-tuin-2-1600.webp",
+    "h": 1932,
+    "kb": 271.1,
+    "w": 1600
+   }
+  ],
+  "width": 1696
+ },
+ "merkelbach-bar1484": {
+  "height": 1365,
+  "master": "merkelbach_bar1484.jpg",
+  "variants": [
+   {
+    "file": "merkelbach-bar1484-480.webp",
+    "h": 320,
+    "kb": 18.2,
+    "w": 480
+   },
+   {
+    "file": "merkelbach-bar1484-800.webp",
+    "h": 533,
+    "kb": 34.7,
+    "w": 800
+   },
+   {
+    "file": "merkelbach-bar1484-1200.webp",
+    "h": 800,
+    "kb": 48.4,
+    "w": 1200
+   },
+   {
+    "file": "merkelbach-bar1484-1600.webp",
+    "h": 1066,
+    "kb": 66.5,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "merkelbach-bar9362": {
+  "height": 1001,
+  "master": "Merkelbach_bar9362.jpg",
+  "variants": [
+   {
+    "file": "merkelbach-bar9362-480.webp",
+    "h": 320,
+    "kb": 25.6,
+    "w": 480
+   },
+   {
+    "file": "merkelbach-bar9362-800.webp",
+    "h": 534,
+    "kb": 56.9,
+    "w": 800
+   },
+   {
+    "file": "merkelbach-bar9362-1200.webp",
+    "h": 801,
+    "kb": 89.6,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "museumnacht-1": {
+  "height": 800,
+  "master": "Museumnacht-1.jpg",
+  "variants": [
+   {
+    "file": "museumnacht-1-480.webp",
+    "h": 320,
+    "kb": 17.8,
+    "w": 480
+   },
+   {
+    "file": "museumnacht-1-800.webp",
+    "h": 533,
+    "kb": 39.4,
+    "w": 800
+   },
+   {
+    "file": "museumnacht-1-1200.webp",
+    "h": 800,
+    "kb": 66.3,
+    "w": 1200
+   }
+  ],
+  "width": 1200
+ },
+ "museumnacht-huize-frankendael-n8brakers-18": {
+  "height": 1333,
+  "master": "Museumnacht-Huize-Frankendael-N8brakers-18.jpg",
+  "variants": [
+   {
+    "file": "museumnacht-huize-frankendael-n8brakers-18-480.webp",
+    "h": 320,
+    "kb": 27.1,
+    "w": 480
+   },
+   {
+    "file": "museumnacht-huize-frankendael-n8brakers-18-800.webp",
+    "h": 533,
+    "kb": 62.2,
+    "w": 800
+   },
+   {
+    "file": "museumnacht-huize-frankendael-n8brakers-18-1200.webp",
+    "h": 800,
+    "kb": 104.8,
+    "w": 1200
+   },
+   {
+    "file": "museumnacht-huize-frankendael-n8brakers-18-1600.webp",
+    "h": 1066,
+    "kb": 158.3,
+    "w": 1600
+   }
+  ],
+  "width": 2000
+ },
+ "nieuwsbrief": {
+  "height": 1040,
+  "master": "nieuwsbrief.png",
+  "variants": [
+   {
+    "file": "nieuwsbrief-480.webp",
+    "h": 375,
+    "kb": 21.4,
+    "w": 480
+   },
+   {
+    "file": "nieuwsbrief-800.webp",
+    "h": 625,
+    "kb": 40.4,
+    "w": 800
+   },
+   {
+    "file": "nieuwsbrief-1200.webp",
+    "h": 937,
+    "kb": 57.7,
+    "w": 1200
+   }
+  ],
+  "width": 1332
+ },
+ "paa2018-twitter": {
+  "height": 1000,
+  "master": "PAA2018_Twitter.png",
+  "variants": [
+   {
+    "file": "paa2018-twitter-480.webp",
+    "h": 160,
+    "kb": 16.5,
+    "w": 480
+   },
+   {
+    "file": "paa2018-twitter-800.webp",
+    "h": 267,
+    "kb": 27.5,
+    "w": 800
+   },
+   {
+    "file": "paa2018-twitter-1200.webp",
+    "h": 400,
+    "kb": 37.8,
+    "w": 1200
+   },
+   {
+    "file": "paa2018-twitter-1600.webp",
+    "h": 533,
+    "kb": 49.7,
+    "w": 1600
+   },
+   {
+    "file": "paa2018-twitter-2400.webp",
+    "h": 800,
+    "kb": 70.8,
+    "w": 2400
+   }
+  ],
+  "width": 3000
+ },
+ "paul-schuitema-zelfportret-19291": {
+  "height": 1709,
+  "master": "Paul-Schuitema-Zelfportret-19291.jpg",
+  "variants": [
+   {
+    "file": "paul-schuitema-zelfportret-19291-480.webp",
+    "h": 666,
+    "kb": 26.8,
+    "w": 480
+   },
+   {
+    "file": "paul-schuitema-zelfportret-19291-800.webp",
+    "h": 1110,
+    "kb": 53.2,
+    "w": 800
+   },
+   {
+    "file": "paul-schuitema-zelfportret-19291-1200.webp",
+    "h": 1665,
+    "kb": 74.5,
+    "w": 1200
+   }
+  ],
+  "width": 1232
+ },
+ "pers-mucus": {
+  "height": 2001,
+  "master": "pers-mucus.jpg",
+  "variants": [
+   {
+    "file": "pers-mucus-480.webp",
+    "h": 469,
+    "kb": 15.7,
+    "w": 480
+   },
+   {
+    "file": "pers-mucus-800.webp",
+    "h": 782,
+    "kb": 35.7,
+    "w": 800
+   },
+   {
+    "file": "pers-mucus-1200.webp",
+    "h": 1172,
+    "kb": 53.2,
+    "w": 1200
+   },
+   {
+    "file": "pers-mucus-1600.webp",
+    "h": 1563,
+    "kb": 77.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "receptie-koetshuis-joostweddepohl": {
+  "height": 653,
+  "master": "receptie-koetshuis-joostweddepohl.jpg",
+  "variants": [
+   {
+    "file": "receptie-koetshuis-joostweddepohl-480.webp",
+    "h": 320,
+    "kb": 52.6,
+    "w": 480
+   },
+   {
+    "file": "receptie-koetshuis-joostweddepohl-800.webp",
+    "h": 533,
+    "kb": 137.4,
+    "w": 800
+   }
+  ],
+  "width": 980
+ },
+ "rj28": {
+  "height": 900,
+  "master": "RJ28.jpg",
+  "variants": [
+   {
+    "file": "rj28-480.webp",
+    "h": 720,
+    "kb": 40.4,
+    "w": 480
+   }
+  ],
+  "width": 600
+ },
+ "salon-trouwopstelling": {
+  "height": 1152,
+  "master": "Salon-trouwopstelling.jpg",
+  "variants": [
+   {
+    "file": "salon-trouwopstelling-480.webp",
+    "h": 270,
+    "kb": 28.1,
+    "w": 480
+   },
+   {
+    "file": "salon-trouwopstelling-800.webp",
+    "h": 450,
+    "kb": 59.3,
+    "w": 800
+   },
+   {
+    "file": "salon-trouwopstelling-1200.webp",
+    "h": 675,
+    "kb": 84.8,
+    "w": 1200
+   },
+   {
+    "file": "salon-trouwopstelling-1600.webp",
+    "h": 900,
+    "kb": 118.9,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "salons-trouwopstelling-2": {
+  "height": 2048,
+  "master": "Salons-trouwopstelling-2.jpg",
+  "variants": [
+   {
+    "file": "salons-trouwopstelling-2-480.webp",
+    "h": 853,
+    "kb": 47.8,
+    "w": 480
+   },
+   {
+    "file": "salons-trouwopstelling-2-800.webp",
+    "h": 1422,
+    "kb": 90.7,
+    "w": 800
+   }
+  ],
+  "width": 1152
+ },
+ "salonsalon": {
+  "height": 675,
+  "master": "SalonSalon.jpg",
+  "variants": [
+   {
+    "file": "salonsalon-480.webp",
+    "h": 316,
+    "kb": 23.8,
+    "w": 480
+   },
+   {
+    "file": "salonsalon-800.webp",
+    "h": 527,
+    "kb": 47.8,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ },
+ "schermafbeelding-2019-07-10-om-11-21-52": {
+  "height": 590,
+  "master": "Schermafbeelding-2019-07-10-om-11.21.52.png",
+  "variants": [
+   {
+    "file": "schermafbeelding-2019-07-10-om-11-21-52-480.webp",
+    "h": 315,
+    "kb": 31.8,
+    "w": 480
+   },
+   {
+    "file": "schermafbeelding-2019-07-10-om-11-21-52-800.webp",
+    "h": 524,
+    "kb": 79.3,
+    "w": 800
+   }
+  ],
+  "width": 900
+ },
+ "screen-shot-2013-12-02-at-9-21-48-am1": {
+  "height": 548,
+  "master": "Screen-Shot-2013-12-02-at-9.21.48-AM1.png",
+  "variants": [
+   {
+    "file": "screen-shot-2013-12-02-at-9-21-48-am1-480.webp",
+    "h": 445,
+    "kb": 39.8,
+    "w": 480
+   }
+  ],
+  "width": 591
+ },
+ "the-living-werk-van-peter-bogers": {
+  "height": 1536,
+  "master": "The-Living-werk-van-Peter-Bogers.jpg",
+  "variants": [
+   {
+    "file": "the-living-werk-van-peter-bogers-480.webp",
+    "h": 360,
+    "kb": 21.1,
+    "w": 480
+   },
+   {
+    "file": "the-living-werk-van-peter-bogers-800.webp",
+    "h": 600,
+    "kb": 40.1,
+    "w": 800
+   },
+   {
+    "file": "the-living-werk-van-peter-bogers-1200.webp",
+    "h": 900,
+    "kb": 55.8,
+    "w": 1200
+   },
+   {
+    "file": "the-living-werk-van-peter-bogers-1600.webp",
+    "h": 1200,
+    "kb": 78.2,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "timm-rautert": {
+  "height": 1350,
+  "master": "Timm-Rautert.jpg",
+  "variants": [
+   {
+    "file": "timm-rautert-480.webp",
+    "h": 316,
+    "kb": 46.9,
+    "w": 480
+   },
+   {
+    "file": "timm-rautert-800.webp",
+    "h": 527,
+    "kb": 124.7,
+    "w": 800
+   },
+   {
+    "file": "timm-rautert-1200.webp",
+    "h": 791,
+    "kb": 230.2,
+    "w": 1200
+   },
+   {
+    "file": "timm-rautert-1600.webp",
+    "h": 1055,
+    "kb": 380.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "trouwenmetthomas-huize-frankendael-bruidsfotograaf-amsterdam-cindy-michel-mei2015-22": {
+  "height": 800,
+  "master": "TrouwenmetThomas_Huize_Frankendael_Bruidsfotograaf_Amsterdam_Cindy_Michel_mei2015-22.jpg",
+  "variants": [
+   {
+    "file": "trouwenmetthomas-huize-frankendael-bruidsfotograaf-amsterdam-cindy-michel-mei2015-22-480.webp",
+    "h": 320,
+    "kb": 30.7,
+    "w": 480
+   },
+   {
+    "file": "trouwenmetthomas-huize-frankendael-bruidsfotograaf-amsterdam-cindy-michel-mei2015-22-800.webp",
+    "h": 533,
+    "kb": 63.0,
+    "w": 800
+   },
+   {
+    "file": "trouwenmetthomas-huize-frankendael-bruidsfotograaf-amsterdam-cindy-michel-mei2015-22-1200.webp",
+    "h": 800,
+    "kb": 92.8,
+    "w": 1200
+   }
+  ],
+  "width": 1200
+ },
+ "tuin-2": {
+  "height": 777,
+  "master": "Tuin-2.jpg",
+  "variants": [
+   {
+    "file": "tuin-2-480.webp",
+    "h": 388,
+    "kb": 47.4,
+    "w": 480
+   },
+   {
+    "file": "tuin-2-800.webp",
+    "h": 648,
+    "kb": 115.5,
+    "w": 800
+   }
+  ],
+  "width": 960
+ },
+ "tuin-bar1402": {
+  "height": 1367,
+  "master": "Tuin-bar1402.jpeg",
+  "variants": [
+   {
+    "file": "tuin-bar1402-480.webp",
+    "h": 320,
+    "kb": 59.6,
+    "w": 480
+   },
+   {
+    "file": "tuin-bar1402-800.webp",
+    "h": 534,
+    "kb": 160.9,
+    "w": 800
+   },
+   {
+    "file": "tuin-bar1402-1200.webp",
+    "h": 801,
+    "kb": 308.9,
+    "w": 1200
+   },
+   {
+    "file": "tuin-bar1402-1600.webp",
+    "h": 1068,
+    "kb": 515.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "tuin-bloesem-bar1408": {
+  "height": 1367,
+  "master": "Tuin-bloesem-bar1408.jpg",
+  "variants": [
+   {
+    "file": "tuin-bloesem-bar1408-480.webp",
+    "h": 320,
+    "kb": 60.6,
+    "w": 480
+   },
+   {
+    "file": "tuin-bloesem-bar1408-800.webp",
+    "h": 534,
+    "kb": 160.3,
+    "w": 800
+   },
+   {
+    "file": "tuin-bloesem-bar1408-1200.webp",
+    "h": 801,
+    "kb": 297.2,
+    "w": 1200
+   },
+   {
+    "file": "tuin-bloesem-bar1408-1600.webp",
+    "h": 1068,
+    "kb": 498.1,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "tuin-gedekte-tafel-isiweddings": {
+  "height": 554,
+  "master": "tuin-gedekte-tafel-isiweddings.jpg",
+  "variants": [
+   {
+    "file": "tuin-gedekte-tafel-isiweddings-370.webp",
+    "h": 554,
+    "kb": 26.0,
+    "w": 370
+   }
+  ],
+  "width": 370
+ },
+ "tuinkamer-met-uitzicht": {
+  "height": 1125,
+  "master": "Tuinkamer-met-uitzicht.jpg",
+  "variants": [
+   {
+    "file": "tuinkamer-met-uitzicht-480.webp",
+    "h": 360,
+    "kb": 21.8,
+    "w": 480
+   },
+   {
+    "file": "tuinkamer-met-uitzicht-800.webp",
+    "h": 600,
+    "kb": 46.7,
+    "w": 800
+   },
+   {
+    "file": "tuinkamer-met-uitzicht-1200.webp",
+    "h": 900,
+    "kb": 76.6,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "tuinkamer-met-uitzicht-e1485339453520": {
+  "height": 896,
+  "master": "Tuinkamer-met-uitzicht-e1485339453520.jpg",
+  "variants": [
+   {
+    "file": "tuinkamer-met-uitzicht-e1485339453520-480.webp",
+    "h": 287,
+    "kb": 19.3,
+    "w": 480
+   },
+   {
+    "file": "tuinkamer-met-uitzicht-e1485339453520-800.webp",
+    "h": 479,
+    "kb": 42.3,
+    "w": 800
+   },
+   {
+    "file": "tuinkamer-met-uitzicht-e1485339453520-1200.webp",
+    "h": 719,
+    "kb": 69.7,
+    "w": 1200
+   }
+  ],
+  "width": 1496
+ },
+ "tulio-pinto-30-maart-2014": {
+  "height": 717,
+  "master": "Tulio-Pinto-30-maart-2014.png",
+  "variants": [
+   {
+    "file": "tulio-pinto-30-maart-2014-480.webp",
+    "h": 358,
+    "kb": 35.2,
+    "w": 480
+   },
+   {
+    "file": "tulio-pinto-30-maart-2014-800.webp",
+    "h": 597,
+    "kb": 78.8,
+    "w": 800
+   }
+  ],
+  "width": 961
+ },
+ "tumblr-ms57nbzu051r2ww71o7-r2-1280-png": {
+  "height": 853,
+  "master": "tumblr_ms57nbZU051r2ww71o7_r2_1280.png.jpeg",
+  "variants": [
+   {
+    "file": "tumblr-ms57nbzu051r2ww71o7-r2-1280-png-480.webp",
+    "h": 320,
+    "kb": 25.8,
+    "w": 480
+   },
+   {
+    "file": "tumblr-ms57nbzu051r2ww71o7-r2-1280-png-800.webp",
+    "h": 533,
+    "kb": 50.3,
+    "w": 800
+   },
+   {
+    "file": "tumblr-ms57nbzu051r2ww71o7-r2-1280-png-1200.webp",
+    "h": 800,
+    "kb": 70.0,
+    "w": 1200
+   }
+  ],
+  "width": 1280
+ },
+ "uburoi21": {
+  "height": 310,
+  "master": "uburoi21.gif",
+  "variants": [
+   {
+    "file": "uburoi21-430.webp",
+    "h": 310,
+    "kb": 21.9,
+    "w": 430
+   }
+  ],
+  "width": 430
+ },
+ "untitled-2011-new-whites": {
+  "height": 1365,
+  "master": "Untitled-2011-New-whites.jpg",
+  "variants": [
+   {
+    "file": "untitled-2011-new-whites-480.webp",
+    "h": 320,
+    "kb": 1.8,
+    "w": 480
+   },
+   {
+    "file": "untitled-2011-new-whites-800.webp",
+    "h": 533,
+    "kb": 3.4,
+    "w": 800
+   },
+   {
+    "file": "untitled-2011-new-whites-1200.webp",
+    "h": 800,
+    "kb": 5.5,
+    "w": 1200
+   },
+   {
+    "file": "untitled-2011-new-whites-1600.webp",
+    "h": 1066,
+    "kb": 8.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "vacature-bedieningsmedewerker": {
+  "height": 3508,
+  "master": "Vacature-Bedieningsmedewerker.png",
+  "variants": [
+   {
+    "file": "vacature-bedieningsmedewerker-480.webp",
+    "h": 679,
+    "kb": 28.8,
+    "w": 480
+   },
+   {
+    "file": "vacature-bedieningsmedewerker-800.webp",
+    "h": 1132,
+    "kb": 59.7,
+    "w": 800
+   },
+   {
+    "file": "vacature-bedieningsmedewerker-1200.webp",
+    "h": 1698,
+    "kb": 88.2,
+    "w": 1200
+   },
+   {
+    "file": "vacature-bedieningsmedewerker-1600.webp",
+    "h": 2264,
+    "kb": 122.0,
+    "w": 1600
+   },
+   {
+    "file": "vacature-bedieningsmedewerker-2400.webp",
+    "h": 3396,
+    "kb": 182.8,
+    "w": 2400
+   }
+  ],
+  "width": 2479
+ },
+ "vooraanzicht-zomer": {
+  "height": 1521,
+  "master": "Vooraanzicht-zomer.jpg",
+  "variants": [
+   {
+    "file": "vooraanzicht-zomer-480.webp",
+    "h": 356,
+    "kb": 37.9,
+    "w": 480
+   },
+   {
+    "file": "vooraanzicht-zomer-800.webp",
+    "h": 594,
+    "kb": 84.9,
+    "w": 800
+   },
+   {
+    "file": "vooraanzicht-zomer-1200.webp",
+    "h": 891,
+    "kb": 136.9,
+    "w": 1200
+   },
+   {
+    "file": "vooraanzicht-zomer-1600.webp",
+    "h": 1188,
+    "kb": 203.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-1": {
+  "height": 2048,
+  "master": "website-1.jpg",
+  "variants": [
+   {
+    "file": "website-1-480.webp",
+    "h": 721,
+    "kb": 36.0,
+    "w": 480
+   },
+   {
+    "file": "website-1-800.webp",
+    "h": 1202,
+    "kb": 66.6,
+    "w": 800
+   },
+   {
+    "file": "website-1-1200.webp",
+    "h": 1803,
+    "kb": 89.0,
+    "w": 1200
+   }
+  ],
+  "width": 1363
+ },
+ "website-13": {
+  "height": 1365,
+  "master": "website-13.jpg",
+  "variants": [
+   {
+    "file": "website-13-480.webp",
+    "h": 320,
+    "kb": 16.4,
+    "w": 480
+   },
+   {
+    "file": "website-13-800.webp",
+    "h": 533,
+    "kb": 26.3,
+    "w": 800
+   },
+   {
+    "file": "website-13-1200.webp",
+    "h": 800,
+    "kb": 34.7,
+    "w": 1200
+   },
+   {
+    "file": "website-13-1600.webp",
+    "h": 1066,
+    "kb": 47.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-15": {
+  "height": 1584,
+  "master": "website-15.jpg",
+  "variants": [
+   {
+    "file": "website-15-480.webp",
+    "h": 371,
+    "kb": 25.0,
+    "w": 480
+   },
+   {
+    "file": "website-15-800.webp",
+    "h": 619,
+    "kb": 47.4,
+    "w": 800
+   },
+   {
+    "file": "website-15-1200.webp",
+    "h": 928,
+    "kb": 64.0,
+    "w": 1200
+   },
+   {
+    "file": "website-15-1600.webp",
+    "h": 1238,
+    "kb": 87.3,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-16": {
+  "height": 1363,
+  "master": "website-16.jpg",
+  "variants": [
+   {
+    "file": "website-16-480.webp",
+    "h": 319,
+    "kb": 9.6,
+    "w": 480
+   },
+   {
+    "file": "website-16-800.webp",
+    "h": 532,
+    "kb": 18.2,
+    "w": 800
+   },
+   {
+    "file": "website-16-1200.webp",
+    "h": 799,
+    "kb": 25.8,
+    "w": 1200
+   },
+   {
+    "file": "website-16-1600.webp",
+    "h": 1065,
+    "kb": 37.4,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-17": {
+  "height": 1363,
+  "master": "website-17.jpg",
+  "variants": [
+   {
+    "file": "website-17-480.webp",
+    "h": 319,
+    "kb": 8.1,
+    "w": 480
+   },
+   {
+    "file": "website-17-800.webp",
+    "h": 532,
+    "kb": 14.4,
+    "w": 800
+   },
+   {
+    "file": "website-17-1200.webp",
+    "h": 799,
+    "kb": 19.1,
+    "w": 1200
+   },
+   {
+    "file": "website-17-1600.webp",
+    "h": 1065,
+    "kb": 26.4,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-18": {
+  "height": 1365,
+  "master": "website-18.jpg",
+  "variants": [
+   {
+    "file": "website-18-480.webp",
+    "h": 320,
+    "kb": 39.7,
+    "w": 480
+   },
+   {
+    "file": "website-18-800.webp",
+    "h": 533,
+    "kb": 92.6,
+    "w": 800
+   },
+   {
+    "file": "website-18-1200.webp",
+    "h": 800,
+    "kb": 141.1,
+    "w": 1200
+   },
+   {
+    "file": "website-18-1600.webp",
+    "h": 1066,
+    "kb": 200.0,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-201": {
+  "height": 1363,
+  "master": "website-201.jpg",
+  "variants": [
+   {
+    "file": "website-201-480.webp",
+    "h": 319,
+    "kb": 26.2,
+    "w": 480
+   },
+   {
+    "file": "website-201-800.webp",
+    "h": 532,
+    "kb": 60.2,
+    "w": 800
+   },
+   {
+    "file": "website-201-1200.webp",
+    "h": 799,
+    "kb": 95.1,
+    "w": 1200
+   },
+   {
+    "file": "website-201-1600.webp",
+    "h": 1065,
+    "kb": 140.8,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "website-3": {
+  "height": 1333,
+  "master": "website-3.jpg",
+  "variants": [
+   {
+    "file": "website-3-480.webp",
+    "h": 320,
+    "kb": 14.4,
+    "w": 480
+   },
+   {
+    "file": "website-3-800.webp",
+    "h": 533,
+    "kb": 25.1,
+    "w": 800
+   },
+   {
+    "file": "website-3-1200.webp",
+    "h": 800,
+    "kb": 33.0,
+    "w": 1200
+   },
+   {
+    "file": "website-3-1600.webp",
+    "h": 1066,
+    "kb": 44.6,
+    "w": 1600
+   }
+  ],
+  "width": 2000
+ },
+ "website-4": {
+  "height": 1333,
+  "master": "website-4.jpg",
+  "variants": [
+   {
+    "file": "website-4-480.webp",
+    "h": 320,
+    "kb": 11.5,
+    "w": 480
+   },
+   {
+    "file": "website-4-800.webp",
+    "h": 533,
+    "kb": 24.0,
+    "w": 800
+   },
+   {
+    "file": "website-4-1200.webp",
+    "h": 800,
+    "kb": 35.9,
+    "w": 1200
+   },
+   {
+    "file": "website-4-1600.webp",
+    "h": 1066,
+    "kb": 53.7,
+    "w": 1600
+   }
+  ],
+  "width": 2000
+ },
+ "website-8": {
+  "height": 2048,
+  "master": "website-8.jpg",
+  "variants": [
+   {
+    "file": "website-8-480.webp",
+    "h": 721,
+    "kb": 81.9,
+    "w": 480
+   },
+   {
+    "file": "website-8-800.webp",
+    "h": 1202,
+    "kb": 161.4,
+    "w": 800
+   },
+   {
+    "file": "website-8-1200.webp",
+    "h": 1803,
+    "kb": 215.5,
+    "w": 1200
+   }
+  ],
+  "width": 1363
+ },
+ "wedding-amber-simon-by-nienke-van-denderen-photography-134": {
+  "height": 1365,
+  "master": "Wedding-Amber-_-Simon-by-Nienke-van-Denderen-Photography-134.jpg",
+  "variants": [
+   {
+    "file": "wedding-amber-simon-by-nienke-van-denderen-photography-134-480.webp",
+    "h": 320,
+    "kb": 49.8,
+    "w": 480
+   },
+   {
+    "file": "wedding-amber-simon-by-nienke-van-denderen-photography-134-800.webp",
+    "h": 533,
+    "kb": 118.8,
+    "w": 800
+   },
+   {
+    "file": "wedding-amber-simon-by-nienke-van-denderen-photography-134-1200.webp",
+    "h": 800,
+    "kb": 195.6,
+    "w": 1200
+   },
+   {
+    "file": "wedding-amber-simon-by-nienke-van-denderen-photography-134-1600.webp",
+    "h": 1066,
+    "kb": 292.7,
+    "w": 1600
+   }
+  ],
+  "width": 2048
+ },
+ "zakelijk-faciliteiten": {
+  "height": 1000,
+  "master": "zakelijk-faciliteiten.jpg",
+  "variants": [
+   {
+    "file": "zakelijk-faciliteiten-480.webp",
+    "h": 320,
+    "kb": 54.1,
+    "w": 480
+   },
+   {
+    "file": "zakelijk-faciliteiten-800.webp",
+    "h": 533,
+    "kb": 144.7,
+    "w": 800
+   },
+   {
+    "file": "zakelijk-faciliteiten-1200.webp",
+    "h": 800,
+    "kb": 257.8,
+    "w": 1200
+   }
+  ],
+  "width": 1500
+ },
+ "zomerdiner-koetshuis-joostweddepohl": {
+  "height": 653,
+  "master": "zomerdiner-koetshuis-joostweddepohl.jpg",
+  "variants": [
+   {
+    "file": "zomerdiner-koetshuis-joostweddepohl-480.webp",
+    "h": 320,
+    "kb": 39.3,
+    "w": 480
+   },
+   {
+    "file": "zomerdiner-koetshuis-joostweddepohl-800.webp",
+    "h": 533,
+    "kb": 92.2,
+    "w": 800
+   }
+  ],
+  "width": 980
+ },
+ "zw-diner-grote-salon-melissamilis": {
+  "height": 670,
+  "master": "zw-diner-grote-salon-melissamilis.jpg",
+  "variants": [
+   {
+    "file": "zw-diner-grote-salon-melissamilis-480.webp",
+    "h": 314,
+    "kb": 19.9,
+    "w": 480
+   },
+   {
+    "file": "zw-diner-grote-salon-melissamilis-800.webp",
+    "h": 523,
+    "kb": 40.7,
+    "w": 800
+   }
+  ],
+  "width": 1024
+ }
+}

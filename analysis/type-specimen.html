@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="nl"><head><meta charset="utf-8">
+<title>Type</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,700&family=Cormorant+Garamond:wght@300;400;600&family=Spectral:wght@300;400;600&family=Marcellus&family=Archivo:wght@400;500;600&family=EB+Garamond:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0}
+body{background:#14110C;color:#F2EDE2;font-family:Archivo,sans-serif}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:0;border-bottom:1px solid #3a332a}
+.dark{padding:56px 48px;background:#14110C url('/assets/img/cvc-img-1382-low-huizefrankendael-1600.webp') center/cover;position:relative}
+.dark::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,rgba(20,17,12,.88),rgba(20,17,12,.45))}
+.dark>*{position:relative;z-index:1}
+.light{padding:56px 48px;background:#F2EDE2;color:#14110C}
+.lbl{font:600 11px/1 Archivo,sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#C9A227;margin-bottom:22px;display:block}
+h1{font-size:60px;line-height:1;margin-bottom:14px;font-weight:400}
+.sub{font-size:15px;opacity:.75;max-width:38ch;line-height:1.6}
+p.body{font-size:17px;line-height:1.7;max-width:46ch;margin-top:10px}
+.n1 h1,.n1 p.body{font-family:'Bodoni Moda',serif}
+.n1 h1{letter-spacing:-.01em}
+.n2 h1,.n2 p.body{font-family:'Cormorant Garamond',serif}
+.n2 h1{font-weight:300;font-size:68px}
+.n3 h1,.n3 p.body{font-family:Spectral,serif}
+.n3 h1{font-weight:300}
+.n4 h1{font-family:Marcellus,serif}
+.n4 p.body{font-family:'EB Garamond',serif;font-size:18px}
+</style></head><body>
+<div class="row n1"><div class="dark"><span class="lbl">1 · Bodoni Moda</span><h1>Het laatste<br>buitenhuis van<br>Amsterdam</h1><p class="sub">Rijksmonument · trouwlocatie · Middenweg 72</p></div>
+<div class="light"><span class="lbl" style="color:#7A5F32">Bodoni Moda — lopende tekst</span><p class="body">Frankendael is de enige overgebleven buitenplaats in de Watergraafsmeer. Langs de Middenweg lagen ooit tientallen buitenplaatsen naast elkaar.</p></div></div>
+
+<div class="row n2"><div class="dark"><span class="lbl">2 · Cormorant Garamond</span><h1>Het laatste<br>buitenhuis van<br>Amsterdam</h1><p class="sub">Rijksmonument · trouwlocatie · Middenweg 72</p></div>
+<div class="light"><span class="lbl" style="color:#7A5F32">Cormorant — lopende tekst</span><p class="body">Frankendael is de enige overgebleven buitenplaats in de Watergraafsmeer. Langs de Middenweg lagen ooit tientallen buitenplaatsen naast elkaar.</p></div></div>
+
+<div class="row n3"><div class="dark"><span class="lbl">3 · Spectral</span><h1>Het laatste<br>buitenhuis van<br>Amsterdam</h1><p class="sub">Rijksmonument · trouwlocatie · Middenweg 72</p></div>
+<div class="light"><span class="lbl" style="color:#7A5F32">Spectral — lopende tekst</span><p class="body">Frankendael is de enige overgebleven buitenplaats in de Watergraafsmeer. Langs de Middenweg lagen ooit tientallen buitenplaatsen naast elkaar.</p></div></div>
+
+<div class="row n4"><div class="dark"><span class="lbl">4 · Marcellus + EB Garamond</span><h1>Het laatste<br>buitenhuis van<br>Amsterdam</h1><p class="sub">Rijksmonument · trouwlocatie · Middenweg 72</p></div>
+<div class="light"><span class="lbl" style="color:#7A5F32">EB Garamond — lopende tekst</span><p class="body">Frankendael is de enige overgebleven buitenplaats in de Watergraafsmeer. Langs de Middenweg lagen ooit tientallen buitenplaatsen naast elkaar.</p></div></div>
+</body></html>

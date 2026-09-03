@@ -1,0 +1,1064 @@
+
+
+==================== en
+TITLE: Home | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+# Welcome
+Huize Frankendael is the last 18th-century estate of Amsterdam. This unique and monumental house has been privately owned for many years. In 2008 the house became open to the public. Huize Frankendael is now available for different kinds of events and is open every last Sunday of the month for visiting.
+### Events
+Huize Frankendael has several rooms which are suitable for private dinners, meetings, weddings, and parties. Visit our web pages for more information about [business](https://huizefrankendael.nl/en/business/general/) and [private](https://huizefrankendael.nl/en/festivities/general/) meetings.
+### Restaurant Merkelbach
+Restaurant Merkelbach is located in the right coach house of Huize Frankendael. Reserve a table for the restaurant on the [website of Restaurant Merkelbach](http://www.restaurantmerkelbach.nl).
+### Practical information
+This website contains practical information about Huize Frankendael, such as [opening hours](https://huizefrankendael.nl/en/home/contact/), [itineraries](https://huizefrankendael.nl/en/home/contact/parking-route/), and [contact information](https://huizefrankendael.nl/en/home/contact/).
+Huize Frankendael | Middenweg 72 | 1097 BS Amsterdam | +3120 – 423 39 30 | info@huizefrankendael.nl
+
+==================== en_about
+TITLE: About Huize Frankendael | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+- [About Huize Frankendael](https://huizefrankendael.nl/en/about/about-huize-frankendael/)
+- [History](https://huizefrankendael.nl/en/about/history/)
+- [Working at Huize Frankendael](https://huizefrankendael.nl/en/home/contact/working-at-huize-frankendael/)
+# About Huize Frankendael
+Huize Frankendael is the last remaining country estate within the city of Amsterdam. Build in the 18th century, the house was used by people of high distinction to enjoy friendship and nature.
+While the city has enclosed the country estate, the joy of pleasure still remains. House, kitchen and garden are open throughout the year for the combination of nature, gastronomy and art&culture.
+## [Restaurant Merkelbach](http://restaurantmerkelbach.nl/)
+Restaurant Merkelbach carries de name of the former city architect Ben Merkelbach. It is located in the right coach house of Huize Frankendael. The kitchen completely endorses the [Slow Food philosophy](http://www.restaurantmerkelbach.nl/keuken). In the formal garden, where we have our terrace, you’ll experience nature and it’s seasons within the city.
+[For reservations, visit the website of restaurant Merkelbach](https://www.seatme.nl/srm/availabletimes.htm?rid=228&time=1170&date=20140522&person=2&lang=nl&af=66). Please take note you can only pay by pin or creditcard in our restaurant.
+## [Festivities](https://huizefrankendael.nl/en/festivities/festivities/) and [meetings](https://huizefrankendael.nl/en/business/business/)
+The beautiful rooms in the historic house are available for [festivities](https://huizefrankendael.nl/en/festivities/festivities/), [corporate meetings](https://huizefrankendael.nl/en/business/business/) and other gatherings. The location is an official wedding location in Amsterdam. Restaurant Merkelbach takes care of the culinary expression of these special occasions as well, of course according to our [Slow Food philosophy](http://www.restaurantmerkelbach.nl/keuken).
+
+==================== en_about_history
+TITLE: History | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Dieuwke-Spaans-en-Nick-Oberthaler-61-1500x1000.jpg']
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+- [About Huize Frankendael](https://huizefrankendael.nl/en/about/about-huize-frankendael/)
+- [History](https://huizefrankendael.nl/en/about/history/)
+- [Working at Huize Frankendael](https://huizefrankendael.nl/en/home/contact/working-at-huize-frankendael/)
+# History
+Frankendael is Amsterdam’s only remaining 17th-century country estate. The romantic park has two historic gardens – a period garden and a landscape garden – as well as a sunbathing area and marsh. In the middle of the park is the imposing Huize Frankendael (‘Frankendael House’) where cultural events are regularly organized. Slow Food restaurant Merkelbach is located in the right coach house of Huize Frankendael.
+Huize Frankendael is a cultural hotspot for business and culture in Amsterdam. The complex comprises a brasserie, culture barn, music salon, high-tech boardroom, art room and a lush green garden with a bright terrace. The Huize Frankendael hosts various exhibitions, workshops, presentations, kids craft days, wedding ceremonies, scavenger hunts, films, inspirational meetings and informal theatrical performances. An intimate living room style atmosphere provides all the right ingredients for real contact and good discussion.
+As Amsterdam rapidly grew from the 16th to early 18th century, the real estate in the city became so expensive, that rich people who wanted to enjoy a bigger property had to move further from the capital. The Park Frankendael (7 acres) in East Amsterdam, was originally one of these wealthy estates. The entrance to the park with an old ornamented gate is at the Middenweg, less than one mile (1300m) from the Tropenmuseum, driving out of the city. The beautiful old land house Frankendael (built in 1659) is visible from the street – it is one of the few of these estates remaining in Amsterdam
+Style and Landscape gardensFrankendael Park contains two historical gardens, both carefully restored at the expense of the municipality and opened in summer of 2004 for the public – the Style and the Landscape gardens.
+The Style Garden located directly behind the land house, has been created in the Regency style around 1730. It has been carefully restored following old prints and more recent drawings made in 1942 for his book about the Amsterdam gardens, by the landscape architect J.T.P. Bijhouwer.
+The Landscape Garden adjoining to the estate presents diverse Dutch landscapes, from different provinces, recreated here with a great care.
+The rest of the park also showcases different garden design. There is a part in an English free style, with a small ruin on the island, and there is a newly created modern part which is more more spacious and parklike.Huize Frankendael – the landhouse FrankendaelThe main body of the houseStill under renovation, the historical Huize Frankendael has been rebuilt into the cultural and business complex. It includes a restaurant, exhibition rooms and a music space. Behind the house, the terrace opening to the Style Garden has been created. The Huize Frankendael hosts art shows, seminars, small theatre shows as well as workshops for kids.
+Frankendael House is one of the very few remaining stately homes in Amsterdam. It is situated in a reclamation called Watergraafsmeer. After this lake was reclaimed in the 17th century, the dutch Golden Age, and turned into fertile polder land, many rich Amsterdam merchants built their country seats here. Frankendael house is the only house that is still left today. Now, the surrounding park is open to the public. The house and its garden will be restored soon. The house itself is worth a visit to the Frankendael Park. Although modernized inside, from the outside it retained its historical character.
+Two sculptures dating from 1714 representing Roman gods – Bacchus (symbolizing autumn) en Ceres (symbolizing summer) by a sculptor Ignatius van Logteren stand in front of the house, another smaller sculpture stands in the garden.
+It is located in the historical Park Frankendael, which is a lovely place to visit for a relaxing stroll with the family. There’s a playground to be discovered and also a little ruin on a small island. The restaurant in the old coach house of Frankendael House, [Restaurant Merkelbach](www.restaurantmerkelbach.nl), is open 7 days a week. With its Slow Food filosofy the restaurant is a good place for breakfast or lunch combined with a visit to the park — especially in summer when the terrace at the back of the house is open.
+The famous restaurant The Kas is also located in Park Frankendael, in a huge greenhouse dating from 1926, and is a great place for dinner, with or without children.
+## Source of text
+
+==================== en_art
+TITLE: Frankendael Foundation | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2016/01/website-15-1500x1160.jpg']
+- [Frankendael Foundation](https://huizefrankendael.nl/en/art/general/)
+- [Your visit](https://huizefrankendael.nl/en/art/visiting/)
+- [Photos art](https://huizefrankendael.nl/en/art/photos-art/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+## Contemporary art in an Amsterdam manorial estate
+Frankendael Foundation welcomes the public to the 18th-century manorial estate Huize Frankendael in Amsterdam. We disclose the house as an exhibition space for contemporary art. Inspired by the Salon-d’art, the Foundation makes art resonate throughout society by means of exhibitions, lively debates, networking and recreation both inside and outside of the estate. Frankendael Foundation merges public and private domains during Art Dinners, where artists, visitors, collectors and critics meet. These dinners offer inspiration and connect different points of view, such as science, finance and architecture.
+Each year several exhibitions are held in the house. Each exhibition is accompanied by a programme of lectures, debates, and even concerts. Subscribe to our [Facebook](https://www.facebook.com/frankendaelfoundation) page and we’ll keep you posted!
+
+==================== en_art_general
+TITLE: Frankendael Foundation | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2016/01/website-15-1500x1160.jpg']
+- [Frankendael Foundation](https://huizefrankendael.nl/en/art/general/)
+- [Your visit](https://huizefrankendael.nl/en/art/visiting/)
+- [Photos art](https://huizefrankendael.nl/en/art/photos-art/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+## Contemporary art in an Amsterdam manorial estate
+Frankendael Foundation welcomes the public to the 18th-century manorial estate Huize Frankendael in Amsterdam. We disclose the house as an exhibition space for contemporary art. Inspired by the Salon-d’art, the Foundation makes art resonate throughout society by means of exhibitions, lively debates, networking and recreation both inside and outside of the estate. Frankendael Foundation merges public and private domains during Art Dinners, where artists, visitors, collectors and critics meet. These dinners offer inspiration and connect different points of view, such as science, finance and architecture.
+Each year several exhibitions are held in the house. Each exhibition is accompanied by a programme of lectures, debates, and even concerts. Subscribe to our [Facebook](https://www.facebook.com/frankendaelfoundation) page and we’ll keep you posted!
+
+==================== en_art_photos-art
+TITLE: Photos art | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/06/krien-en-jasmijn-1500x999.jpg']
+- [Frankendael Foundation](https://huizefrankendael.nl/en/art/general/)
+- [Your visit](https://huizefrankendael.nl/en/art/visiting/)
+- [Photos art](https://huizefrankendael.nl/en/art/photos-art/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Photos
+IMAGES: DSC01613-600x600.jpg, DSC06472-600x600.jpg, DSC08788-600x600.jpg, DSC08810-600x600.jpg, website-17-600x600.jpg, website-18-600x600.jpg, DSC06510-600x600.jpg, kunst-reserveren-600x600.jpg, crisis3-02-600x600.jpg, website-1-600x600.jpg, website-13-600x600.jpg, website-4-600x600.jpg
+
+==================== en_art_visiting
+TITLE: Your visit | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2016/01/website-8-1500x2254.jpg']
+- [Frankendael Foundation](https://huizefrankendael.nl/en/art/general/)
+- [Your visit](https://huizefrankendael.nl/en/art/visiting/)
+- [Photos art](https://huizefrankendael.nl/en/art/photos-art/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+## Address
+Huize Frankendael Middenweg 72 1097 BS Amsterdam
+Find us on [Google Maps](https://www.google.nl/maps/place/Huize+Frankendael%2F+restaurant+Merkelbach/@52.3511713,4.9313448,17z/data=!3m1!4b1!4m2!3m1!1s0x47c60964e6493f67:0x8b956eb48aa6208)
+## Getting there & away
+## Parking
+Secure, covered parking is available at the VOMAR multi-storey car park, diagonally opposite Huize Frankendael. Pay for your exit ticket in the restaurant by pin or credit card.
+There are also plenty of parking opportunities along the Hugo de Vrieslaan; from Monday up to and including Saturday, between 9 AM and 9 PM.
+## Public transport
+Departing from Amsterdam’s Central Railway Station: tram 9, STOP Hugo de Vrieslaan.
+Departing from Amsterdam Amstel Railway Station: bus 46 (final destination: Amsterdam Bijlmer), bus 65 (final destination: KNSM Eiland), bus 320 (final destination: Hilversum), bus 327 (final destination: Almere Haven), STOP Middenweg.
+Get [Amsterdam Travel Tickets](https://www.discoverholland.com/tickets) and travel unlimited across Amsterdam for 1-, 2- or 3-days.
+
+==================== en_business
+TITLE: Business | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/Boardroom-1-1500x860.jpg']
+- [Business](https://huizefrankendael.nl/en/business/general/)
+- [Rooms](https://huizefrankendael.nl/en/business/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Business
+Huize Frankendael caters for business events for groups up to 300 people. The 18th century [salons](https://huizefrankendael.nl/en/business/rooms/) and 19th century [rooms](https://huizefrankendael.nl/en/business/rooms/) in the house provide a stately backdrop for a private dinner, a training session or meeting. The [coach house](https://huizefrankendael.nl/en/business/rooms/) is another such inspirational setting.
+## [Slow Food Gastronomy](http://restaurantmerkelbach.nl/keuken)
+[Restaurant Merkelbach](http://restaurantmerkelbach.nl/home) serves high quality breakfast, lunch, drinks or dinner in every room. Bearing in mind the [Slow Food filosofy of our kitchen](http://www.restaurantmerkelbach.nl/keuken).
+## Facilities
+We are on hand to discuss your individual needs with you personally. We take in mind your particular needs and our team makes sure you feel at home. All rooms at Huize Frankendael boast free wifi. Beamers, screens and flip-over charts can be positioned ready for you, upon request. The proximity to the A10 ring road and ample [parking opportunities](https://huizefrankendael.nl/en/home/contact/parking-route/) (exit tickets are provided for the nearby multi-storey car park) make this the ideal business event venue. Please send an email to [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl)for more information.
+
+==================== en_business_rooms
+TITLE: Rooms | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Frankendael_Foundation_Amsterdam_Reyn_van_der_Lugt_collection-4749.jpg']
+- [Business](https://huizefrankendael.nl/en/business/general/)
+- [Rooms](https://huizefrankendael.nl/en/business/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Rooms
+## Boardroom
+The contemporary boardroom is located on the second floor. This room looks out over the classical formal garden on the one side, and the cityscape on the other. This room includes a large projection screen as an integral feature. New works of art are continually placed in the boardroom. We are more than happy to inform you further about the artwork at Huize Frankendael. [Photo impression](https://huizefrankendael.nl/en/photos/#boardroom)
+## Salons
+The salons on the first floor look out over the surrounding gardens. The fireplace in the big salon was originally located in the mayoral residence. The ceiling is decorated with the earliest rococo stuccowork to be found in the Netherlands. The grand, striking salons are truly exceptional event venues. [Photo impression](https://huizefrankendael.nl/en/photos/#salons)
+## Garden room
+The garden room on the first floor was added in the 18th century and boasts views across the formal gardens from three of its windows. This truly is a unique and inspirational space for a private meeting or dinner; in fact the garden room is often utilised as a breakout room. [Photo impression](https://huizefrankendael.nl/en/photos/#salons)
+## Coach house
+The coach house is the space that still most resembles an atmospheric farmstead right in the city centre. It offers endless possibilities. A mobile bar allows for events both in and outdoors. Its covered patio is a feature unique to this space. [Photo impression](https://huizefrankendael.nl/en/photos/#coach-house)
+
+==================== en_business_rooms_boardroom
+TITLE: Boardroom | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/Tuin-bar1402-1500x1001.jpeg']
+- [Business](https://huizefrankendael.nl/en/business/general/)
+- [Rooms](https://huizefrankendael.nl/en/business/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Board rooms
+IMAGES: Boardroom-detail-1-390x607.jpg, Boardroom-detail-390x585.jpg
+
+==================== en_business_rooms_coach-house
+TITLE: Coach House | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Koetshuis-22-1500x1000.jpg']
+- [Business](https://huizefrankendael.nl/en/business/general/)
+- [Rooms](https://huizefrankendael.nl/en/business/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Coach house
+IMAGES: ABF090829_0336-390x260.jpg, Koetshuis-4-390x295.jpg, Koetshuis-6-390x261.jpg, Merkelbach_bar9362-390x260.jpg
+
+==================== en_business_rooms_garden-room
+TITLE: Garden Room | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/zakelijk-faciliteiten.jpg']
+- [Business](https://huizefrankendael.nl/en/business/general/)
+- [Rooms](https://huizefrankendael.nl/en/business/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Garden Room
+IMAGES: Kleine-Boardroom-1-390x586.jpg, Tuinkamer-met-uitzicht-390x293.jpg
+
+==================== en_business_rooms_salons
+TITLE: Salons | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/feestelijk-contact.jpg']
+- [Business](https://huizefrankendael.nl/en/business/general/)
+- [Rooms](https://huizefrankendael.nl/en/business/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Salons
+IMAGES: Grote-Salon-gedekt-390x340.jpg, Grote-salon-gedekte-tafels-bar9418-390x260.jpg, Grote-salon-tafeldekken-390x585.jpg
+
+==================== en_calendar
+TITLE: Calendar | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/Tuin-bar1402-1500x1001.jpeg']
+- [Calendar](https://huizefrankendael.nl/en/calendar/)
+# Calendar
+Get inspired about art & culture, history and Slow Food gastronomy by reading our monthly newsletter. Subscribe with the form on this page.
+[View our current and past newsletters (in Dutch).](https://huizefrankendael.nl/nl/agenda/nieuwsbrief/)
+## Every last Sunday of the month
+Open House 12-17h
+## Facebook
+Please like us on Facebook and be inspired by our news about Slow Food, Art & Culture.
+[Huize Frankendael](https://www.facebook.com/pages/Huize-Frankendael-restaurant-Merkelbach/177468635632918?fref=ts) – [Restaurant Merkelbach](https://www.facebook.com/restaurantmerkelbach)
+## Subscribe now!
+//
+
+==================== en_festivities
+TITLE: Festivities | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/ABF090829_0336-1500x998.jpg']
+- [Festivities](https://huizefrankendael.nl/en/festivities/general/)
+- [Wedding](https://huizefrankendael.nl/en/festivities/wedding/)
+- [Rooms](https://huizefrankendael.nl/en/festivities/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Fesitivities
+## Unique location
+As the last remaining country estate in Amsterdam, Huize Frankendael is one of the city’s top 10 monumental buildings. Its appeal goes far and beyond its history as nowadays you can celebrate your birthday, organize a dinner or get married here. All the [salons](https://huizefrankendael.nl/en/festivities/rooms/) and [rooms](https://huizefrankendael.nl/en/festivities/rooms/) throughout the house are open to the public! Festivities can be arranged at Huize Frankendael for between 10 and 300 persons.
+## [Slow Food Gastronomy](http://www.restaurantmerkelbach.nl/keuken)
+Receptions and diners are taken care of by our [restaurant Merkelbach](http://www.restaurantmerkelbach.nl). Merkelbach serves high quality food while completely endorsing [Slow Food values](http://www.restaurantmerkelbach.nl/keuken).
+## Thousand-and-one possibilities
+A garden opera, a dinner for 300 people in view of the house or a “Hollandse Nieuwe” herring party. The possibilities are endless at Huize Frankendael; all sorts of new ideas are considered.
+## Personal
+Every party is personal, which is why we are on hand to discuss your individual needs with you in depth. Please send an email to [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl) for an appointment.
+
+==================== en_festivities_rooms
+TITLE: Rooms | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/koetshuis-disco-licht-melissamilis.jpg']
+- [Festivities](https://huizefrankendael.nl/en/festivities/general/)
+- [Wedding](https://huizefrankendael.nl/en/festivities/wedding/)
+- [Rooms](https://huizefrankendael.nl/en/festivities/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Rooms
+## Salons
+Our salons are the most popular. The golden wall coverings and marble hallways evoke grand impressions; the reason why the big salon is our wedding room is plain to see. Many ceremonial and family portraits have been taken on the stairs in front of the house. [Photo impression](https://huizefrankendael.nl/en/photos/#salons)
+## Coach house
+The coach house is often regarded as the most atmospheric part of the house. The drinking troughs show where the horses once stood. The coach house embodies both permanency and ambience. With its own bar and buffet we can match all types of requests. The space can be used as it is, or can be divided in two; and that’s not forgetting its private patio, under the magnolia tree. Parties and receptions are regularly held in the coach house. [Photo impression](https://huizefrankendael.nl/en/photos/#coach-house)
+## Formal Garden
+Our formal garden is beautifully every season, but when it’s summertime the garden shows herself with abundant green. The rooms of the house go seamlessly into the lovely and soothing green of the garden. [Photo impression](https://huizefrankendael.nl/en/photos/#garden)
+
+==================== en_festivities_rooms_coach-house
+TITLE: Coach House | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/koetshuis-diner-detail-2-plumtreewedding.jpg']
+- [Festivities](https://huizefrankendael.nl/en/festivities/general/)
+- [Wedding](https://huizefrankendael.nl/en/festivities/wedding/)
+- [Rooms](https://huizefrankendael.nl/en/festivities/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Coach house
+IMAGES: ABF090829_0336-390x260.jpg, Koetshuis-19-390x258.jpg, Koetshuis-22-390x260.jpg, Koetshuis-4-390x295.jpg, Koetshuis-6-390x261.jpg, Merkelbach_bar9362-390x260.jpg, koetshuis-diner-detail-2-plumtreewedding-390x260.jpg, Feest-buiten-joostweddepohl-390x260.jpg, koetshuis-diner-open-deuren-joostweddepohl-390x260.jpg, zomerdiner-koetshuis-joostweddepohl-390x260.jpg
+
+==================== en_festivities_rooms_formal-garden
+TITLE: Formal Garden | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/zakelijk-faciliteiten.jpg']
+- [Festivities](https://huizefrankendael.nl/en/festivities/general/)
+- [Wedding](https://huizefrankendael.nl/en/festivities/wedding/)
+- [Rooms](https://huizefrankendael.nl/en/festivities/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Formal Garden
+IMAGES: Koetshuis-22-390x260.jpg, Koetshuis-6-390x261.jpg, Feest-buiten-joostweddepohl-390x260.jpg, Huize-Frankendael-tuin-19-390x261.jpg, Tuin-bar1402-390x260.jpeg, buiten-diner-personen-isiweddings.jpg, receptie-koetshuis-joostweddepohl-390x260.jpg, tuin-gedekte-tafel-isiweddings.jpg
+
+==================== en_festivities_rooms_salons
+TITLE: Salons | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+- [Festivities](https://huizefrankendael.nl/en/festivities/general/)
+- [Wedding](https://huizefrankendael.nl/en/festivities/wedding/)
+- [Rooms](https://huizefrankendael.nl/en/festivities/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+# Salons
+IMAGES: ABF090829_0185-390x260.jpg, Bruiloft-grote-salon-melissamillis-390x257.jpg, Grote-Salon-gedekt-390x340.jpg, Tuinkamer-met-uitzicht-390x293.jpg, diner-grote-salon-melissamillis-390x581.jpg, zw-diner-grote-salon-melissamilis-390x255.jpg
+
+==================== en_festivities_wedding
+TITLE: Wedding | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2016/12/TrouwenmetThomas_Huize_Frankendael_Bruidsfotograaf_Amsterdam_Cindy_Michel_mei2015-22.jpg']
+- [Festivities](https://huizefrankendael.nl/en/festivities/general/)
+- [Wedding](https://huizefrankendael.nl/en/festivities/wedding/)
+- [Rooms](https://huizefrankendael.nl/en/festivities/rooms/)
+- [Photos](https://huizefrankendael.nl/en/photos/)
+- [Contact](https://huizefrankendael.nl/en/home/contact/)
+
+==================== en_home_contact
+TITLE: Contact | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/algemeen-routeparkeren.jpg']
+Our restaurant is open daily from 9h-18h, for coffee & cake, à la carte lunch, and drinks.
+We kindly ask you to make lunch reservations via our website.
+We do not serve dinner. However, it is possible to organize a private dinner in one of the rooms in our house. For questions regarding private dinners or meeting rooms, you can (preferably) send an email to: info@huizefrankendael.nl
+# Address
+Huize Frankendael Middenweg 72 1097 BS Amsterdam 020-4233930
+## Opening hours
+Monday 8.30h-18h Tuesday 8.30h-18h Wednesday 8.30h-18h Thursday 8.30h-18h Friday 8.30h-18h Saturday 8.30h-18h Sunday 9h-18h
+## Adjusted opening hours
+From May through September, we host many weddings at our venue during the weekends. Our lunch hours are often adjusted on these days. Our online reservation system will automatically notify you if lunch is not available.
+## Wedding photography
+Unfortunately, this is not possible, only when you are getting married here.
+Route .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+## Road works Amsterdam Oost
+Please take road works into account. Our house is still accessible and you can park your car along the Middenweg in front of the house or in the VOMAR parking garage. For more information, please check the [Gemeente Amsterdam website](https://www.amsterdam.nl/verkeer-vervoer/wegwerkzaamheden/).
+## Parking
+You can park safely and covered in the VOMAR parking garage, diagonally opposite Huize Frankendael (€6.00 ​​per hour).
+Current parking prices in the area could be found via this link: [https://www.amsterdam.nl/parkeren/](https://www.amsterdam.nl/parkeren/)
+There are parking possibilities in the immediate vicinity. This is paid parking, from Monday to Saturday from 9:00 AM to 9:00 PM, for €3.90 per hour on the Hugo de Vrieslaan, and for €5.00 per hour on the Middenweg. Parking is free on Sundays. Current information regarding P+Rs in Amsterdam could be found at: [https://www.amsterdam.nl/parkeren/parkeren-reizen/](https://www.amsterdam.nl/parkeren/parkeren-reizen/)
+View the detailed [route description](https://huizefrankendael.nl/en/home/contact/parking-route/).
+## Reservations rooms Huize Frankendael
+For questions regarding reservations of rooms in Huize Frankendael, you can send an email to: info@huizefrankendael.nl
+## Reservations Restaurant Merkelbach: coffee – lunch – drinks
+For reservations for restaurant Merkelbach (lunch or drinks), please click on the BOOK NOW-button on this page, or visit our terrace & register directly.
+Please notice that it is only possible to pay with pin/creditcard in our restaurant.
+## Team
+If you have questions, please [contact us: info@huizefrankendael.nl](https://huizefrankendael.nl/en/home/contact/our-team/)
+## Jobs at Huize Frankendael
+[View our vacancies](https://huizefrankendael.nl/en/home/contact/working-at-huize-frankendael/)
+## Instagram & Facebook
+[Go to Instagram >](https://www.instagram.com/explore/locations/228499094/) [Go to Facebook >](https://www.facebook.com/Huize-Frankendael-restaurant-Merkelbach-177468635632918/)
+
+==================== en_home_contact_our-team
+TITLE: Our Team | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/kunst-algemeen.jpg']
+# Our Team
+# Huize Frankendael, Restaurant Merkelbach
+## Bodo Groen (financial director)
+T +31 (0) 20 423 39 30 E [bureau@huizefrankendael.nl](mailto:bureau@huizefrankendael.nl)
+## Geert Burema (chef de cuisine, gastronomy director)
+T +31 (0) 20 423 39 30 E [geert@restaurantmerkelbach.nl](mailto:geert@restaurantmerkelbach.nl)
+## Lise Schmetz (Event manager)
+T +31 (0) 20 423 39 30 E [lise@huizefrankendael.nl](mailto:lise@huizefrankendael.nl)
+## Kitty Ludwig (Banqueting manager)
+T +31 (0) 20 423 39 30 E [kitty@huizefrankendael.nl](mailto:kitty@huizefrankendael.nl)
+## Jascha Goudt (Restaurant manager)
+T +31 (0) 20 423 39 30 E [jascha@restaurantmerkelbach.nl](mailto:jascha@restaurantmerkelbach.nl)
+##### webdesign www.loupe.nl
+
+==================== en_home_contact_parking-route
+TITLE: Route & Parking | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/algemeen-routeparkeren.jpg']
+# Route & parking
+Find the location on [Google Maps](http://maps.google.com/maps?f=q&hl=nl&geocode=&q=Middenweg+72,+amsterdam&sll=37.0625,-95.677068&sspn=51.708931,79.101563&ie=UTF8&z=16&iwloc=addr).
+## Address
+Huize Frankendael Middenweg 72 1097 BS Amsterdam
+## Parking
+Secure, covered parking is available at the VOMAR multi-storey car park, diagonally opposite Huize Frankendael. There are also plenty of parking opportunities along the Middenweg and Hugo de Vrieslaan.
+## By public transport
+Huize Frankendael is located in the Watergraafsmeer area of Amsterdam-East and is easily accessible by public transport, for example:
+1. From Amsterdam Muiderpoort on bus route No.41 (Holendrecht); stop Hugo de Vrieslaan
+2. From Amstel on:
+bus route no. 46 (Amsterdam Bijlmer), stop Middenweg bus route no. 40 (Muiderpoortstation), stop Kruislaan bus route no. 320 (Hilversum), stop Middenweg bus route no. 322 (Almere Parkwijk), stop Middenweg bus route no. 327 (Almere Haven); stop Middenweg
+Travel unlimited for 1-, 2- or 3-days with public transport across Amsterdam using a [Amsterdam Travel Ticket](https://www.ns.nl/producten/en/overige-kaartjes/p/amsterdam-travel-ticket). Get your tickets [here](https://www.ns.nl/producten/en/overige-kaartjes/p/amsterdam-travel-ticket).
+## By car
+### From direction The Hague
+Via the A4, direction Amsterdam. At Amsterdam join the A10 ring road south. Come off at the s113-Watergraafsmeer exit, direction Diemen. Carry straight on (follow signs to the s113) and turn left at Middenweg/s113. Café Restaurant Merkelbach is located at No. 72 Middenweg, next to Restaurant De Kas, after approx. 1.7 km.
+### From direction Amersfoort
+Via the A1/E231, direction Amsterdam. At Amsterdam come off at exit A10/E35, direction ring road Amsterdam (east). Take the s113-Watergraafsmeer exit, direction Diemen. Carry straight on (follow signs to the s113) and turn right at Middenweg/s113. Café Restaurant Merkelbach is located at No. 72 Middenweg, next to Restaurant De Kas, after approx. 1.7 km.
+### From direction Utrecht
+Via the A2/E35, direction Amsterdam. Come off at exit A10, direction Zaanstad. Take the s113-Watergraafsmeer exit, direction Diemen. Carry straight on (follow signs to the s113) and turn left at Middenweg/s113. Café Restaurant Merkelbach is located at No. 72 Middenweg, next to Restaurant De Kas, after approx. 1.7 km.
+### From direction Alkmaar
+Via the A9, direction Amsterdam. Come off at exit E19/A4, direction Amsterdam. Join the A10. Take the s113-Watergraafsmeer exit, direction Diemen. Carry straight on (follow signs to the s113) and turn left at Middenweg/s113. Café Restaurant Merkelbach is located at No. 72 Middenweg, next to Restaurant De Kas, after approx. 1.7 km.
+
+==================== en_home_contact_working-at-huize-frankendael
+TITLE: Working at Huize Frankendael | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Koetshuis-19-1500x990.jpg']
+# Working at Huize Frankendael
+[Restaurant Merkelbach](http://www.restaurantmerkelbach.nl) is looking for:
+## Kitchen
+Sous chef and chef de partie
+&
+Pot washer
+Please send your application and CV to [geert@restaurantmerkelbach.nl](mailto:geert@restaurantmerkelbach.nl) for the attention of Geert Burema.
+## Service (only dutch speaking)
+Restaurant manager
+&
+Experienced serving staff
+Please send your application and CV to [info@huizefrankendael](mailto:info@huizefrankendael.nl) for the attention of Bodo Groen.
+
+==================== en_photos
+TITLE: Photos | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+# Salons
+# Wedding at Huize Frankendael
+# Garden
+# Boardroom
+# The house
+# Coach house
+# Art
+# Our kitchen
+IMAGES: ABF090829_0185-600x600.jpg, DSC08788-600x600.jpg, DSC08836-600x600.jpg, Grote-Salon-gedekt-600x600.jpg, Grote-salon-gedekte-tafels-bar9418-600x600.jpg, Kleine-Boardroom-1-600x600.jpg, Koetshuis-22-600x600.jpg, Tuinkamer-met-uitzicht-e1485339453520-600x600.jpg, diner-grote-salon-melissamillis-600x600.jpg, merkelbach_bar1484-600x600.jpg, DSC06510-600x600.jpg, DSC2306-600x600.jpg, crisis3-15-600x600.jpg, Dieuwke-Spaans-en-Nick-Oberthaler-24-600x600.jpg, Frankendael_Foundation_Amsterdam_Reyn_van_der_Lugt_collection-4815-600x600.jpg, kunst-agenda-600x600.jpg, kunst-contact-600x600.jpg, Tuin-bloesem-bar1408-600x600.jpg, Boardroom-1-600x600.jpg, Tuin-bar1402-600x600.jpeg
+
+==================== en_reviews
+TITLE: Reviews | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+# Reviews
+## [Review Johannes van Dam, Het Parool](https://huizefrankendael.nl/wp-content/uploads/2011/06/Het_Parool_Johannes_van_Dam_27-12-2008.jpg)
+[View jpg](https://huizefrankendael.nl/wp-content/uploads/2011/06/Het_Parool_Johannes_van_Dam_27-12-2008.jpg)
+## [Review Food & Wines](https://huizefrankendael.nl/wp-content/uploads/2011/06/Food_and_Wines_mei-2009.pdf)
+[View pdf](https://huizefrankendael.nl/wp-content/uploads/2011/06/Food_and_Wines_mei-2009.pdf)
+## [Review Green2](https://huizefrankendael.nl/wp-content/uploads/2011/06/Green2_-_Merkelbach_Restaurant_met_karakter.pdf)
+[View pdf](https://huizefrankendael.nl/wp-content/uploads/2011/06/Green2_-_Merkelbach_Restaurant_met_karakter.pdf)
+## [Review Misset Horeca](https://huizefrankendael.nl/wp-content/uploads/2011/06/Misset_Horeca-16-01-2009.pdf)
+[View pdf](https://huizefrankendael.nl/wp-content/uploads/2011/06/Misset_Horeca-16-01-2009.pdf)
+## [Review Time Out Amsterdam](https://huizefrankendael.nl/wp-content/uploads/2011/06/Time_Out_Amsterdam_december-2008.pdf)
+[View pdf](https://huizefrankendael.nl/wp-content/uploads/2011/06/Time_Out_Amsterdam_december-2008.pdf)
+## [Review NRC Next](http://www.nrcnext.nl/koken/2011/05/20/een-goed-verhaal/)
+[View website NRC Next](http://www.nrcnext.nl/koken/2011/05/20/een-goed-verhaal/)
+## [Review De Telegraaf](https://huizefrankendael.nl/wp-content/uploads/2011/06/De_Telegraaf_01-03-2009.jpg)
+[View jpg](https://huizefrankendael.nl/wp-content/uploads/2011/06/De_Telegraaf_01-03-2009.jpg)
+
+==================== nl
+TITLE: NEDERLANDS | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+# Welkom bij Huize Frankendael
+Huize Frankendael is het laatste buitenhuis van Amsterdam. Dit unieke en monumentale pand is jarenlang bewoond geweest. Sinds 2008 is het huis opengesteld aan het publiek. Zo is het huis iedere laatste zondag van de maand te bezichtigen en je kan er allerlei evenementen organiseren. In het rechtergedeelte van het huis is [Restaurant Merkelbach](http://restaurantmerkelbach.nl/) gevestigd, dat zeven dagen per week geopend is.
+Are you an English visitor? Visit our [English website](https://huizefrankendael.nl/en/home/).
+### Evenementen
+Huize Frankendael heeft verscheidene kamers die geschikt zijn voor private diners, vergaderingen, bruiloften of feesten. Bezoek onze pagina’s met informatie over [zakelijke](https://huizefrankendael.nl/nl/zakelijk/algemeen/) en [particuliere](https://huizefrankendael.nl/nl/feestelijk/algemeen/) bijeenkomsten.
+### Restaurant Merkelbach
+In het rechter koetshuis van Huize Frankendael bevindt zich Restaurant Merkelbach. Reserveer een tafel voor het restaurant via de [website van restaurant Merkelbach](http://restaurantmerkelbach.nl/).
+### Praktische informatie
+Op deze website vind je allerlei praktische informatie over Huize Frankendael zoals [openingstijden](http://restaurantmerkelbach.nl/), [onze agenda](https://huizefrankendael.nl/nl/agenda/), [routebeschrijvingen](https://huizefrankendael.nl/nl/thuis/contact/route-parkeren/) en [contactgegevens](https://huizefrankendael.nl/nl/thuis/contact/).
+Huize Frankendael | Middenweg 72 | 1097 BS Amsterdam | 020 – 423 39 30 | info@huizefrankendael.nl
+
+==================== nl_agenda
+TITLE: Agenda activiteiten - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/Tuin-bar1402-1500x1001.jpeg']
+# Agenda
+## Altijd wat te doen
+Bekijk onze social media of de [kunstagenda](https://huizefrankendael.nl/nl/kunst/) voor het programma van de komende tijd. [Inschrijven voor de nieuwsbrief](https://huizefrankendael.nl/nl/nieuwsbrief/) kan natuurlijk ook.
+## Facebook
+- [Huize Frankendael](https://www.facebook.com/pages/Huize-Frankendael-restaurant-Merkelbach/177468635632918?fref=ts)
+- [Restaurant Merkelbach](https://www.facebook.com/restaurantmerkelbach)
+# Iedere zondag
+# Nieuwsbrief
+Blijf op de hoogte!
+// [Bekijk eerdere nieuwsbrieven >](https://huizefrankendael.nl/nl/nieuwsbrief/)
+# [Nu](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/nu/)
+## [Momenteel hebben wij geen tentoonstelling in huis](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/nu/momenteel-hebben-wij-geen-tentoonstelling-in-huis/)
+Wil je zelf een tentoonstelling organiseren, mail dan naar [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl)
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/nu/momenteel-hebben-wij-geen-tentoonstelling-in-huis/)
+# [Eerder](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/)
+## [Young Collectors Salon](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/)
+18 oktober 2018 20.00u-22.00u RSVP via [link](mailto:info@youngcollectorscircle.nl.)
+Op donderdagavond 18 oktober vindt de Young Collectors Salon in Huize Frankendael plaats, in het kader van de tentoonstelling ‘The Image of a Private Collection’. In deze salon staat de reis die het kunstwerk aflegt centraal: Van het atelier van de kunstenaar naar de galerie naar de verzamelaar en uiteindelijk naar bruikleen in een tentoonstelling. Aan de hand van werken uit de tentoonstelling vertellen verzamelaars, kunstenaars en galeriehouders over het kunstwerk en hun rol in de kunstwereld….
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/)
+## [Public Art Amsterdam](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/)
+De Frankendael Foundation was onderdeel van Public Art Amsterdam. Tussen juni en september 2018 bundelden 11 toonaangevende Amsterdamse kunstinstellingen hun krachten om de rijkdom van de publieke ruimte van Amsterdam te tonen, tijdens de manifestatie ‘Pay Attention Please!’
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/)
+## [Museumnacht 2018](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/)
+3 november 2018
+Kom aanstaande zaterdag naar [Museumnacht Amsterdam 2018](https://www.facebook.com/events/184433625449235/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&__tn__=KH-R&eid=ARA_gPsuIQDihYlcw979qcommJRNeqBW4X89vYiavZArxhw0ebzxnnXlghyohTCgWfcnalUKmIGuSDPR&fref=mentions&__xts__%5B0%5D=68.ARAkud9138IfTAbxTbZ6ARdPRJCLgxUc8gweerpwkq17phzrLiE9XIQd5oduv41zTuyFyPF9Xhv08rIyhXTq-SCgEonxShoBb37a9yF1JfISR4ozzIFpIZtWEsVY9mMUTq4VYDO2rVHJg4vYNWvNENfJoDCjKdpfP1TuGVLt26OJwVR6LMoEt3UyuOnMkDoFmd-wRM9Iow-hfUn9CwUvC7Qt6KI)! Het volledige programma in Huize Frankendael:
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/)
+[Alle eerdere tentoonstellingen >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/)
+IMAGES: Dieuwke-Spaans-en-Nick-Oberthaler-24-390x260.jpg, PAA2018_Twitter-390x130.png, Museumnacht-1-390x260.jpg, beeld-event-18-oktober-390x219.jpg
+
+==================== nl_feestelijk
+TITLE: Feestelijke evenementen - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/02/Bruiloft-CarienKrijn-305-web-1500x1000.jpg']
+- [Feestelijk](https://huizefrankendael.nl/nl/feestelijk/algemeen/)
+- [Trouwen](https://huizefrankendael.nl/nl/feestelijk/trouwen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/feestelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Feestelijk
+## Unieke locatie
+Huize Frankendael is als laatste buitenplaats van Amsterdam één van de top tien monumenten van de stad. Niet alleen de geschiedenis spreekt tot de verbeelding, vandaag de dag kun je hier je verjaardag vieren, een diner organiseren of trouwen. Alle [salons](https://huizefrankendael.nl/nl/feestelijk/ruimtes/), [kamers](https://huizefrankendael.nl/nl/feestelijk/ruimtes/) en vertrekken in het hele huis staan voor je open!
+Bij Huize Frankendael kunt je feestvieren met 10 tot 300 personen.
+## Private dining
+Onze kamers bieden een unieke achtergrond voor een privé diner, verzorgd door de keuken van [Restaurant Merkelbach](http://restaurantmerkelbach.nl/). Zowel een sit-down dinner als een walking dinner vallen onder de mogelijkheden.
+## Feesten en borrels
+Voor verjaardagen of promotiefeesten kan je zowel in onze salons als in het koetshuis terecht. In het koetshuis organiseren wij uitgebreide borrels of feesten met een DJ. Geniet zorgeloos van je onvergetelijke momenten in één van onze ruimtes.
+## Trouwen
+Huize Frankendael is een officiële trouwlocatie. Bruiloften kunnen van begint tot eind bij ons in huis gevierd worden. Ons team neemt graag alle zorgen uit handen. De combinatie tussen binnen en buiten maakt deze locatie tot een unieke plek in Amsterdam. Hier vind je [meer informatie](https://huizefrankendael.nl/nl/feestelijk/trouwen/) over trouwen bij Huize Frankendael.
+## Slow Food Gastronomie
+Borrel en diner voor je feest wordt op topniveau verzorgd door [Restaurant Merkelbach](http://restaurantmerkelbach.nl/) met inachtneming van de [Slow Food filosofie](http://www.restaurantmerkelbach.nl/keuken) van de keuken.
+## Duizend-en-één mogelijkheden
+Een opera in de tuin, een diner voor 300 gasten voor het huis of een Hollandse Nieuwe Haringpartij? De mogelijkheden zijn talrijk op Huize Frankendael. Wij omarmen ieder idee, hoe ludiek ook.
+## Persoonlijk
+Ieder feest is persoonlijk. Daarom nemen wij graag je wensen, onder het genot van een kop koffie, persoonlijk met je door. Mail naar [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl) voor een afspraak.
+
+==================== nl_feestelijk_ruimtes_koetshuis
+TITLE: Koetshuis | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/koetshuis-diner-detail-2-plumtreewedding.jpg']
+- [Feestelijk](https://huizefrankendael.nl/nl/feestelijk/algemeen/)
+- [Trouwen](https://huizefrankendael.nl/nl/feestelijk/trouwen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/feestelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Koetshuis
+IMAGES: ABF090829_0336-390x260.jpg, Koetshuis-19-390x258.jpg, Koetshuis-22-390x260.jpg, Koetshuis-4-390x295.jpg, Koetshuis-6-390x261.jpg, Merkelbach_bar9362-390x260.jpg, koetshuis-diner-detail-2-plumtreewedding-390x260.jpg, Feest-buiten-joostweddepohl-390x260.jpg, koetshuis-diner-open-deuren-joostweddepohl-390x260.jpg, zomerdiner-koetshuis-joostweddepohl-390x260.jpg
+
+==================== nl_feestelijk_ruimtes_salons
+TITLE: Salons | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Grote-salon-gedekte-tafels-bar9418-1500x1001.jpg']
+- [Feestelijk](https://huizefrankendael.nl/nl/feestelijk/algemeen/)
+- [Trouwen](https://huizefrankendael.nl/nl/feestelijk/trouwen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/feestelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Salons
+IMAGES: ABF090829_0185-390x260.jpg, Bruiloft-grote-salon-melissamillis-390x257.jpg, Grote-Salon-gedekt-390x340.jpg, Salon-trouwopstelling-390x219.jpg, Salons-trouwopstelling-2-390x693.jpg, Tuinkamer-met-uitzicht-390x293.jpg, diner-grote-salon-melissamillis-390x581.jpg, zw-diner-grote-salon-melissamilis-390x255.jpg
+
+==================== nl_feestelijk_ruimtes_stijltuin
+TITLE: Stijltuin | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/zakelijk-faciliteiten.jpg']
+- [Feestelijk](https://huizefrankendael.nl/nl/feestelijk/algemeen/)
+- [Trouwen](https://huizefrankendael.nl/nl/feestelijk/trouwen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/feestelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Stijltuin
+IMAGES: Koetshuis-22-390x260.jpg, Koetshuis-6-390x261.jpg, Feest-buiten-joostweddepohl-390x260.jpg, Huize-Frankendael-tuin-19-390x261.jpg, Tuin-bar1402-390x260.jpeg, buiten-diner-personen-isiweddings.jpg, foto-trap-Huize-Frankendael-390x693.jpg, receptie-koetshuis-joostweddepohl-390x260.jpg, tuin-gedekte-tafel-isiweddings.jpg
+
+==================== nl_feestelijk_trouwen
+TITLE: Trouwen | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2016/12/CVC_IMG_1382-LOW_HuizeFrankendael-1500x1000.jpg']
+- [Feestelijk](https://huizefrankendael.nl/nl/feestelijk/algemeen/)
+- [Trouwen](https://huizefrankendael.nl/nl/feestelijk/trouwen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/feestelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Trouwen bij Huize Frankendael
+Huize Frankendael is een officiële trouwlocatie. Het is een unieke buitenplaats met park en stijltuinen gelegen in Amsterdam.
+Je gehele huwelijksdag kan bij ons plaatsvinden. De ceremonie met aansluitende receptie kan in onze 18e-eeuwse salons en tuin plaatsvinden, vervolgens kan het diner met aansluitend feest georganiseerd worden in ons rustieke koetshuis. Bij mooi weer serveren wij het diner ook buiten in onze tuin.
+Het is niet mogelijk het huis enkel voor Bruidsfotografie te reserveren. Uiteraard ben je vrij om op je trouwdag bij ons bruidsfoto’s in en rond het huis te maken.
+Klik [hier](https://huizefrankendael.nl/nl/fotos/#trouwen) voor een foto impressie van trouwen bij Huize Frankendael.
+## Slow Food Gastronomie
+De catering voor je huwelijksdag wordt verzorgd door ons [restaurant Merkelbach](http://www.restaurantmerkelbach.nl/home). De filosofie van de keuken sluit aan bij het statige historische buiten. Authentieke smaak en de [Slow Food filosofie](http://www.restaurantmerkelbach.nl/keuken) staan daarbij centraal.
+## Persoonlijk contact
+Wij maken offertes op maat. Om die reden nodigen wij je graag uit voor een rondleiding en een persoonlijk gesprek. Tijdens dit gesprek lichten wij de mogelijkheden verder toe. Wij denken met plezier mee aan de samenstelling van jullie trouwdag!
+Voor vragen of het maken van een afspraak kun je contact opnemen op via [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl) of per telefoon via 020 – 423 39 30.
+## Fotografie huwelijk
+Het is bij Huize Frankendael niet mogelijk om trouwfoto’s te maken in het geval je huwelijk niet bij ons plaatsvindt.
+
+==================== nl_fotos
+TITLE: Foto's | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2018/09/Frankendael-opening-wild-care-tame-neglect-06-hires-1500x1000.jpg']
+# Salons
+# Trouwen bij Huize Frankendael
+# Stijltuin
+# Boardroom
+# Het huis
+# Koetshuis
+# Kunst
+# Onze keuken
+IMAGES: ABF090829_0185-600x600.jpg, DSC08788-600x600.jpg, DSC08836-600x600.jpg, Grote-Salon-gedekt-600x600.jpg, Koetshuis-22-600x600.jpg, merkelbach_bar1484-600x600.jpg, DSC06510-600x600.jpg, DSC2306-600x600.jpg, crisis3-15-600x600.jpg, Dieuwke-Spaans-en-Nick-Oberthaler-24-600x600.jpg, Frankendael_Foundation_Amsterdam_Reyn_van_der_Lugt_collection-4815-600x600.jpg, kunst-agenda-600x600.jpg, kunst-contact-600x600.jpg, Tuin-bloesem-bar1408-600x600.jpg, Boardroom-1-600x600.jpg, Grote-salon-gedekte-tafels-bar9418-600x600.jpg, Tuin-bar1402-600x600.jpeg, groene-tuin-achterzijde-huis-isiweddings-600x554.jpg, website-1-600x600.jpg, website-4-600x600.jpg
+
+==================== nl_kunst
+TITLE: Kunst | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2018/09/Frankendael-opening-wild-care-tame-neglect-06-hires-1500x1000.jpg']
+# [Nu](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/nu/)
+## [Momenteel hebben wij geen tentoonstelling in huis](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/nu/momenteel-hebben-wij-geen-tentoonstelling-in-huis/)
+Wil je zelf een tentoonstelling organiseren, mail dan naar [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl)
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/nu/momenteel-hebben-wij-geen-tentoonstelling-in-huis/)
+# [Eerder](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/)
+## [Young Collectors Salon](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/)
+18 oktober 2018 20.00u-22.00u RSVP via [link](mailto:info@youngcollectorscircle.nl.)
+Op donderdagavond 18 oktober vindt de Young Collectors Salon in Huize Frankendael plaats, in het kader van de tentoonstelling ‘The Image of a Private Collection’. In deze salon staat de reis die het kunstwerk aflegt centraal: Van het atelier van de kunstenaar naar de galerie naar de verzamelaar en uiteindelijk naar bruikleen in een tentoonstelling. Aan de hand van werken uit de tentoonstelling vertellen verzamelaars, kunstenaars en galeriehouders over het kunstwerk en hun rol in de kunstwereld….
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/young-collectors-salon/)
+## [Public Art Amsterdam](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/)
+De Frankendael Foundation was onderdeel van Public Art Amsterdam. Tussen juni en september 2018 bundelden 11 toonaangevende Amsterdamse kunstinstellingen hun krachten om de rijkdom van de publieke ruimte van Amsterdam te tonen, tijdens de manifestatie ‘Pay Attention Please!’
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/public-art-amsterdam/)
+## [Museumnacht 2018](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/)
+3 november 2018
+Kom aanstaande zaterdag naar [Museumnacht Amsterdam 2018](https://www.facebook.com/events/184433625449235/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&__tn__=KH-R&eid=ARA_gPsuIQDihYlcw979qcommJRNeqBW4X89vYiavZArxhw0ebzxnnXlghyohTCgWfcnalUKmIGuSDPR&fref=mentions&__xts__%5B0%5D=68.ARAkud9138IfTAbxTbZ6ARdPRJCLgxUc8gweerpwkq17phzrLiE9XIQd5oduv41zTuyFyPF9Xhv08rIyhXTq-SCgEonxShoBb37a9yF1JfISR4ozzIFpIZtWEsVY9mMUTq4VYDO2rVHJg4vYNWvNENfJoDCjKdpfP1TuGVLt26OJwVR6LMoEt3UyuOnMkDoFmd-wRM9Iow-hfUn9CwUvC7Qt6KI)! Het volledige programma in Huize Frankendael:
+[Meer >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/museumnacht-2018/)
+[Alle eerdere tentoonstellingen >](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/eerder/)
+# Iedere zondag
+# Kunst in Huize Frankendael
+## Bezoek & Contact
+## Adres
+Huize Frankendael Middenweg 72 1097 BS Amsterdam 020-423 39 30
+Bekijk de locatie op [Google Maps](https://www.google.nl/maps/place/Huize+Frankendael%2F+restaurant+Merkelbach/@52.3511713,4.9313448,17z/data=!3m1!4b1!4m2!3m1!1s0x47c60964e6493f67:0x8b956eb48aa6208)
+## Openingstijden
+Open Huis elke laatste zondag van de maand van 12:00 tot 17:00. Rondleiding voor maximaal 8 personen om 12:00 uur.
+## De Foundation & Geschiedenis
+Huize Frankendael is de enige overgebleven 17e eeuwse buitenplaats van Amsterdam. Tegenwoordig is in Huize Frankendael te zien dat hedendaagse kunst en het 17e eeuwse rijksmonument een inspirerende en spannende combinatie vormen.
+[Lees meer over de geschiedenis van Huize Frankendael](https://huizefrankendael.nl/nl/over/geschiedenis-huize-frankendael/)
+Ook het rechter koetshuis, waar het [Restaurant Merkelbach](http://restaurantmerkelbach.nl/) is gevestigd, is onderdeel van het Huis en de tentoonstellingsruimte. Voor de openingstijden van het restaurant klik je [hier](https://huizefrankendael.nl/nl/thuis/contact/). In Huize Frankendael is geen lift aanwezig, dus sommige ruimtes zijn enkel met de trap te bereiken. Wegens privé partijen kunnen sommige ruimtes bezet zijn. Informeer graag van tevoren of de ruimtes beschikbaar zijn. Dit kun je doen door te bellen naar 020-4233930 of mailen naar info@huizefrankendael.nl.
+# Nieuwsbrief
+Blijf op de hoogte!
+// [Bekijk eerdere nieuwsbrieven >](https://huizefrankendael.nl/nl/nieuwsbrief/)
+IMAGES: Dieuwke-Spaans-en-Nick-Oberthaler-24-390x260.jpg, PAA2018_Twitter-390x130.png, Museumnacht-1-390x260.jpg, beeld-event-18-oktober-390x219.jpg
+
+==================== nl_kunst_bezoek
+TITLE: Bezoek en rondleidingen - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+- [Tentoonstellingen](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/)
+- [Bezoek](https://huizefrankendael.nl/nl/kunst/bezoek/)
+- [Over](https://huizefrankendael.nl/nl/kunst/over/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Bezoek brengen aan Huize Frankendael
+## Adres
+Huize Frankendael Middenweg 72 1097 BS Amsterdam 020-423 39 30
+Bekijk de locatie op [Google Maps](https://www.google.nl/maps/place/Huize+Frankendael%2F+restaurant+Merkelbach/@52.3511713,4.9313448,17z/data=!3m1!4b1!4m2!3m1!1s0x47c60964e6493f67:0x8b956eb48aa6208)
+## Openingstijden
+Iedere laatste zondag van de maand, 12:00h – 17:00h (gratis).
+Ook het rechter koetshuis, waar het [restaurant](http://restaurantmerkelbach.nl) is gevestigd, is tentoonstellingsruimte. Voor de openingstijden van het restaurant klik je [hier](https://huizefrankendael.nl/nl/thuis/contact/).
+In Huize Frankendael is geen lift aanwezig, dus sommige ruimtes zijn enkel met de trap te bereiken.
+Wegens privé partijen kunnen sommige ruimtes bezet zijn. Informeer graag van tevoren of de ruimtes beschikbaar zijn. Dit kun je doen door te bellen naar 020-4233930.
+## Rondleidingen
+Iedere laatste zondag van de maand, 12:00h – 13:00h (gratis).
+Tijdens de rondleiding wordt er o.a. verteld over de geschiedenis van het huis, de tuin en de kunst (van zowel vroeger als nu). Aanmelden is niet nodig.
+## Groepsrondleidingen
+Een rondleiding voor je eigen groep op een tijdstip en dag naar keuze kost € 50,- per groep (max. 15 personen). Mail voor het boeken van een rondleiding, eventueel met lunch, naar [info@huizefrankendael.nl](mailto:info@frankendaelfoundation.nl).
+
+==================== nl_kunst_over
+TITLE: Over | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/website-18-1500x1000.jpg']
+- [Tentoonstellingen](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/)
+- [Bezoek](https://huizefrankendael.nl/nl/kunst/bezoek/)
+- [Over](https://huizefrankendael.nl/nl/kunst/over/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Over de Frankendael Foundation
+Huize Frankendael is de enige overgebleven 17e eeuwse buitenplaats van Amsterdam. Het huis draagt veel geschiedenis in zich en is getuige geweest van vele veranderingen en verhalen in Amsterdam en Nederland: van republiek naar monarchie en van polder naar stad, om maar iets te noemen. Het huis behoort tot ons cultureel erfgoed. Tegenwoordig is in Huize Frankendael te zien dat hedendaagse kunst en het 17e eeuwse rijksmonument een inspirerende en spannende combinatie vormen. In Huize Frankendael, en in de tuin van het huis, programmeert de Frankendael Foundation hedendaagse beeldende kunst. Frankendael is een plek waar met name jonge kunstenaars werk kunnen ontwikkelen en tonen, en curatoren tentoonstellingen kunnen maken.
+## Collectie
+Huize Frankendael heeft een vaste collectie, ‘The Keys’. In opdracht van Frankendael Foundation maakten verschillende Nederlandse kunstenaars, onder wie Bas Louter, Saskia Noor van Imhoff en Erik Odijk, in 2010 werk waarvoor ze zich lieten inspireren door de rijke geschiedenis van Huize Frankendael en de verschillende bewoners. Een reis door de historie van Huize Frankendael met een eigentijdse blik. De muurtekening van Odijk is permanent te zien in de tuinkamer op de bovenverdieping. De andere werken worden met regelmaat uit het depot gehaald en opnieuw in het huis getoond.[](https://huizefrankendael.nl/wp-content/uploads/2011/07/kunst-reserveren.jpg)Parasite 22, gemaakt door Dennis Feddersen in 2011, is iedere dag te zien in [Restaurant Merkelbach](http://restaurantmerkelbach.nl/).[](https://huizefrankendael.nl/wp-content/uploads/2016/01/frankendael008.jpg)
+## Stichting
+Stichting Huize Frankendael / Frankendael Foundation staat geregistreerd bij de Belastingdienst als algemeen nut beogende instelling (ANBI). RSIN: 820472657.
+Doelstelling: (uit de statuten i.w. november 2010) het vormen van een permanente basis voor, alswel het bevorderen, versterken en zichtbaar maken van, de uitwisseling tussen kunst, cultuur en wetenschap, het Nederlands culturele- en maatschappelijke veld en het (Nederlandse) publiek. En voorts al hetgeen met een en ander rechtstreeks of zijdelings verband houdt of daartoe bevorderlijk kan zijn. De stichting tracht haar doel ondermeer te verwezenlijken door:
+- het initiëren en organiseren van een programma van culturele activiteiten in de ruimste zin des woords;
+- het faciliteren, bevorderen en realiseren van bezoeken aan culturele evenementen;
+- het bemiddelen in contacten, personen, culturele personen, instellingen en organisaties;
+- het creëren van gelegenheid presentaties te doen geven van culturele uitingen.
+Frankendael Foundation werkt volgens het bestuurmodel uit de Code Cultural Governance. De bestuurders ontvangen geen beloning. Het bestuur bestaat uit:
+- Nynke de Haan
+- Joram Kraaijeveld
+- Caroline Vos
+- Bodo Groen
+Beleidsplan: in overleg met bestuur nuttig en zinvol besteden van ontvangen subsidies, giften en de inkomsten conform de doelstelling.
+Financieel jaarverslag [Jaarverslag 2015 (PDF)](https://huizefrankendael.nl/wp-content/uploads/2011/04/Jaarverslag-2015.pdf)
+Activiteitenverslag [Activiteitenverslag 2015 (PDF)](https://huizefrankendael.nl/wp-content/uploads/2011/04/Activiteitenverslag-2015.pdf)
+## Fotoimpressie
+IMAGES: Boardroom-detail-6-600x600.jpg, DSC01613-600x600.jpg, DSC064721-600x600.jpg, DSC08788-600x600.jpg, DSC08810-600x600.jpg, website-17-600x600.jpg, DSC06510-600x600.jpg, crisis3-15-600x600.jpg, Dieuwke-Spaans-en-Nick-Oberthaler-15-600x600.jpg, Dieuwke-Spaans-en-Nick-Oberthaler-8-600x600.jpg, Tulio-Pinto-30-maart-2014-600x600.png, kunst-agenda-600x600.jpg, kunst-reserveren-390x260.jpg, crisis3-02-600x600.jpg, website-201-600x600.jpg, frankendael008-390x260.jpg, website-1-600x600.jpg
+
+==================== nl_kunst_tentoonstellingen
+TITLE: Kunst tentoonstellingen - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/12027206_1035288803185230_7053615541300625792_o-1500x1000.jpg']
+- [Tentoonstellingen](https://huizefrankendael.nl/nl/kunst/tentoonstellingen/)
+- [Bezoek](https://huizefrankendael.nl/nl/kunst/bezoek/)
+- [Over](https://huizefrankendael.nl/nl/kunst/over/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Kunst in Huize Frankendael
+## GEPLAND
+### Amsterdam Art Weekend!
+Aanstaande zondag (26 november) in Huize Frankendael Van 15.30 uur tot 17.00 uur. Meer informatie? Kijk op [Facebook](https://www.facebook.com/events/1614363391974936/)
+## NU
+### Tentoonstelling: Collection of Aernoud Bourdrez 24 september – 17 december
+Aernoud Bourdrez is advocaat, gespecialiseerd in intellectueel eigendom en de kunst van het onderhandelen. Hij rekent vele kunstenaars en fotografen tot zijn cliënten. In Huize Frankendael laat hij deze herfst een bijzondere selectie uit zijn collectie zien, met daarin werken van onder andere Viviane Sassen, Henri Cartier Bresson, Jacqueline Hassink, Scheltens & Abbenes, Paul Kooiker, Helmut Newton, Paul Huf, Dana Lixenberg en Saskia Noor van Imhoff.
+Dit werk wordt getoond naast de uitkomsten van zijn vele onderhandelingen, waarin Bourdrez de grenzen van zowel beeldrecht als de onderhandeling oprekt en verlegt. Het bekendste voorbeeld hiervan is het verhaal van de Jackass ‘Butt X-ray’ waarin hij de beruchte foto van een rectaal ingebrachte speelgoedauto inruilt voor een daadwerkelijke auto.
+Deze tentoonstelling toont de privécollectie van Bourdrez en grijpt deze gelegenheid aan om die op een geheel nieuwe manier bijeen te brengen. Voor Bourdrez geldt, zoals voor iedere priveverzamelaar, dat ieder object een eigen verhaal of een hoofdstuk van persoonlijke ervaring en ontwikkeling in zich draagt. De tentoonstelling en het publieksprogramma belichten verschillende wijzen en motieven van verzamelen, variërend van genres als materialisme en ‘instant arousal’ tot persoonlijke associatie en resonantie op conceptueel niveau. Curator: Suzanne Sanders, Renske van Leeuwen
+Design: fanfare Foto: Joost van den Broek
+https://twitter.com/UU_VN/status/918032782957469696Deze tentoonstelling is gemaakt in samenwerking met Unseen Amsterdam 2017 [[http://unseenamsterdam.com]](http://unseenamsterdam.com/)
+## wild care, tame neglect
+### Een artistiek onderzoek naar de paradoxen van de natuurzomer 2016 – zomer 2018
+wild care, tame neglect is een tweejarige samenwerkingsproject van Huize Frankendael met beeldend kunstenaar Edward Clydesdale Thomson.
+Tot de zomer van 2018 zal Thomson zijn artistieke praktijk inbedden op de laatst overgebleven 17e-eeuwse buitenplaats van Amsterdam en onderzoeken doen naar de paradoxen van de natuur die volop aanwezig zijn in dit culturele erfgoed. Lees meer op www.wildcaretameneglect.nl
+MELD JE AAN VOOR DE POSTERW
+## ARCHIEF
+### Museumnacht Amsterdam 4 november
+Zes kunstenaars uit de stal van Galerie Fleur & Wouter en mogelijk een tweetal kunstenaars uit de collectie van Aernoud Bourdrez bieden tijdens de nacht hun werk ‘te koop’ aan. Bezoekers kunnen een bod uitbrengen waarbij álles mogelijk is, behalve geld. Wat is het jou waard? Wat heb jij te bieden? Een verblijf in een vakantiehuis, trompet lessen, een romantisch diner voor twee of toch jouw gekoesterde flippo verzameling? De kunstenaar bepaalt welk bod hij accepteert en is overigens niet verplicht op één van de biedingen in te gaan. Vanaf 19:00u kunnen de biedingen geplaatst worden, de eerste veiling start om 20:00u, onder leiding van veilingmeester Tobias Verhagen. De deelnemende kunstenaars zijn: Lonneke van der Palen, Frank E Hollywood, Sam Andrea, Marilyn Sonneveld en Floor van het Nederend.
+En niemand overleeft Museumnacht zonder een goede maaltijd. Start jouw nacht met een heerlijk én verantwoorde bodem op een unieke locatie. Een vegetarische N8 hap, bij restaurant Merkelbach: Risotto van knolselderij met oerbiet, prei en canterellen €12,50 Restaurant Merkelbach kent alleen maar liefde voor eerlijke ingrediënten en is dan ook nauw verbonden aan de Slow Food beweging en vader van de Youth Food Movement Amsterdam. Ongegeneerd genieten dus.
+Toegang is alleen mogelijk met een Museumnacht ticket, welke je koopt via [deze link!](https://cms.museumnacht.amsterdam/tickets)
+## Uit de collectie van Flip Bool & Veronica Hekking
+### Fotografietentoonstelling: 18 september 2016 – 15 januari 2017
+Bij de tentoonstelling is een audiotour, ingesproken door Flip & Veronica
+Een selectie uit de privé-collectie van Flip Bool en zijn partner Veronica Hekking. De tentoonstelling toont de verschillende aspecten van de historische en artistieke ontwikkelingen in de fotografie.
+## Amsterdam Art Weekend
+#### 24 – 27 november 2016
+www.amsterdamart.com
+## Museumnacht
+#### 8 november 2016
+Op zaterdag 5 november openen tussen 19:00 en 02:00 uur de Amsterdamse musea voor de zeventiende keer hun deuren tijdens de Museumnacht.Geïnspireerd op de tijdelijke tentoonstellingen ‘Uit de fotocollectie van Flip Bool & Veronica Hekking’ is er voor jou een speciaal programma samengesteld met onder andere muziek, mode en discussies. Voor de Museumnacht koop je een ticket waarmee je alle musea en deelnemende kunstinstituten kan bezoeken.
+## Maakbare natuur
+### Een tentoonstelling samengesteld door galerie Grimm
+### 13 maart t/m 10 juli 2016
+Kunstenaars: Charles Avery, Jonathan Marshall, Letha Wilson en Nick van WoertDat natuur niet meer ongerept is en niet buiten de invloed van de mens staat, realiseren we ons steeds meer. Huize Frankendael, gelegen in een door mensenhanden aangelegd ‘natuurlijk’ park, vormt het ideale decor voor een tentoonstelling over de maakbaarheid van de natuur. De kunstwerken zijn geselecteerd door GRIMM Gallery Amsterdam, die internationaal vermaarde kunstenaars zoals Atelier van Lieshout en Dana Lixenberg vertegenwoordigt, en hun werk en dat van anderen presenteert op beurzen als Art Basel, Frieze en The Armory Show. [](https://huizefrankendael.nl/wp-content/uploads/2011/04/IMG_0072.jpg)Jonathan Marshall, (… at the end of the world), 2013Onderdeel van de tentoonstelling is dit werk van Jonathan Marshall. Stukje bij beetje laat Marshall zien hoe de mens zich werelddelen heeft eigen gemaakt. De beslommeringen die iedereen bezighouden, ook wanneer grootse daden worden verricht zoals het verkennen van de aarde, worden belicht door het voor de kunstenaar zeer persoonlijke materiaalgebruik: eigen hemden, schoenveters en zelfs een deel van zijn trouwpak zijn in deze kaart van Antarctica verwerkt.
+## Waar je bent
+Kunstenaar: Dorien de Wit’Waar je bent’ is een audiowandeling van ongeveer 20 minuten. De wandeling start in Huize Frankendael en voert je via de tuin achter het huis het park in. Vanaf de grond, ooit de bodem van een meer, zoomt de wandeling uit tot de plek waar je je bevindt in het park: in een stad, op de aardbol en weer terug naar de honderden kiezels onder je voeten.In aanvulling op ‘Waar je bent’ presenteert audiograaf Hannes Wallrafen een soundscape in de tuinkamer van Huize Frankendael. Kom op zondag langs, trek aan het gordijnkoord en hoor hoe de ruimte zich vult met de alledaagse geluiden van een negentiende-eeuwse familie die aan het begin van de zomer net weer haar intrek heeft genomen in het buitenhuis. ‘Zoals in alle tijden geeft de banaliteit van het alledaagse soms het beste beeld van de werkelijkheid,’ volgens Hannes Wallrafen.Ga op pad met je eigen SMARTPHONE, en eventueel een KOPTELEFOON. Daarop kun je de [audiotour](http://doriendewit.nl/audio) downloaden en afspelen.
+## Museumnacht
+### 8 november 2015
+Een dwaze nacht met: Salon d’Art door Marian Cousijn met Hans Kemna en Rixt Hulsthoff Pol, Youth Food Movement, Funkkaravaan, Judocus van Soest en Inti Hernandez. Programmering: Femke Blok
+[](https://huizefrankendael.nl/wp-content/uploads/2016/01/website-3.jpg)
+## Nederlandse fotografie uit de collectie van Hans Kemna
+### 20 september – 8 november 2015
+Kunstenaars: Viviane Sassen, Inez van Lamsweerde/Vinoodh Matadin, Elspeth Diederix, Carla van de Puttelaar, Jan Schaper, Hellen van Meenen, Céline van Balen, Rineke Dijkstra, Emiel van Moerkerken, Koos Breukel, Ahmet Polat, Albert van Westing, Paulien Oltheten, Daan van Golden, Ed van der Elsken. Curator: Xander Karskens[](https://huizefrankendael.nl/wp-content/uploads/2011/04/Jan-Schaper.lijnbaanjeug.jpg)In samenwerking met de internationale fotografiebeurs Unseen ontving Huize Frankendael Hans Kemna. Kemna, vooral bekend als pionier van de Nederlandse casting, begon in de jaren negentig van de vorige eeuw fotografie te verzamelen. De werken vormen bij elkaar een rijke visuele variatie op het menselijke portret.
+## Een dwaze zomer op Frankendael
+### 31 mei – 9 november 2015
+Kunstenaars: Berend Strik, Giny Vos, Chikako Watanabe, Maze de Boer, Atelier van Lieshout, Job Koelewijn en Inti Hernandez. Curator: Nathalie Faber[](https://huizefrankendael.nl/wp-content/uploads/2016/01/website-4.jpg)Deze zomer bracht Huize Frankendael hedendaagse folly’s naar het stadspark: bizarre bouwwerkjes die ook in de Romantiek op het landgoed werden gezet. De tentoonstelling was een vervolg op Zomeren op de Buitenplaats, een tentoonstelling bij Beeckestijn.
+## Rien Rienema
+### 8 januari – 31 mei 2015
+Kunstenaar: Rien RienemaRien Renema nam op 1 januari 1991 het besluit om elke dag een tekening te maken. In meer dan twintig jaar tijd ontwikkelde Renema’s stijl zich gaandeweg van figuratief tot steeds abstracter.
+## Parklicht
+### 8-11 januari 2015
+Kunstenaars: Leonard van Munster, Esther Hoogendijk, Hans Runge, Joris Strijbos, Wouter Kops, Nicky Zwaan, Egied Simons, Paul Baartmans, Robert Roelink, Jeroen Werner, Willem Sjoerd van Vliet en Fleur van Greuningen, Arno Scheper, Bas Peeters, Diana Ramaekers, Driessens & Verstappen, en Yarre Stooker
+Bas Peeters (foto Toos Uitvlugt)
+Gedurende vier winteravonden was Park Frankendael de unieke setting voor een tentoonstelling van zestien lichtinstallaties en -sculpturen over de spanning tussen cultuur en natuur.
+## Museumnacht
+### 1 november 2014
+Programmering: Femke Blok[](https://huizefrankendael.nl/wp-content/uploads/2011/06/10733928_828789867168459_2411821154122716069_o.jpg)
+## Wenn wir dich nicht sehen, seihst du uns auch nicht
+### 11 september 2014 t/m 4 januari 2015
+Kunstenaars: Vincen Beeckman, Gwenneth Boelens, Peggy Buth, Daniel Gustav Cramer, Dan Graham, Denis Guzzo, Ulrik Heltoft, Adam Jeppesen, Welmer Keesmaat, Johan Nieuwenhuize, Satijn Panyigay, Bas Princen, Timm Rautert, Frank van der Salm, August Sander, Viviane Sassen, Benoît Vollmer, Malte Wandel, Sander van Wettum, Marco Maria Zanin
+In samenwerking met de internationale fotografiebeurs Unseen toonde Huize Frankendael fotografie uit de omvangrijke kunstcollectie van verzamelaar Reyn van der Lugt.Beeld: Timm Rautert, Wenn wir dich nicht sehen, siehst du uns auch nicht, uit de serie “The Amish”, 1974, courtesy Parrotta Contemporary Art
+De pleziertuin – Soiree in Huize Frankendael11 september 2014Een avond met de Tender Falcons, Sahand Sahebdivani, Tommy Ebben, Marcel Barlag, Merel de Haan en Plezier in de tuin (AHK). Programmering: Femke Blok en Lisa Wiersma[](https://huizefrankendael.nl/wp-content/uploads/2011/04/Buiten.jpg)
+## Iridescence
+### 26 juni 2014 – 7 september 2014
+Kunstenaar: Joyce Vlaming
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/Joyce-Vlaming.jpg)
+Felle kleuren werden in het verleden uit de koloniën geïmporteerd en worden sinds de opkomst van de massaconsumptie ingezet om producten aan de man te brengen. Joyce Vlaming omarmt deze kleurrijke wereld in haar werk en onderzoekt de verschillende betekenissen die aan kleuren worden toegedicht.
+## Soiree in Huize Frankendael
+### 17 april 2014
+Een avond met het Kobra Ensemble, het Gurdjieff Kwartet, Radio Romantiek, Willem Sjoerd van Vliet, de Mini galerie met Louis Reith en Jordi Huisman, poëziebehang van jonge dichters, Joost van Kersbergen, de Pin Up Club en de Kaleidoscope Riders. Programmering: Femke Blok en Lisa Wiersma
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/10262154_728777113836402_7374365921598646395_n.jpg)
+## Stella
+### 7 december 2013 – 23 februari 2014
+Kunstenaar: Flavio de Marco. Curator: Maria Helene Kublin
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/Invitation-Stella-Amsterdam.jpg)
+Stella is een uitgebreide serie tekeningen en schilderijen van een eiland, samengebracht in wat op het eerste gezicht een reisgids lijkt, maar ook een verhandeling over het verbeelden van landschappen an sich is. De tentoonstelling was tevens te zien in het Künstlerhaus Bethanien in Berlijn en de Galleria Nazionale d’Arte Moderna te Rome.
+## Kerst in Huize Frankendael
+### 26 december 2013
+A Barockpuppies Carol met altvioliste Saskia Meijs, contrabassist Marko Bonarius, percussionist / accordeonist Rombout Stoffers, beeldend kunstenaar Martijn Grootendorst en verteller Stijn Westenend
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/Screen-Shot-2013-12-02-at-9.21.48-AM1.png)
+## Mijn derde land
+### 19 oktober – 1 december 2013
+Kunstenaars: Agnieszka Kurant, Camille Henrot, Charles Avery, Constant Nieuwenhuys, Fiona Tan, Jennifer Tee, Jonathas de Andrade, Jorge Méndez Blake, Marcius Galan, Mira Sanders, Pablo Bronstein, Paloma Bosquê, Ryan Gander, Shilpa Gupta, Shirin Neshat, Simon Fujiwara, Tomás Saraceno. Curatoren: Nathanja van Dijk en Carolyn H. Drake.
+## [](https://huizefrankendael.nl/wp-content/uploads/2011/04/DSC08836.jpg)
+Waar zijn wij nog thuis? Met deze vraag in het achterhoofd gaven de kunstenaars in de tentoonstelling vorm aan het Derde Land waar Gerrit Komrij in een gedicht over schreef, gewapend met dat wat we altijd bij ons dragen: de eigen verbeelding.
+## De salons van de Imaginaire Kunsten
+### 2 t/m 23 november 2013
+Met bijdragen van o.a.: Rikko Voorberg (Stroomwest), Erik van der Horst (Orkater), Wendela Sandberg (Rotary), filosoof Victor Kal, schrijver Atte Jongstra, performer Caroline Ruijgrok, Ludo van Halem (conservator 20ste eeuw, Rijksmuseum Amsterdam), Martijn de Waal (oprichter Public Matters), Saskia de Jong,de Nederlandse Academie voor ’Patafysica, Toneelgroep Oostpool, absurdist en schrijver Ronald Snijders en Blue Flamingo. Programmering: Club Interbellum en White Rabbit Theater.
+## [](https://huizefrankendael.nl/wp-content/uploads/2011/04/uburoi21.gif)
+Avondprogrammering bij de tentoonstelling Mijn Derde Land.
+## Filmprogramma Journey to the third land
+### Zaterdag 26 oktober 2013
+Met films van onder meer kunstenaars Adela Babanova, Malak Helmy, Michael James Jones, Isaac Julien en Enrique Ramirez
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/20130620_BABANOVA_Return_to_Adriaport_Professor_Zlabek.jpg)
+Een filmische verbeelding van het Derde Land – projecties waarin politieke grenzen worden opgerekt en vastgeroeste vormen van identiteit worden doorbroken.
+## Soirée Anniversée
+### 12 september 2013
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/tumblr_ms57nbZU051r2ww71o7_r2_1280.png.jpeg)
+Een avond met Kult Kwartier, Crail Moansburg, Sella Molenaar, Shula Tas, Danibal, Kaleidoscope Riders, de Barockpuppies, de Youth Food Movement en het theepartijtje door Anita Rademakers en Djoeke Geijs – ter ere van Frankendaels verjaardag. Programmering: Femke Blok en Lisa Wiersma
+## If walls could speak
+### Fotografie uit de ING CollectieAugustus – oktober 2013
+Kunstenaars: Mario A., Peter Bialobrzeski, Davide Bramante, Jennifer Caldwell, Gotz Diergarten, Christine Erhard, Julian Faulhaber, Christoph Gielen, Dionisio Gonzalez, Matthias Hoch, Ola Kolehmainen, Katrin Korfmann, Bas Princen, John Riddy, Frank van der Salm, Tim White-Sobieski, Thomas Wrede, Lin Yilin. Curator: Caroline Vos
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/1239037_576582475722534_1345337007_n.jpg)
+De ING Collectie toonde stedelijke landschappen uit alle windstreken. Samen gaven de foto’s een scherp beeld van de steeds dichter wordende architectonische omgeving.
+## Over het huis en de dingen
+### Mei – juli 2013
+Kunstenaars: Eva Pel en Rumiko Hagiwara. Curator: Nathanja van Dijk
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/website-17.jpg)
+De alledaagse werkelijkheid is wonderlijker dan je denkt.
+## De Paradijstuin – Soirée in Huize Frankendael
+### 13 juni 2013
+Een avond met Monobanda, Sander Dekker, Fred & Guus, DJ Wouda, De Mus, Goede Vissers, Sahand Sahebdivani, Eva Pel en Arthur Adam ten Cate. Programmering: Femke Blok en Lisa Wiersma
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/DSC08179.jpg)
+## De averechtse val van Huize Frankendael
+### Januari – april 2013
+Kunstenaar: Nel Aerts. Curator: Nathanja van Dijk
+[](https://huizefrankendael.nl/wp-content/uploads/2011/04/website-16.jpg)
+Nel Aerts (BE, 1987) zet alle denkbare media op intuïtieve wijze in om de wereld en haar positie daarin als jonge kunstenaar te bevragen. Met een flinke dosis humor mengt ze haar fantasie, leefomgeving en de kunstscene tot een geheel, dat tegelijk zowel poëtisch en speels, als absurd en grotesk is.
+## 101112
+### November – januari 2013
+Kunstenaar: Robin Waart. Curator: Nathanja van Dijk
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/Untitled-2011-New-whites.jpg)
+Het werk van Robin Waart (NL, 1978) staat in het teken van de (on)mogelijkheid van zichtbare afwezigheid: een poëtisch streven om van niets iets te maken. Waart schept orde in een archief dat bestaat uit verzamelingen van onder andere boeken, polaroidcamera’s, filmstills en gevonden beelden.
+## Urban Outsiders
+### Oktober – november 2012
+Kunstenaars: Mario A., Paul Baartmans, Sema Bekirovic, Wout Berger, Merijn Bolink, Eelco Brand, Gerbrand Burger, Driessens & Verstappen, Lotte Geeven, Roos van Haaften, Bas Kosters, Dolores Marat, The Mobiators, Noe Sendas, Thijs de Zeeuw. Curatoren: Roos Burger en Yvonne Yzermans.
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/Frankendael-Urban-Outsiders48.jpg)
+Nu het gros van de wereldbevolking in steden woont en de bebouwde kom de plek van platteland en natuur inneemt, passen wilde diersoorten en ‘onkruid’ zich aan de stedelijke omgeving aan: vossen jagen in woonwijken en sommige plantensoorten komen niet meer buiten steden voor. Ondertussen verbouwen stadsbewoners groenten, houden zij bijen op daken van verlaten kantoorpanden en veranderen architecten steden in organische structuren met flexibele bouwvormen. De tentoonstelling Urban Outsiders neemt met kunst en programmering het vervagende grensgebied tussen stad en natuur onder de loep.
+## Vedro’ L’olanda
+### Mei – juli 2012
+Kunstenaar: Rolando Deval. Curator: Jacqueline Grandjean
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/DSCF1850-Version-21.jpg)
+Voorjaar 2012 presenteerde Frankendael Foundation VEDRO’ L’OLANDA, een tentoonstelling met het werk van de Italiaanse kunstenaar Rolando Deval. Deval realiseerde een tentoonstelling geinspireerd op het Nederlandse landschap. Het was de eerste keer dat deze kunstenaar in Noord-Europa exposeerde.
+## Oh crisis! #3 – Leven voorbij de crisis
+### Maart – april 2012
+Kunstenaars: Tjebbe Beekman, Dennis Feddersen, Xi Guo, Ulrik Heltoft, Sven Kroner, Abelardo Morell, Warren Neidich, Tomas Saraceno, Ge-Karel van der Sterren, Sarah van Sonsbeeck & Fiona Tan. En met: Karien van Gennip (ING), Frank Elderson (De Nederlandsche Bank) & Justien Marseille (The Future Institute). Curatoren: Jacqueline Grandjean en Nathanja van Dijk.
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/crisis3-15.jpg)
+In de tentoonstelling en debatserie Oh Crisis werd in deel drie over de crisis heen gekeken naar de toekomst. Zijn er alternatieven voor onze economie? En hoe verandert onze samenleving na de crisis? De nieuwe generatie bestuurders werd hierover aan de tand gevoeld met hedendaagse kunstwerken als uitgangspunt van het gesprek.
+## Art Dinner – The Table of Power 2
+### 26 januari 2012
+Kunstenaar: Jacqueline Hassink aan tafel met Irma Boom, Frits Gierstberg en Michiel Goudswaard
+Het werk van Jacqueline Hassink zit op de huid van de maatschappij en bevraagt zaken als macht, invloed en ons waarde-systeem in wereldwijd verband. Tijdens het fundraising dinner werd het boek gepresenteerd waaraan onder meer Shell, BP, Volkswagen, BNP Paribas en ING Groep meewerkten.
+## The Young and the Talented
+### November – januari 2012
+Kunstenaar: Willem Sjoerd van Vliet. Curator: Jacqueline Grandjean
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/DSC03732.jpg)
+Willem Sjoerd van Vliet (1981) laat lijnen ontsporen en een optisch spel spelen. Naast tekeningen was een projectie te zien op het raam van de bovenste tuinkamer.
+## Polderlicht@Home
+### 28 – 30 december 2011
+Huize Frankendael en het CBK fungeerden tijdens deze editie van Polderlicht als het vertrekpunt van Polderlicht@home: licht-, geluid en videokunst op een route langs 16 (privé)adressen in de Amsterdamse Watergraafsmeer.
+## Into the green
+### Oktober – november 2011
+Kunstenaars (onder meer): Alexandre da Cunha, Martina Florians, Coralie Vogelaar & Teun Castelein, Renata de Andrade, het collectief Grondvormen en Ernesto Neto. Curator: Madelon van Schie. Onderdeel van het Brasil Festival Amsterdam
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/frankendael-neto.jpg)
+Kunstenaars uit Brazilië en Nederland zetten elk op eigen wijze aan tot nadenken over een duurzame en bewuste omgang met onze leefomgeving en de (her)waardering van het alledaagse. Bij de tentoonstelling was een uitgebreid activiteiten- en dinerprogramma, waaronder de Art Dinners met Braziliaanse chefs en Restaurant Merkelbach, en workshops voor kinderen in de herfstvakantie.
+## The Young and the Talented
+### September 2011
+Kunstenaar: Emma van Drongelen. Curator: Jacqueline Grandjean
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/pers-mucus.jpg)
+De dualiteit die zich in de natuur openbaart fascineert Emma van Drongelen (1978). Haar tekeningen leggen zowel de organische binnenkant als de visuele buitenkant bloot. De tekeningen die in september te zien waren op de verdieping van Huize Frankendael maakte zij in de ongerepte natuur van Nieuw Zeeland en op New Foundland, Canada.
+## Notations
+### Juli – augustus 2011
+Kunstenaars: Joanneke Meester en Jennifer Townley. Curator: Jacqueline Grandjean
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/DSC2306.jpg)
+Spreken muziek en beeldende kunst eenzelfde taal? Joanneke Meester abstraheerde een pianocompositie. Jennifer Townley’s machines zijn op een ambachtelijke manier gebouwd en hebben hun eigen specifieke bewegingen en ritmes.Samen met de Barockpuppies organiseerde Frankendael Foundation een Notations Concert, waarin muziek en beeldende kunst bijeen werden gebracht.
+## Salon/2
+### Juli 2011
+Kunst, mode en design worden op allerlei locaties in de stad in verbinding met elkaar gesteld.
+## Oh crisis! #2
+## Een onderzoek naar de waarde van kunst in tijden van crisisMei 2011
+Kunstenaars: Lara Almarcegui, Jan Fabre, William Monk, David Osbaldeston, Reed Seifer, Dave Sinai, Berend Strik, Remco Torenbosch, Koen Vanmechelen, Roger van de Wouwer, Jason van der Woude. Curatoren: Jacqueline Grandjean en Nathanja van Dijk
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/DSC_6945.jpg)
+Kan de discussie over kunst worden gevoerd aan de hand van economisch belang? Gaan we dan niet voorbij aan de vraag of en waarom de samenleving kunst nodig heeft? Bestuurders uit het bedrijfsleven, met een verborgen leven in de kunst, gaven hun visie. Daarbij vormde een kunstwerk uit bedrijfs- en private collecties uitgangspunt van het gesprek. OHCRISIS.BLOGSPOT.COM
+## Poëzie in de salon
+### 24 en 25 februari 2011
+Poëziesalon met voordrachtskunst en liedkunst in de grote salon. Met bekende dichters, verschillende doorbrekende dichters uit de Nederlandse voordrachtskunst en opkomend conservatoriumtalent dat Goetheliederen van Schubert en Tachtigersliederen van Diepenbrock zal brengen, en poëtische illusionist Arjan van Vembde. Georganiseerd door kunstenaar Simon Mulder.
+## The Keys
+### 2009 – 2010
+Kunstenaars: Tomas Adolfs, Lawrence Bailey, Judith van IJken, Saskia Noor van Imhoff, Bas Louter, Erik Odijk, Sara Rajaei, Mascha de Vries en Johanneke Lamoraal Wichers. Curator: Jacqueline Grandjean
+[](https://huizefrankendael.nl/wp-content/uploads/2011/07/kunst-reserveren.jpg)
+Frankendael Foundation realiseerde een onderzoek naar tijd en ruimte van het laatste buitenhuis. De werken die in dit kader tot stand kwamen vormen nu de vaste collectie op Huize Frankendael. THEKEYS9.BLOGSPOT.COM
+## The Smooth and the Striated
+### Juli – augustus 2010
+Kunstenaars: Tom Tlalim, Sjoerd Westbroek, Saskia Noor van Imhoff, Jasmijn Visser, Pieter Paul Pothoven, Krien Clevis en Persijn Broersen & Margit Lukács. Curator: Flora Lysen
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/krien-en-jasmijn.jpg)
+[The Smooth And The Striated](THESMOOTHANDTHESTRIATED.WORDPRESS.COM) was een dubbeltentoonstelling in Huize Frankendael en Nieuw Dakota in samenwerking met de Universiteit van Amsterdam.
+## Oh crisis!
+### Maart – april 2010
+Kunstenaars: Sema Bekirovic, Martha Hjorth Jessen, Jacqueline Hassink, Reinier Gerritsen, Maze de Boer, Matthew Monahan, Tadaaki Narita, Hannah van Bart, Mounir Fatmi, Inti Hernandez, Thomas Weinberger. Curatoren: Jacqueline Grandjean en Nathanja van Dijk
+[](https://huizefrankendael.nl/wp-content/uploads/2011/07/kunst-agenda.jpg)
+Perspectieven op de kredietcrisis via kunst: [Oh Crisis!](OHCRISIS.BLOGSPOT.COM) was de eerste groepstentoonstelling met debatreeks van drie over de financiële crisis.
+## Melanie Bosboom
+### Februari 2010
+Kunstenaar: Melanie Bosboom. Curator: Jacqueline Grandjean
+De intrinsieke tegenstellingen die het werk van Melanie Bosboom kenmerken, passen een buitenhuis als Frankendael. De vraag “Wat is de relatie tussen het individu en zijn omgeving?” die in haar werk verscholen lijkt, kreeg in de tentoonstelling een extra dimensie.
+## Karen Yasinsky
+### Januari 2010
+Kunstenaar: Karen Yasinsky. Curator: Jacqueline Grandjean
+Deze tentoonstelling met werk op papier en animaties van Karen Yasinsky (NY) was te zien in de salons op de beletage. Tijdens de tentoonstelling draaide een aantal animaties in Studio/K. De originele film l’Atalante van Jean Vigo, waarop Yasinsky haar tekeningen en animaties baseerde, werd daar tweemaal getoond met één van de animaties als voorprogramma.
+## The Living
+### Tien dagen videokunst uit het Stedelijk MuseumOktober – november 2009
+Kunstenaars: Sam Taylor Wood, Peter Bogers, Marijke van Warmerdam, Douglas Gordon, Ulay en Marina Abramovic, en Job Koelewijn
+[](https://huizefrankendael.nl/wp-content/uploads/2011/06/The-Living-werk-van-Peter-Bogers.jpg)
+[The Living](https://www.youtube.com/watch?v=uiJ2jsZmsPw&feature=player_embedded) was een videokunst-tiendaagse met werk uit de collectie van het Stedelijk Museum in alle kamers van het huis. In de avonden was er een programma met art dinners en debatten met Peter Bogers en Job Koelewijn, Business Club Stedelijk Museum en een avond met ‘My First Art Collection’.
+## Kunstenaars van wie in het verleden werk op Frankendael werd getoond zijn, onder meer
+Marina Abramovic Nel Aerts Lara Almarcegui Charles Avery Sema Bekirovic Wout Berger Maze de Boer Peter Bogers Merijn Bolink Libia Castro / Ólafur Ólafsson Driessens & Verstappen Charlotte Dumas Jan Fabre Mounir Fatmi Lotte Geeven Douglas Gordon Roos ten Haaften Rumiko Hagiwara Jacqueline Hassink Camille Henrot Inti Hernandez Judith van IJken Saskia Noor van Imhoff Job Koelewijn Bas Kosters Matthew Monahan Tadaaki Narita Ernesto Neto Constant Nieuwenhuys Erik Odijk Eva Pel Sara Rajaei Tomas Saraceno Frederik van Simaey Sarah van Sonsbeeck Berend Strik Sam Taylor Wood Jennifer Tee Tom Tlalim Remco Torenbosch Koen Vanmechelen Helen Verhoeven Jasmijn Visser Robin Waart Thijs de Zeeuw
+IMAGES: 1239037_576582475722534_1345337007_n-390x292.jpg, 13925031_1193350137379095_635272179268884084_n-390x144.png, Buiten-390x293.jpg, DSC08179-390x259.jpg, DSC08836-390x389.jpg, IMG_0072-390x292.jpg, Invitation-Stella-Amsterdam-390x278.jpg, Jan-Schaper.lijnbaanjeug-390x278.jpg, Joyce-Vlaming.jpg, Screen-Shot-2013-12-02-at-9.21.48-AM1-390x361.png, Timm-Rautert-390x256.jpg, uburoi21-390x281.gif, website-16-390x260.jpg, website-17-390x260.jpg, 10262154_728777113836402_7374365921598646395_n-390x259.jpg, 10733928_828789867168459_2411821154122716069_o-390x260.jpg, 20130620_BABANOVA_Return_to_Adriaport_Professor_Zlabek-390x312.jpg, DSC03732-390x259.jpg, DSC2306-390x259.jpg, DSCF1850-Version-21-390x260.jpg
+
+==================== nl_nieuwsbrief
+TITLE: Nieuwsbrief | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/07/Schermafbeelding-2019-07-10-om-11.21.52.png']
+# Nieuwsbrief
+Via onze nieuwsbrief brengen wij geïnteresseerden op de hoogte van onze kunstagenda en andere activiteiten in huis.
+# Blijf op de hoogte!
+//
+# Eerder
+## Laatste editie
+[Nieuwsbrief december 2017](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/uaffvi9ru3)
+## Eerdere edities
+[Nieuwsbrief oktober 2017](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/kv8gbezynx)[Nieuwsbrief september 2017](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/fumdbo2xmk)[Nieuwsbrief mei 2017](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/ihlbi4bfwi)[Nieuwsbrief april 2017](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/lnwmqnzibh)[Nieuwsbrief maart 2017](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/9puupax80j)[](https://huize-frankendael.email-provider.nl/web/s9jpl03cra/ljhohpruwj)
+IMAGES: nieuwsbrief.png
+
+==================== nl_over
+TITLE: Over Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/01/Tuin-bloesem-bar1408-1500x1001.jpg']
+- [Over Huize Frankendael](https://huizefrankendael.nl/nl/over/)
+- [Geschiedenis](https://huizefrankendael.nl/nl/over/geschiedenis-huize-frankendael/)
+- [Werken bij Huize Frankendael](https://huizefrankendael.nl/nl/over/werken-bij-huize-frankendael/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Over Huize Frankendael
+Huize Frankendael is het laatste buitenhuis van Amsterdam. Gebouwd in de 17e eeuw, werd het huis gebruikt door notabelen om van natuur en vriendschap te genieten.
+De stad heeft het buitenhuis inmiddels omarmd, maar aan het grote genieten is weinig veranderd. Huis, tuin en keuken staan het gehele jaar dagelijks open voor de combinatie natuur, gastronomie en cultuur.
+## [Restaurant Merkelbach](http://www.restaurantmerkelbach.nl)
+[Restaurant Merkelbach](http://www.restaurantmerkelbach.nl) draagt de naam van de stadsbouwmeester Ben Merkelbach en bevindt zich in het koetshuis van het 18e eeuwse Huize Frankendael. Onze keuken is nauw verbonden met [Slow Food](http://www.slowfood.com/). In de stijltuin, waar wij ons terras hebben, beleef je de seizoenen in de stad.
+[Je kunt hier reserveren voor restaurant Merkelbach](https://www.seatme.nl/srm/availabletimes.htm?rid=228&time=1170&date=20140522&person=2&lang=nl&af=66)
+## [Partijen](https://huizefrankendael.nl/nl/feestelijk/algemeen/) en [vergaderingen](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+Naast het restaurant zijn er in Huize Frankendael prachtige ruimtes:
+- de [salons](https://huizefrankendael.nl/nl/fotos/#salons)
+- het [koetshuis](https://huizefrankendael.nl/nl/fotos/#koetshuis)
+- de [boardrooms](https://huizefrankendael.nl/nl/fotos/#boardroom)
+Deze ruimtes zijn beschikbaar voor groepen van 2 tot 300 personen voor o.a. vergaderingen, condoleances en private dining. Daarnaast is Huize Frankendael een officiële trouwlocatie. De keuken van restaurant Merkelbach verzorgt de culinaire invulling voor deze gelegenheden, met bereidingen volgens [onze filosofie](http://www.restaurantmerkelbach.nl/keuken).
+
+==================== nl_over_geschiedenis-huize-frankendael
+TITLE: Geschiedenis Huize Frankendael | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/02/Gildemeesters-1500x1217.jpg']
+- [Over Huize Frankendael](https://huizefrankendael.nl/nl/over/)
+- [Geschiedenis](https://huizefrankendael.nl/nl/over/geschiedenis-huize-frankendael/)
+- [Werken bij Huize Frankendael](https://huizefrankendael.nl/nl/over/werken-bij-huize-frankendael/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Geschiedenis van Huize Frankendael
+Huis Frankendael | Edwin van Els
+## Een buitenplaats in Amsterdam
+De stichting van het buiten dat wij nu kennen als Frankendael heeft waarschijnlijk niet lang na de droogmaking van de Watergraafsmeer (1628-1629) plaatsgevonden. In 1631 werden in de droogmakerij de eerste percelen voor ontwikkeling uitgegeven, maar 20 jaar later vond er een overstroming plaats en moest de Meer opnieuw worden drooggemalen. Nicolaas van Liebergen stichtte na die tweede drooglegging in 1660 op de hoek van de Middenweg en de Grote Tochtsloot een hofstede die bestond uit een symmetrisch gebouwd huis met bijpassende tuin met loofwerken en een moestuin. Maar in 1672 kwam de Meer opnieuw blank te staan: op last van de Vroedschap werd de droogmakerij onder water gezet om het naderende Franse leger tegen te houden.
+Kaart Amsterdam, 1770 | Jan Mol
+De Watergraafsmeer, 1719 | Pieter van den Berge
+Toen Izaak Balde in 1695 eigenaar werd bestond de hofstede uit een ‘huysinge, bepotinge, beplantinge en verder getimmerte’. Hij gaf de buitenplaats de naam Frankendael, naar het protestantse toevluchtsoord Frankenthal van zijn grootvader in de Palts bij Worms. Hij breidde het landgoed uit en gaf het huis omstreeks 1733 het huidige aanzien: een hoog corps-de-logis waar aan weerszijden lagere koetshuizen en stallen op aansluiten. Het huis werd gedecoreerd met versieringen in Hollandse Lodewijk XV-stijl, met krulwerk, festoenen en rocaillemotieven. Aan de achterzijde ontstond een uitbouw die goed uitzicht bood op de siertuin, die ooit weelderig was aangelegd met in vorm gesnoeide struiken, gekleurde schelpen en veelsoortige bloemen. Sindsdien is de omgeving van het huis nog vele keren op de schop gegaan.
+## Originele elementen in het interieur
+Hoewel er in de tuin veel veranderde, is in het interieur de achttiende-eeuwse indeling en afwerking met stucwerk en betimmeringen nog grotendeels aanwezig. Op de hoofdverdieping zijn alle oorspronkelijke houten vouwblinden met bijbehorende luikkasten nog aanwezig. De voordeur geeft toegang tot een gang in de middenas van het huis. Links, rechts en aan het uiteinde van de gang komen drie dubbele deuren met spiegelboogvormig lijstwerk op de gang uit. De wanden en het plafond zijn er wit gestuct en voorzien van ornamenten met eenvoudige motieven in Hollandse Lodewijk XIV-stijl, Deze gedetailleerde verfijning dateert uit de bouwtijd (circa 1733), vermoedelijk ten tijde van en in opdracht van Izaak Balde. Aan het uiteinde van de gang bevindt zich de uitgebouwde tuinkamer. In het souterrain is de balklaag in het zicht en bleven een keukenschouw en een vliegenkast uit de tijd van de grote verbouwing van Izaak Balde bewaard.
+## Van buitenplaats tot kwekerij
+Sinds de vroege negentiende eeuw werd Frankendael permanent bewoond. In 1866 werd het huis eigendom van de Koninklijke Nederlandsche Tuinbouw Maatschappij Linnaeus die het huis in gebruik nam als kantoor, eetzaal en boekerij. De gemeente bracht er in 1882 de kantoren en de tuinbouwschool van de Stadskwekerij in onder, waarna het in 1894 werd bestemd tot woning van het hoofd Gemeentebeplantingen.
+## Sporen van de laatste bewoners
+In 1957 werd Frankendael door de gemeente als ambtswoning aan de stadsarchitect Ben Merkelbach aangeboden. Zijn nazaten woonden en werkten tot 2004 in het pand. De sporen die al deze achtereenvolgende gebruikers in het huis hebben achtergelaten verlenen het een extra cultuurhistorische dimensie.Zo herinnert op de hoofdverdieping een wandmozaï­ek dat werd ontworpen door beeldend kunstenaar en illustrator Noni Lichtveld (dochter van de schrijver Albert Helman, pseudoniem van Lou Lichtveld) aan de laatste bewoningsfase. Het mozaïek is geplaatst in een eenvoudige moderne keuken die in 1957 werd aangebracht. Het ontwerp voor de keuken maakte de toenmalige bewoner, stadsarchitect Ben Merkelbach, zelf. Het bewaard gebleven mozaïek toont voorwerpen en figuren uit het huis Keizersgracht 574, waar de familie Merkelbach-Lichtveld tot 1957 woonde. Het huis aan de Keizersgracht was ook het ouderlijk huis van Merkelbachs vriend en voormalig compagnon Ch.J.F. Karsten.
+## Tuin- en parkaanleg in vogelvlucht
+Toegangspoort | Bureau Monumenten & Archeologie
+## Beelden en poort
+De huidige aanleg van de tuin en het park van Frankendael laat verschillende fasen van gebruik zien. Waarschijnlijk onder Izaak Balde ontstond de rechthoekige, door boomsingels omgrachte huisplaats. In 1770 werd aan de voorzijde langs de Middenweg de marmeren beeldengroep met stroomgoden Neptunus, Amphitrite, Arion en schelpvormig bassin geplaatst. Het is gesigneerd ‘I(gnatius) van Logteren, 1714’ en was afkomstig van de buitenplaats Driemond bij Weesp. Op het voorterrein staan vier beelden van omstreeks 1700, die waarschijnlijk ook door Jan Gildemeester, eigenaar vanaf 1759, werden geplaatst. Een manshoog beeld op een vierkante pedestal toont Ceres met een korenschoof en een kroon van korenaren. Een ander beeld stelt Bacchus voor die een kroon van druivenranken draagt en in de linkerhand een bokaal gevuld met druiven houdt. Het derde beeld is dat van Koning David met kroon en harp, het vierde is een kop van een negroïde jongen die vermoedelijk als voetstuk van een vaas dienst deed.
+In 1783 plaatste men de classicistische houten poort naar een ontwerp van Jacob Otten Husly (1738-1796), architect van Felix Meritis. De opdracht voor de poort gaf Jan Gildemeester Janszoon, die Frankendael sinds 1779 bewoonde. Zijn wapen (een gebogen, geharnaste arm met in de hand een doodsbeen) is aan de achterzijde van de poort aangebracht, net als in het middenpaneel van de dakbalustrade van het huis zelf. Het hek en de vleugelstukken worden geflankeerd door houten pijlers met blokmotief. De gecanneleerde pijlers met Ionische kapitelen dragen houten pijnappels op consoles.
+## Permanente bewoning
+Toch was het landgoed omstreeks 1800 meer dan alleen maar lusthof. De toenmalige eigenaar Anthony Dull was de eerste bewonder die van Frankendael zijn permanente woonhuis maakte, waardoor het karakter van de buitenplaats veranderde. De tuin wordt dan omschreven als ‘stalling, koetshuis, schuitenhuis, koepels, losse beelden op hun Termen, tuinbouwge­reedschappen, raamen voor percikken, druivenkassen, lessenaars, huis- en tuingereedschap­pen, wagens, karren, schuiten, pramen, beneevens het op de plaats zijnde gedierte, dertien morgen weyland en acht morgen hoo­­­­yland.’
+Dull breidde het grondgebied van Frankendael flink uit door de belendende buitenplaatsen aan te kopen.
+## Hermitage
+Dull voegde aan het begin van de negentiende eeuw ook de bakstenen hermitage of kluizenaarshut met zijn geconstrueerde landschap toe. Langs de landschappelijke waterpartij kon de wandelaar ronddwalen en zich romantisch in een andere wereld wanen.
+Een hermitage of kluizenaarshut was een geliefd object in een landschappelijk aangelegde tuin. Tegenwoordig zijn dergelijke objecten bekend onder de verzamelnaam ‘folly’, maar ze zijn minder dwaas bedoeld dan ze nu op ons overkomen. In de veilige omgeving van het eigen landgoed werd een stukje natuurlijk ogend landschap met bossages, kronkelwegen en watertjes aangelegd. Daar kon de wandelaar zich in de natuur wanen, zich ontspannen en door de afwisseling van dit decor, met gebouwtjes die herinnerden aan voorbije tijden, zijn persoonlijke gedachten de vrije loop laten.
+## Van theetuin tot kwekerij
+Vanaf 1835 werd het park gedeeltelijk opengesteld voor ­‘het beschaafde publiek’. In korte tijd groeide Frankendael uit tot een veel bezochte plezier- en ‘theetuin’ die onder Amsterdam­mers zeer geliefde was. De theetuin werd in 1866 weer gesloten door de nieuwe eigenaar, de Koninklijke Nederlandsche Tuinbouw Maatschappij Linnaeus, die het park tot boomkwekerij inrichtte en het huis inrichtte met een kantoor, eetzaal en boekerij. In 1882 werd het terrein van Frankendael Stadskwekerij.
+Op verschillende delen van Frankendael werden in de Tweede Wereldoorlog bouwfragmenten opgesla­gen, onder meer van de Nieuwezijdskapel in Amsterdam, van de gevel ‘Het Moortje’ aan de Herengracht 126, lijsten en andere ornamenten van het Oudezijds Herenlogement, de boogvullingen van de kloostergang te Utrecht, stukken van de Kalkhaven te Gorinchem en gewel­fribben van de abdij te Middelburg.
+Achtergevel | Bureau Monumenten & Archeolgie
+## Tuin en park nu
+Van de vier singels met linden die de rechthoekige huisplaats oorspronkelijk begrensden bleven grote delen intact, terwijl andere delen door de verwerving van de naastgelegen buitenplaatsen werden vergraven. Vanaf de late achttiende eeuw kwam in fasen een landschappelijke aanleg tot stand, met grillige wandelpaden en heuvelpartijen. Een deel daarvan bestaat nog steeds, een ander deel werd later ingericht als heemtuin – een met inheemse planten ingerichte tuin ter instructie.
+Aan het begin van de eenentwintigste eeuw besloot stadsdeel Oost/Watergraafsmeer om Frankendael weer een openbare functie te geven. Als onderdeel van de herontwikkeling van Frankendael is in de jaren 2003-2004 in opdracht van het stadsdeel de huisplaats voor het huis opgeschoond. Achter het huis werd een quasi achttiende-eeuwse, symmetrische tuin aangelegd, met karakteristieke bloemperken, lage buxushagen en parterres. Bij graafwerkzaamheden in augustus 2003 vlak achter het koetshuis stuitte men bij toeval op metselwerk. Omdat er onduidelijkheid bestond over de herkomst en datering van het muurwerk werd in overleg met alle betrokken partijen besloten tot een noodonderzoek door de archeologen van Bureau Monumenten & Archeologie.
+Het muurwerk maakte onderdeel uit van een symmetrisch gebouwtje van circa 15 x 7 meter met een opvallende plattegrond, dat vlak onder het maaiveld lag. Het oude vloerniveau lag circa 60 cm onder het huidige maaiveld. De vloeren van de verschillende ruimten aan de zuidoostzijde van het gebouw waren oorspronkelijk met plavuizen betegeld. Tegen de zuidmuur was een waterkelder gebouwd.
+Het formaat van de bakstenen, het gebruik van metselkalk, de soort plavuizen en het type waterkelder wijzen op een achttiende-eeuwse datering. De bakstenen zijn identiek aan de soort die is gebruikt bij de uitbreiding van het hoofdpand in 1720-1747. Na de sloop van het gebouwtje werd de onderbouw aangevuld met een pakket humeuze aarde. Deze egalisatielaag bevatte scherfmateriaal waarvan de meest recente dateren uit het eerste kwart van de negentiende eeuw.
+Uit het archeologisch onderzoek kan worden geconcludeerd dat de resten toebehoren aan een plantenkas of oranjerie uit de achttiende eeuw, die omstreeks 1820-1830 werd gesloopt. Omdat de fundering licht is, kan het gebouwtje niet volledig van baksteen zijn geweest. Een houten opbouw, waarschijnlijk voorzien van glas, ligt daarom meer voor de hand. Door het vele glas werd zoveel mogelijk zonlicht en warmte in de oranjerie gewaarborgd.
+Een foto uit 1873 uit de collectie van de laatste bewoonster toont een gebouwtje dat qua vorm op het opgegraven grondplan past. Het onderschrift van de foto luidt: ‘Frankendael theekoepel (voormalige Oranjerie)’. De foto toont de gebogen entree van de oranjerie. Gelet op de hoge bomen die vlak achter het gebouwtje staan is de foto niet op de originele locatie genomen, de kas zou dan immers in de schaduw hebben staan.
+Een plattegrond van Frankendael uit 1883 werpt meer licht op de zaak. Aan de noordzijde van het landgoed, verwijderd van de originele plek achter het huis, zijn de contouren van de oranjerie herkenbaar, hier echter in gebruik als volière. Een mogelijk verklaring is dat de achttiende-eeuwse opbouw van de oranjerie is verplaatst toen Frankendael in 1835 werd ingericht als theetuin. De bakstenen onderbouw van de oude oranjerie werd toen vervolgens aangevuld en verdween tot zeer recent uit het zicht.
+Nadat het archeologisch onderzoek afgerond was zijn de resten van de oranjerie opnieuw onder de groene zoden verdwenen. De opgraving heeft een stuk geschiedenis van Amsterdams laatste buitenplaats permanent blootgelegd.
+## Literatuur
+- J.T.P. Bijhouwer, Nederlandsche tuinen en buitenplaatsen, Amsterdam 1942, p. 122-124
+- A. Duisenberg, J. Otten Husly (1738-1796). Avant-garde architect tijdens de Verlichting [Bibliografieën en oeuvrelijsten van Nederlandse architecten en stedebouwkundigen, BO­NAS] Rotterdam 1998, p. 95
+- P. M. Fischer, Ignatius en Jan van Logteren. Beeldhouwers en stuckunstenaars in het Amsterdam van de 18de eeuw, Alphen aan den Rijn 2005
+- A. Hendriksen, Watergraafsmeer, binnenzee, polder, lustoord, stadsdeel, Amsterdam 1998
+- B. Rebel e.a., Ben Merkelbach. Architect en stadsbouwmeester, Amsterdam 1994
+- Open Monumentendag Amsterdam 2003
+
+==================== nl_over_werken-bij-huize-frankendael
+TITLE: Werken bij Huize Frankendael | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/02/Koetshuis-diner-4-1500x1000.jpg']
+- [Over Huize Frankendael](https://huizefrankendael.nl/nl/over/)
+- [Geschiedenis](https://huizefrankendael.nl/nl/over/geschiedenis-huize-frankendael/)
+- [Werken bij Huize Frankendael](https://huizefrankendael.nl/nl/over/werken-bij-huize-frankendael/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Werken bij Huize Frankendael
+### Stagiaire Operationele event manager
+[Bekijk de volledige vacature](https://huizefrankendael.nl/wp-content/uploads/2018/08/Vacature-Stagiaire-Huize-Frankendael.pdf)
+Reacties met CV graag naar: [info@huizefrankendael.nl](https://huizefrankendael.nl/nl/restaurant/werken-bij-merkelbach/) t.a.v. Bodo Groen
+
+==================== nl_over_werken-bij-huize-frankendael_vacature-bedieningsmedewerker
+TITLE: Vacature Bedieningsmedewerker | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2019/02/Koetshuis-diner-4-1500x1000.jpg']
+- [Over Huize Frankendael](https://huizefrankendael.nl/nl/over/)
+- [Geschiedenis](https://huizefrankendael.nl/nl/over/geschiedenis-huize-frankendael/)
+- [Werken bij Huize Frankendael](https://huizefrankendael.nl/nl/over/werken-bij-huize-frankendael/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+IMAGES: Vacature-Bedieningsmedewerker-390x552.png
+
+==================== nl_thuis_contact
+TITLE: Contactgegevens en openingstijden - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/algemeen-routeparkeren.jpg']
+## Contact
+Ons restaurant is elke dag open voor koffie & taart, á la carte lunch en een borrel.
+Reserveringen voor de lunch, graag online
+Het is mogelijk om een privé-diner (vanaf 15 personen) te organiseren in ons huis. Informatie hierover kunt u per mail opvragen: info@huizefrankendael.nl
+Voor vragen met betrekking tot vergaderruimtes, en/of andere groepsaanvragen, kunt u (bij voorkeur) mailen naar: info@huizefrankendael.nl of [020 – 423 39 30 (ma t/m vr van 9-17 uur)](tel:020 423 39 30)
+## Adresgegevens
+Huize Frankendael Middenweg 72 1097 BS Amsterdam
+## Openingstijden
+Maandag 8.30-18 uur Dinsdag 8.30-18 uur Woensdag 8.30-18 uur Donderdag 8.30-18 uur Vrijdag 8.30-18 uur Zaterdag 8.30-18 uur Zondag 9.00-18 uur
+## Aangepaste openingstijden
+In de maanden mei t/m september hebben wij tijdens de weekenden veel huwelijken in huis. Op deze dagen zijn onze lunchtijden vaak aangepast. Ons online reserveringssysteem geeft automatisch aan als het niet mogelijk is om te lunchen.
+## Bruidsreportage
+Gezien wij dagelijks verschillende groepen in huis hebben, is dit helaas niet mogelijk. Tenzij u bij ons trouwt, dan kan dit uiteraard wel.
+## Route
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+## Wegwerkzaamheden Amsterdam Oost
+Houdt u rekening met wegwerkzaamheden aan de Middenweg en Linnaeusstraat. Huize Frankendael is per auto te bereiken en u kunt voor het huis aan de straat parkeren. Voor meer informatie en bereikbaarheid, zie de website van [Gemeente Amsterdam.](https://www.amsterdam.nl/verkeer-vervoer/wegwerkzaamheden/)
+## Parkeren
+In de parkeergarage van de VOMAR, schuin tegenover Huize Frankendael kun je veilig en overdekt parkeren (€ 6,00 p/u). Deze is ondanks de werkzaamheden in Amsterdam Oost wel bereikbaar.
+Via deze link zijn actuele parkeerprijzen in de omgeving te zien: [https://www.amsterdam.nl/parkeren/](https://www.amsterdam.nl/parkeren/)
+Er is voldoende betaalde parkeergelegenheid in de directe omgeving. Dit is betaald parkeren van maandag t/m zaterdag van 09:00 tot 21:00 uur voor € 3,90 p/u op de Hugo de Vrieslaan, en voor € 5,00 p/u op de Middenweg. Op zondag is parkeren gratis. Actuele informatie betreft P+R’s in Amsterdam is te vinden op: [https://www.amsterdam.nl/parkeren/parkeren-reizen/](https://www.amsterdam.nl/parkeren/parkeren-reizen/)
+Bekijk de [uitgebreide routebeschrijving](https://huizefrankendael.nl/nl/thuis/contact/route-parkeren/).
+## Groepen en Partijen
+Voor vragen met betrekking tot het organiseren van partijen kunt u ons mailen via info@huizefrankendael.nl
+## Reserveren Restaurant Merkelbach
+Bij voorkeur online
+## Team
+Voor vragen en opmerkingen staan wij open, [neem gerust contact met ons op](https://huizefrankendael.nl/nl/over/ons-team/)
+## Werken bij Huize Frankendael
+[Bekijk onze vacatures](https://huizefrankendael.nl/nl/over/werken-bij-huize-frankendael/). (function(i,s,o,g,r,a,m){i[‘GoogleAnalyticsObject’]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,’script’,’https://www.google-analytics.com/analytics.js’,’ga’); ga(‘create’, ‘UA-24607675-1’, ‘auto’); ga(‘send’, ‘pageview’);
+## Instagram & Facebook
+Ga naar Instagram > Ga naar Facebook >
+
+==================== nl_thuis_contact_route-parkeren
+TITLE: Route & parkeren | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/algemeen-routeparkeren.jpg']
+# Route & parkeren
+Middenweg 72 1097 BS Amsterdam
+Bekijk de locatie op [Google Maps](http://maps.google.com/maps?f=q&hl=nl&geocode=&q=Middenweg+72,+amsterdam&sll=37.0625,-95.677068&sspn=51.708931,79.101563&ie=UTF8&z=16&iwloc=addr)
+## Parkeren
+In de parkeergarage van de VOMAR, schuin tegenover Huize Frankendael kunt u veilig en overdekt betaald parkeren. Er is ook voldoende parkeergelegenheid langs de Middenweg en Hugo de Vrieslaan. Dit is betaald parkeren van maandag t/m zaterdag van 09:00 tot 21:00 uur. Op zondag is parkeren gratis.
+## Openbaar Vervoer
+Huize Frankendael ligt in de Watergraafsmeer in Amsterdam-Oost en is goed bereikbaar per openbaar vervoer. Het openbaar vervoer biedt diverse mogelijkheden: 1. Vanaf Amsterdam Muiderpoort met stadsbus 41 (richting Holendrecht), halte Hugo de Vrieslaan 2. Vanaf station Amsterdam Amstel met: – stadsbus 46 (richting Amsterdam Bijlmer), halte Middenweg – stadsbus 40 (richting Muiderpoortstation), halte Kruislaan – streekbus 320 (richting Hilversum), halte Middenweg – streekbus 322 (richting Almere Parkwijk), halte Middenweg – streekbus 327 (richting Almere Haven), halte Middenweg
+## Auto
+### Vanuit richting Den Haag
+Via de A4 richting Amsterdam. Voeg bij Amsterdam in op de A10 ringweg zuid. Neem de afslag s113-Watergraafsmeer richting Diemen. Ga rechtdoor (borden naar s113) en sla linksaf bij Middenweg/s113. Café Restaurant Merkelbach ligt na 1,7 km op de Middenweg 72, naast Restaurant De Kas.
+### Vanuit richting Amersfoort
+Via de A1/E231 richting Amsterdam. Neem bij Amsterdam de afslag A10/E35 richting Ring Amsterdam (oost). Neem afslag s113-Watergraafsmeer richting Diemen. Ga rechtdoor (borden s113) en sla rechtsaf bij Middenweg/s113. Café Restaurant Merkelbach ligt na 1,7 km op de Middenweg 72, naast Restaurant De Kas.
+### Vanuit richting Utrecht
+Via de A2/E35 richting Amsterdam. Neem de afslag A10 richting Zaanstad. Neem de afslag s113-Watergraafsmeer richting Diemen. Ga rechtdoor (borden naar s113) en sla linksaf bij Middenweg/s113. Café Restaurant Merkelbach ligt na 1,7 km op de Middenweg 72, naast Restaurant De Kas.
+### Vanuit richting Alkmaar
+Via de A9 richting Amsterdam. Neem de afslag E19/A4 richting Amsterdam. Voeg in op de A10.Neem afslag s113-Watergraafsmeer richting Diemen. Ga rechtdoor (borden s113) en sla linksaf bij Middenweg/s113. Café Restaurant Merkelbach ligt na 1,7 km op de Middenweg 72, naast Restaurant De Kas.
+
+==================== nl_zakelijk
+TITLE: Zakelijke bijeenkomsten - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/Boardroom-1-1500x860.jpg']
+- [Zakelijk](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/zakelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Zakelijk
+Huize Frankendael staat open voor zakelijke bijeenkomsten van 2 tot 300 personen. De 18e eeuwse [salons](https://huizefrankendael.nl/nl/zakelijk/ruimtes/) en 19e eeuwse [kamers](https://huizefrankendael.nl/nl/zakelijk/ruimtes/) in het huis vormen een statige plek voor een besloten diner, training, netwerk event of vergadering. Ook het [koetshuis](https://huizefrankendael.nl/nl/zakelijk/ruimtes/) vormt een inspirerende setting voor workshops en heidagen. Met mooi weer zorgt onze stijltuin voor een ontspannen omgeving tijdens pauzes en break-out sessies.
+## Maatwerk
+Huize Frankendael levert graag maatwerk. Daarom luisteren we graag naar je wensen en zorgt ons team ervoor dat je je thuis voelt. Alle vertrekken op Huize Frankendael zijn voorzien van gratis wifi. Beamers, schermen en flip-overs kunnen in overleg voor je klaar gezet worden. Mail naar [info@huizefrankendael.nl](mailto:info@huizefrankendael.nl) voor meer informatie.
+## Slow Food Gastronomie
+[Restaurant Merkelbach](http://restaurantmerkelbach.nl/) serveert in elke ruimte ontbijt, lunch, borrel of diner op topniveau en met inachtneming van de [Slow Food filosofie](http://www.restaurantmerkelbach.nl/keuken) van de keuken.
+
+==================== nl_zakelijk_ruimtes
+TITLE: Zakelijke ruimtes - Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Frankendael_Foundation_Amsterdam_Reyn_van_der_Lugt_collection-4749.jpg']
+- [Zakelijk](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/zakelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Ruimtes
+## Boardroom
+De boardroom bevindt zich op de tweede verdieping van het huis, is modern ingericht en uitermate geschikt als vergaderruimte. Deze kamer geeft aan de ene kant uitzicht over de klassieke stijltuin en aan de andere kant over de stad. Geïntegreerd in de ruimte vind je een groot projectiescherm. Daarnaast bevinden zich op dezelfde verdieping twee break-out ruimtes. [Foto impressie](https://huizefrankendael.nl/nl/fotos/#boardroom)
+## Salons
+De salons op de bel-etage geven uitzicht op de omringende tuinen. De grote salon heeft een haard die afkomstig is uit de burgemeesterswoning. Het plafond is gedecoreerd met het vroegste rococo stucwerk in Nederland. De salons bieden zowel een voornaam als sfeervol verblijf voor bijeenkomsten die bijzonder mogen heten. Menig vergadering en prive diner zijn georganiseerd in deze ruimtes. [Foto impressie](https://huizefrankendael.nl/nl/fotos/#salons)
+## Tuinkamer
+De tuinkamer op de bel-etage is in de 18e eeuw aangebouwd en ziet via drie ramen rondom uit over de stijltuin. Een unieke en inspirerende ruimte voor een besloten vergadering of diner. De tuinkamer wordt ook gebruikt als break-out ruimte. [Foto impressie](https://huizefrankendael.nl/nl/fotos/#salons)
+## Koetshuis
+Het koetshuis lijkt nog het meest op een sfeervolle boerenstal middenin de stad. De mogelijkheden zijn hier talrijk. Met een mobiele bar kun je zowel binnen- als buiten terecht. Het te overdekken terras naast het koetshuis hoort exclusief bij de ruimte. [Foto impressie](https://huizefrankendael.nl/nl/fotos/#koetshuis)
+
+==================== nl_zakelijk_ruimtes_boardroom
+TITLE: Boardroom | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2015/02/Tuin-bar1402-1500x1001.jpeg']
+- [Zakelijk](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/zakelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Boardroom
+IMAGES: IMG_3271-390x260.jpg, Boardroom-1-390x224.jpg, Boardroom-detail-390x585.jpg
+
+==================== nl_zakelijk_ruimtes_koetshuis
+TITLE: Koetshuis | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/04/Koetshuis-22-1500x1000.jpg']
+- [Zakelijk](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/zakelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Koetshuis
+IMAGES: Koetshuis-19-390x258.jpg, Koetshuis-22-390x260.jpg, Koetshuis-4-390x295.jpg, Koetshuis-6-390x261.jpg, Merkelbach_bar9362-390x260.jpg, koetshuis-diner-detail-2-plumtreewedding-390x260.jpg
+
+==================== nl_zakelijk_ruimtes_salons
+TITLE: Salons | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/feestelijk-contact.jpg']
+- [Zakelijk](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/zakelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Salons
+IMAGES: Grote-Salon-gedekt-390x340.jpg, Grote-salon-gedekte-tafels-bar9418-390x260.jpg, Grote-salon-tafeldekken-390x585.jpg
+
+==================== nl_zakelijk_ruimtes_tuinkamer
+TITLE: Tuinkamer | Huize Frankendael
+SLIDES: ['https://huizefrankendael.nl/wp-content/uploads/2011/07/zakelijk-faciliteiten.jpg']
+- [Zakelijk](https://huizefrankendael.nl/nl/zakelijk/algemeen/)
+- [Ruimtes](https://huizefrankendael.nl/nl/zakelijk/ruimtes/)
+- [Foto’s](https://huizefrankendael.nl/nl/fotos/)
+- [Contact](https://huizefrankendael.nl/nl/thuis/contact/)
+# Tuinkamer
+IMAGES: Kleine-Boardroom-1-390x586.jpg, Tuinkamer-met-uitzicht-390x293.jpg
